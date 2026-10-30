@@ -12,12 +12,13 @@ How does a phone that's 5.2 millimeters thick fold in half? We take the iPhone D
 
 Chapters
 0:00 The fold
-1:24 The hinge
-3:17 The screen
-5:03 Two batteries
-6:08 The brains
-7:26 Cameras
-8:31 The verdict
+2:03 The hinge
+5:11 The screen
+7:47 Two batteries
+9:22 The brains
+11:32 Cameras
+13:22 Sound and touch
+14:18 Outro
 
 Sources: Apple's specifications and engineering interviews, and iFixit's iPhone Duo teardown (ifixit.com). The 3D models are our own reconstructions; some internal dimensions are estimates.
 

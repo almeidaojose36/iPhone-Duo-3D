@@ -27,7 +27,7 @@ The same list is saved in `full/youtube_chapters.txt`.
 | Chapter projects (HyperFrames 0.8.193) | `video/duo/c1` … `c8` (`assets/js/shots.js`, `cues.py`, `assets/vo/`) |
 | Shared JS | `video/duo/shared/js/` (`duo.js`, `microduo.js`, `overlays.js`). The engine and `fx.js` are symlinked from `video/pilot` |
 | Notes from the reference review | `video/duo/reference_review_takeaways.md` |
-| Publishing notes | `video/duo/publishing.md` (its chapter list is out of date) |
+| Publishing notes | `video/duo/publishing.md` |
 
 ## Pipeline
 1. **Build a model:** `node tools/build-model.mjs models/<Name>/model.js`. The Star White model is a copy of `iPhone_Duo/model.js` with the `FINISH` constant and the title changed.
@@ -59,8 +59,7 @@ The same list is saved in `full/youtube_chapters.txt`.
 - The inner display has ultra-thin glass layers above and below the OLED.
 
 ## Still to do
-1. Update the chapter list in `publishing.md` to match the list above.
-2. Make the 4K60 masters. This needs 6–8 GB or more of free space.
-3. Cut the Shorts.
-4. Make the thumbnail. **Ask the user about branding taste first.** The user makes logos and banners themselves; give them prompts.
-5. Optional: a Cycles thumbnail or hero shot in Blender, after the chapters are locked.
+1. Make the 4K60 masters. This needs 6–8 GB or more of free space.
+2. Cut the Shorts.
+3. Make the thumbnail. **Ask the user about branding taste first.** The user makes logos and banners themselves; give them prompts.
+4. Optional: a Cycles thumbnail or hero shot in Blender, after the chapters are locked.

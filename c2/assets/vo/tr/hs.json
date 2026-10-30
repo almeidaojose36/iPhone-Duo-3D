@@ -1,0 +1,618 @@
+{
+  "text": "As a whole, the hinge splits into six jobs, hinges that let each side rotate, springs and cams that hold it, gears that keep both sides in step, and a channel in the middle for the cables. Most of it is mirrored top and bottom.",
+  "sentences": [
+    {
+      "text": " As a whole, the hinge splits into six jobs, hinges that let each side rotate, springs and cams that hold it, gears that keep both sides in step, and a channel in the middle for the cables.",
+      "start": 0.0,
+      "end": 12.8,
+      "duration": 12.8,
+      "confidence": 0.996,
+      "tokens": [
+        {
+          "text": " As",
+          "start": 0.0,
+          "end": 0.24,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " a",
+          "start": 0.24,
+          "end": 0.32,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": " wh",
+          "start": 0.32,
+          "end": 0.48,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ole",
+          "start": 0.48,
+          "end": 0.56,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": ",",
+          "start": 0.56,
+          "end": 0.64,
+          "duration": 0.08,
+          "confidence": 0.932
+        },
+        {
+          "text": " the",
+          "start": 0.64,
+          "end": 0.88,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " h",
+          "start": 0.88,
+          "end": 0.96,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "inge",
+          "start": 0.96,
+          "end": 1.12,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " sp",
+          "start": 1.28,
+          "end": 1.36,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "l",
+          "start": 1.36,
+          "end": 1.6,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "its",
+          "start": 1.6,
+          "end": 1.68,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": " into",
+          "start": 1.68,
+          "end": 1.92,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " si",
+          "start": 1.92,
+          "end": 2.0,
+          "duration": 0.08,
+          "confidence": 0.998
+        },
+        {
+          "text": "x",
+          "start": 2.0,
+          "end": 2.24,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " j",
+          "start": 2.24,
+          "end": 2.48,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "ob",
+          "start": 2.48,
+          "end": 2.64,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "s",
+          "start": 2.64,
+          "end": 2.88,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": ",",
+          "start": 2.88,
+          "end": 3.12,
+          "duration": 0.24,
+          "confidence": 0.859
+        },
+        {
+          "text": " h",
+          "start": 3.12,
+          "end": 3.28,
+          "duration": 0.16,
+          "confidence": 0.999
+        },
+        {
+          "text": "ing",
+          "start": 3.28,
+          "end": 3.44,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "es",
+          "start": 3.44,
+          "end": 3.68,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " that",
+          "start": 3.68,
+          "end": 3.84,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " let",
+          "start": 3.84,
+          "end": 4.08,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " e",
+          "start": 4.08,
+          "end": 4.24,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ach",
+          "start": 4.24,
+          "end": 4.4,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " s",
+          "start": 4.4,
+          "end": 4.56,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ide",
+          "start": 4.56,
+          "end": 4.8,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " ro",
+          "start": 4.8,
+          "end": 4.88,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "t",
+          "start": 4.88,
+          "end": 5.12,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "ate",
+          "start": 5.12,
+          "end": 5.28,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": ",",
+          "start": 5.28,
+          "end": 5.52,
+          "duration": 0.24,
+          "confidence": 0.998
+        },
+        {
+          "text": " spr",
+          "start": 5.52,
+          "end": 5.84,
+          "duration": 0.32,
+          "confidence": 0.999
+        },
+        {
+          "text": "ings",
+          "start": 5.84,
+          "end": 6.0,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " and",
+          "start": 6.0,
+          "end": 6.24,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " cam",
+          "start": 6.24,
+          "end": 6.56,
+          "duration": 0.32,
+          "confidence": 1.0
+        },
+        {
+          "text": "s",
+          "start": 6.56,
+          "end": 6.8,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " that",
+          "start": 6.8,
+          "end": 6.96,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " h",
+          "start": 6.96,
+          "end": 7.04,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "old",
+          "start": 7.04,
+          "end": 7.28,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " it",
+          "start": 7.28,
+          "end": 7.44,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": ",",
+          "start": 7.44,
+          "end": 7.68,
+          "duration": 0.24,
+          "confidence": 0.998
+        },
+        {
+          "text": " ge",
+          "start": 7.68,
+          "end": 8.0,
+          "duration": 0.32,
+          "confidence": 1.0
+        },
+        {
+          "text": "ars",
+          "start": 8.0,
+          "end": 8.24,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " that",
+          "start": 8.24,
+          "end": 8.4,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " ke",
+          "start": 8.4,
+          "end": 8.56,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ep",
+          "start": 8.56,
+          "end": 8.72,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " b",
+          "start": 8.72,
+          "end": 8.8,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "oth",
+          "start": 8.8,
+          "end": 9.04,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " sid",
+          "start": 9.04,
+          "end": 9.28,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "es",
+          "start": 9.28,
+          "end": 9.44,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " in",
+          "start": 9.44,
+          "end": 9.76,
+          "duration": 0.32,
+          "confidence": 0.999
+        },
+        {
+          "text": " ste",
+          "start": 9.76,
+          "end": 10.0,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "p",
+          "start": 10.0,
+          "end": 10.16,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": ",",
+          "start": 10.16,
+          "end": 10.32,
+          "duration": 0.16,
+          "confidence": 0.98
+        },
+        {
+          "text": " and",
+          "start": 10.32,
+          "end": 10.48,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " a",
+          "start": 10.48,
+          "end": 10.64,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " ch",
+          "start": 10.64,
+          "end": 10.72,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "ann",
+          "start": 10.72,
+          "end": 10.88,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "el",
+          "start": 10.88,
+          "end": 10.96,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": " in",
+          "start": 10.96,
+          "end": 11.12,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " the",
+          "start": 11.12,
+          "end": 11.2,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": " mid",
+          "start": 11.2,
+          "end": 11.36,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "d",
+          "start": 11.36,
+          "end": 11.44,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "le",
+          "start": 11.44,
+          "end": 11.52,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": " for",
+          "start": 11.52,
+          "end": 11.68,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " the",
+          "start": 11.68,
+          "end": 11.92,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " c",
+          "start": 11.92,
+          "end": 12.08,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ab",
+          "start": 12.08,
+          "end": 12.4,
+          "duration": 0.32,
+          "confidence": 1.0
+        },
+        {
+          "text": "les",
+          "start": 12.4,
+          "end": 12.56,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": ".",
+          "start": 12.56,
+          "end": 12.8,
+          "duration": 0.24,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "text": " Most of it is mirrored top and bottom.",
+      "start": 12.8,
+      "end": 15.36,
+      "duration": 2.56,
+      "confidence": 0.999,
+      "tokens": [
+        {
+          "text": " M",
+          "start": 12.8,
+          "end": 12.96,
+          "duration": 0.16,
+          "confidence": 0.999
+        },
+        {
+          "text": "ost",
+          "start": 12.96,
+          "end": 13.12,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " of",
+          "start": 13.12,
+          "end": 13.28,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " it",
+          "start": 13.28,
+          "end": 13.44,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " is",
+          "start": 13.44,
+          "end": 13.76,
+          "duration": 0.32,
+          "confidence": 1.0
+        },
+        {
+          "text": " mir",
+          "start": 13.76,
+          "end": 14.0,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "ror",
+          "start": 14.0,
+          "end": 14.16,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ed",
+          "start": 14.16,
+          "end": 14.24,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": " to",
+          "start": 14.4,
+          "end": 14.56,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "p",
+          "start": 14.56,
+          "end": 14.72,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " and",
+          "start": 14.72,
+          "end": 14.96,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " b",
+          "start": 14.96,
+          "end": 15.04,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "ott",
+          "start": 15.04,
+          "end": 15.12,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "om",
+          "start": 15.12,
+          "end": 15.28,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": ".",
+          "start": 15.28,
+          "end": 15.36,
+          "duration": 0.08,
+          "confidence": 0.992
+        }
+      ]
+    }
+  ]
+}

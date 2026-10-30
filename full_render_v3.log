@@ -1,0 +1,17 @@
+c1 rc=0 5 min free=6.3Gi
+c2 rc=0 8 min free=6.1Gi
+c3 rc=1 8 min free=6.1Gi
+c4 rc=1 5 min free=303Mi
+c5 rc=1 0 min free=256Mi
+c6 rc=1 0 min free=379Mi
+c7 rc=0 3 min free=5.7Gi
+c8 rc=0 3 min free=5.7Gi
+[h264 @ 0x12b604250] Invalid NAL unit size (15340 > 13718).
+[h264 @ 0x12b604250] missing picture in access unit with size 13722
+[concat @ 0x13b609a40] h264_mp4toannexb filter failed to receive output packet
+[in#0/concat @ 0x13b6097f0] Error during demuxing: Invalid data found when processing input
+[vost#0:0/libx264 @ 0x12b609740] Error submitting a packet to the muxer: Immediate exit requested
+    Last message repeated 1 times
+[out#0/mp4 @ 0x12b608cf0] Error muxing a packet
+[out#0/mp4 @ 0x12b608cf0] Task finished with error code: -1414092869 (Immediate exit requested)
+[out#0/mp4 @ 0x12b608cf0] Terminating thread with return code -1414092869 (Immediate exit requested)

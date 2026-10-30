@@ -1,0 +1,58 @@
+[
+ {
+  "id": "h1",
+  "text": "From the outside, all you see is a titanium spine. Inside, there are no simple pins. Instead, there's a chain of small metal joints, each rotating through a limited range, a bit like the links of a watch band."
+ },
+ {
+  "id": "hs",
+  "text": "As a whole, the hinge splits into six jobs: hinges that let each side rotate, springs and cams that hold it, gears that keep both sides in step, and a channel in the middle for the cables. Most of it is mirrored, top and bottom."
+ },
+ {
+  "id": "h2",
+  "text": "The joints ride on curved guides. These make them move as if their pivot point were inside the screen itself, so the screen doesn't stretch or bunch up as it bends."
+ },
+ {
+  "id": "h3",
+  "text": "To keep both halves moving together, the joints are linked by rows of tiny synchronization gears. Push one side, and the other side follows by exactly the same angle."
+ },
+ {
+  "id": "h4",
+  "text": "Next to the gears are springs pressing on cams. When the phone is open, the cams lock together and hold it flat. As you fold it, the cams squeeze the springs, and the friction holds the phone at any angle from about fifteen to a hundred and sixty-five degrees: half open like a tiny laptop, or standing like a tent."
+ },
+ {
+  "id": "hm",
+  "text": "And in the last few degrees, magnets in the frame take over and pull the two halves shut."
+ },
+ {
+  "id": "h5",
+  "text": "When the phone closes, the screen doesn't fold flat. It curves into a teardrop-shaped loop, tucked inside the hinge, almost four millimeters across."
+ },
+ {
+  "id": "hp",
+  "text": "Think of a sheet of paper. Fold it around a wide curve, and it opens up smooth. Press it flat, and you get a sharp crease. That's why, on a new Duo, the crease is only about forty-eight microns deep, half the thickness of a sheet of paper."
+ },
+ {
+  "id": "h6",
+  "text": "In the middle sits a support bar. With the phone open, it holds the screen up along the fold, so it feels flat under your finger. When the phone closes, it drops down to make room for that loop."
+ },
+ {
+  "id": "h7",
+  "text": "Crossing the gap is a cable folded like an accordion. It carries power and data between the two halves, and it flexes every single time you open the phone."
+ },
+ {
+  "id": "he",
+  "text": "At the ends, the hinge is flat, under a titanium cover strong enough to take a knock, with no bumps to catch your finger. And even with all these moving parts, the phone is rated IP68 against dust and water."
+ },
+ {
+  "id": "h8",
+  "text": "The phone also knows exactly how far it's open. Foldables usually measure this with tiny magnetic sensors. A magnet in one half moves past a Hall-effect sensor in the other. Its magnetic field pushes the electrons flowing through the sensor to one side, and that creates a small voltage that changes with the angle."
+ },
+ {
+  "id": "h9",
+  "text": "Apps can read that angle live. And the A20 Pro has a second display engine, so it can drive the inner and outer screens at the same time, and hand the picture from one to the other as you open the phone."
+ },
+ {
+  "id": "h10",
+  "text": "Next, the screen that bends over all of this."
+ }
+]

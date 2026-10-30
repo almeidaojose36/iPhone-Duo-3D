@@ -1,0 +1,69 @@
+== c1
+  o1: This phone is 5.2 millimeters thick, thinner than any iPhone before it, and it folds in half.
+  o2: Inside there's a hinge with more than a hundred parts, a screen built from more than ten layers and not one battery but two. So let's take it apart. Every part, every layer, all the way down to the atoms.
+  f1: This is the iPhone Duo. Closed, it's a phone you can hold in one hand. Open it, and it becomes a 7.6 inch screen, the largest display ever put in an iPhone.
+  f2: To fold, the phone is split into two halves, each just over 5 mm thick, wrapped in a titanium frame. Everything a normal phone carries has to fit inside that space.
+  f3: Each half has its own battery. The rear cameras sit on one side. A 5.4 inch outer screen sits on the back of the other, and holding them together is the hinge.
+  f4: Every time you open it, dozens of parts move together in less than a second. So we'll follow that one moment through the phone. The hinge turning, the screen bending, power and heat crossing from one half to the other, and the phone waking up. It starts with the hinge.
+== c2
+  h1: From the outside, all you see is a titanium spine. Inside there are no simple pins. Instead, there's a chain of small metal joints, each rotating through a limited range, a bit like the links of a watch band.
+  h2: The joints ride on curved guides. These make them move as if their pivot point were inside the screen itself, so the screen doesn't stretch or bunch up as it bends.
+  h3: To keep both halves moving together, the joints are linked by rows of tiny synchronization gears. Push one side, and the other side follows by exactly the same angle.
+  h4: Next to the gears are packs of coil springs. They take up part of the bending force and they let the phone hold its position, half open like a tiny laptop or standing like a tent.
+  h5: When the phone closes, the screen doesn't fold flat. It curves into a teardrop shaped loop tucked inside the hinge. A sharp crease would crack the display. A wide, gentle curve spreads the bending out.
+  h6: In the middle sits a support bar. With the phone open, it holds the screen up along the fold so it feels flat under your finger. When the phone closes, it drops down to make room for that loop.
+  h7: Crossing the gap is a cable folded like an accordion. It carries power and data between the two halves, and it flexes every single time you open the phone.
+  h8: The phone also knows exactly how far it's open. Foldables usually measure this with tiny magnetic sensors. A magnet in one half moves past a Hall effect sensor in the other. Its magnetic field pushes the electrons flowing through the sensor to one side, and that creates a small voltage that changes with the angle.
+  h9: Apps can read that angle live, and the i20 Pro has a second display engine, so it can drive the inner and outer screens at the same time and hand the picture from one to the other as you open the phone.
+  h10: Next the screen that bends over all of this.
+== c3
+  d1: A normal phone screen sits under hard glass. Glass like that can't fold, so the inner screen is a flexible OLED panel built from more than ten ultra-thin layers and adhesives.
+  d2: Why does thin bend more easily? When a sheet bends, its outside stretches and its inside squeezes. The thinner the sheet, the less each surface has to stretch. That's why every layer here is made as thin as possible.
+  d3: On top is a flexible polymer cover. Under a microscope, its surface is covered in tiny bumps, the nanotexture. It scatters reflections, so the screen shows less glare, and this cover can be replaced on its own.
+  d4: Below it is the touch layer, a fine metal mesh. Your finger changes the electric field between the wires and the phone works out exactly where you touched.
+  d5: Then instead of a polarizer, there are color filters, tiny colored windows over every subpixel, framed by a black grid that soaks up light from the room.
+  d6: Under them are the light sources themselves, red, green, and blue organic LEDs. Some subpixels are oval, turned in different directions to reduce diffraction.
+  d7: Let's zoom into a single subpixel. It's a sandwich of organic layers between two electrodes. Electrons enter from the top, and holes, the gaps where electrons are missing, enter from the bottom. When they meet in the middle layer, they release their energy as a tiny flash of light. The material in that layer decides the color.
+  d8: Each subpixel is switched on and off by thin film transistors in the layer below, many times every second.
+  d9: There's even a camera hiding under the screen. Around it, small gaps in the pixel pattern let light pass through to the lens.
+  d10: At the bottom, a plastic base bends instead of shattering, and a metal support plate gives the whole panel its strength. Next, how one phone runs on two batteries.
+== c4
+  b1: A phone this thin has no room for one big battery, so the iPhone Duo has two, one in each half.
+  b2: This L-shaped cell holds 7.5 watt hours and wraps around the cameras. The larger cell holds 11.6. Together, that's about 19 watt hours, which Apple rates for up to 24 hours of typical use.
+  b3: Each cell is wrapped in a thin metal shell. Inside, very thin sheets are stacked together, a cathode, a separator, and an anode, soaked in a liquid electrolyte.
+  b4: Let's look closer. The cathode is a metal oxide that holds lithium. When you charge the phone, lithium ions are pulled out of it, through tiny holes in the separator, and packed in between the layers of carbon in the anode.
+  b5: When you use the phone, they flow back. Each ion that crosses sends one electron around the circuit, and that stream of electrons powers everything you've seen so far.
+  b6: The cells are held in with an adhesive that lets go when a small electric current runs through it. The current changes the glue right at the surface, so it loses its grip. Even a 9 volt battery is enough.
+  b7: And because the charging hardware sits in only one half, the other battery charges through that accordion cable in the hinge. With a 60 watt charger, the pair reaches 50% in about 20 minutes. Next, the brains.
+== c5
+  l1: For years, iPhones have used stacked logic boards, two circuit boards sandwiched together to save space. The iPhone duo spreads everything out on a single layer.
+  l2: At its center is the A20 Pro, Apple's first iPhone chip made on a 2 nanometer process. It has a 6-core CPU and a 7-core GPU with neural accelerators, and its memory sits right beside it, instead of stacked on top.
+  l3: Let's go inside. The chip holds billions of transistors, tiny switches that turn on and off to do every calculation.
+  l4: At 2 nanometers they have a new shape. The channel, where current flows, is a stack of thin silicon ribbons, and the gate wraps all the way around each ribbon, like a hand around a bundle of straws.
+  l5: Put a voltage on the gate and current flows through the ribbons. Remove it and the flow stops. Because the gate surrounds the channel on every side, it controls it tightly, so less current leaks away when the switch is off.
+  l6: Next to the A20 Pro is the NAND Flash, where your photos, apps, and files live up to 2TB. Here's Apple's own C2 modem for 5G and the N1 wireless chip for Wi-Fi 7, Bluetooth 6, and thread.
+  l7: And this is the power management chip. It turns battery power into dozens of different voltages for everything on the board.
+  l8: Billions of switches make heat, and a foam this thin has nowhere to hide it. So the A20 Pro presses into a soft metal overfoam layer, which carries the heat up into a vapor chamber.
+  l9: Inside the chamber, a little liquid boils over the hot chip. The vapor spreads out, condenses where it's cooler, and flows back to boil again.
+  l10: But all of this sits in one half of the phone, so a flexible graphite pipe runs through the hinge, carrying heat across the fold so both halves of the frame can shed it. Next, the cameras.
+== c6
+  k1: There are four cameras in this phone, in three modules.
+  k2: On the back is the 48 megapixel fusion main camera. Its F 1.6 lens lets in a lot of light and its whole sensor shifts to cancel out the shake of your hands.
+  k3: Beside it is a 48 megapixel ultra-wide with a 120-degree view. It can also focus close enough for macro shots.
+  k4: There's no separate telephoto lens. Instead, the main camera uses the middle of its sensor for a two-time zoom at 12 megapixels.
+  k5: Each camera is a stack of tiny lenses, focusing light onto an image sensor.
+  k6: Let's zoom into the sensor. It's covered in millions of light wells called photodiodes. Over each one sits a tiny lens and a red, green, or blue filter in a repeating pattern with twice as many greens because our eyes are most sensitive to green.
+  k7: When light hits a photodiode, it knocks electrons loose. The brighter the light, the more electrons collect. The chip counts them, pixel by pixel, and blends neighboring colors to build the image.
+  k8: For selfies, there's a 12 megapixel center stage camera on the outer screen, in a module so thin it fits inside a 5mm half, and on the inside the camera under the screen. Next, sound and touch.
+== c7
+  s1: Even in a phone this thin, there's room for sound and touch.
+  s2: This is the Taptic engine. Inside, a heavy magnet hangs on springs next to a coil of wire.
+  s3: When current flows through the coil, it pushes the magnet one way. Reverse the current and it pulls it back. Shake it back and forth at just the right rhythm, and you feel a crisp tap, a click, or a buzz.
+  s4: The speakers work in a similar way. A coil attached to a thin diaphragm sits in a magnet's field. Music becomes a changing current, the coil moves the diaphragm in and out, and the diaphragm pushes the air to make sound.
+  s5: Tiny drivers need air behind them to sound full, so each one sits in a carefully shaped chamber, and there are two of them for stereo sound. Next, putting it all back together.
+== c8
+  v1: So that's the journey through the iPhone duo. You open it, and a hinge with more than a hundred parts turns, held in step by gears and springs.
+  v2: The screen bends into a gentle loop, its organic LEDs shining through color filters and a soft polymer cover.
+  v3: Power flows from two batteries, one charging across the fold, to billions of nano-sheet transistors in the A20 Pro, while heat travels the other way through a graphite pipe in the hinge.
+  v4: All of it in a phone 5.2 millimeters thick.
+  v5: If you enjoyed this journey inside the iPhone duo, subscribe, and we'll take apart something new next time.

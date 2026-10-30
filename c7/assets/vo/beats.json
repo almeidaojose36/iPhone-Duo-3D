@@ -1,0 +1,22 @@
+[
+ {
+  "id": "s1",
+  "text": "Even in a phone this thin, there's room for sound and touch."
+ },
+ {
+  "id": "s2",
+  "text": "This is the Taptic Engine. Inside, a heavy magnet hangs on springs, next to a coil of wire."
+ },
+ {
+  "id": "s3",
+  "text": "When current flows through the coil, it pushes the magnet one way. Reverse the current, and it pulls it back. Shake it back and forth at just the right rhythm, and you feel a crisp tap, a click, or a buzz."
+ },
+ {
+  "id": "s4",
+  "text": "The speakers work in a similar way. A coil attached to a thin diaphragm sits in a magnet's field. Music becomes a changing current, the coil moves the diaphragm in and out, and the diaphragm pushes the air to make sound."
+ },
+ {
+  "id": "s5",
+  "text": "Tiny drivers need air behind them to sound full, so each one sits in a carefully shaped chamber. And there are two of them, for stereo sound. Next: putting it all back together."
+ }
+]

@@ -1,0 +1,408 @@
+{
+  "text": "Below it is the touch layer, a fine metal mesh. Your finger changes the electric field between the wires and the phone works out exactly where you touched.",
+  "sentences": [
+    {
+      "text": " Below it is the touch layer, a fine metal mesh.",
+      "start": 0.0,
+      "end": 3.68,
+      "duration": 3.68,
+      "confidence": 1.0,
+      "tokens": [
+        {
+          "text": " B",
+          "start": 0.0,
+          "end": 0.08,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "el",
+          "start": 0.08,
+          "end": 0.24,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ow",
+          "start": 0.24,
+          "end": 0.4,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " it",
+          "start": 0.4,
+          "end": 0.56,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " is",
+          "start": 0.56,
+          "end": 0.72,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " the",
+          "start": 0.72,
+          "end": 0.88,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " tou",
+          "start": 0.88,
+          "end": 1.12,
+          "duration": 0.24,
+          "confidence": 0.998
+        },
+        {
+          "text": "ch",
+          "start": 1.12,
+          "end": 1.36,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " la",
+          "start": 1.36,
+          "end": 1.52,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "yer",
+          "start": 1.52,
+          "end": 1.76,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": ",",
+          "start": 1.76,
+          "end": 1.92,
+          "duration": 0.16,
+          "confidence": 0.998
+        },
+        {
+          "text": " a",
+          "start": 1.92,
+          "end": 2.16,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " f",
+          "start": 2.16,
+          "end": 2.32,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ine",
+          "start": 2.32,
+          "end": 2.56,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " met",
+          "start": 2.56,
+          "end": 2.72,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "al",
+          "start": 2.72,
+          "end": 2.96,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " mes",
+          "start": 2.96,
+          "end": 3.28,
+          "duration": 0.32,
+          "confidence": 1.0
+        },
+        {
+          "text": "h",
+          "start": 3.28,
+          "end": 3.44,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": ".",
+          "start": 3.44,
+          "end": 3.68,
+          "duration": 0.24,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "text": " Your finger changes the electric field between the wires and the phone works out exactly where you touched.",
+      "start": 3.68,
+      "end": 10.16,
+      "duration": 6.48,
+      "confidence": 1.0,
+      "tokens": [
+        {
+          "text": " Y",
+          "start": 3.68,
+          "end": 3.76,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "our",
+          "start": 3.76,
+          "end": 4.0,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " f",
+          "start": 4.0,
+          "end": 4.24,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "inger",
+          "start": 4.24,
+          "end": 4.48,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " ch",
+          "start": 4.48,
+          "end": 4.64,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ang",
+          "start": 4.64,
+          "end": 4.8,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "es",
+          "start": 4.8,
+          "end": 4.96,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " the",
+          "start": 4.96,
+          "end": 5.12,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " ele",
+          "start": 5.12,
+          "end": 5.28,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ct",
+          "start": 5.28,
+          "end": 5.52,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "ric",
+          "start": 5.52,
+          "end": 5.76,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " fi",
+          "start": 5.76,
+          "end": 5.92,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "eld",
+          "start": 5.92,
+          "end": 6.08,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " bet",
+          "start": 6.08,
+          "end": 6.16,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "we",
+          "start": 6.16,
+          "end": 6.32,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "en",
+          "start": 6.32,
+          "end": 6.48,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " the",
+          "start": 6.48,
+          "end": 6.64,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " wir",
+          "start": 6.64,
+          "end": 6.96,
+          "duration": 0.32,
+          "confidence": 1.0
+        },
+        {
+          "text": "es",
+          "start": 6.96,
+          "end": 7.2,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " and",
+          "start": 7.36,
+          "end": 7.52,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " the",
+          "start": 7.52,
+          "end": 7.68,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " p",
+          "start": 7.68,
+          "end": 7.84,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "h",
+          "start": 7.84,
+          "end": 7.92,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "one",
+          "start": 7.92,
+          "end": 8.16,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " wor",
+          "start": 8.16,
+          "end": 8.32,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ks",
+          "start": 8.32,
+          "end": 8.56,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " out",
+          "start": 8.56,
+          "end": 8.72,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " ex",
+          "start": 8.72,
+          "end": 8.88,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "act",
+          "start": 8.88,
+          "end": 8.96,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "ly",
+          "start": 8.96,
+          "end": 9.2,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " where",
+          "start": 9.2,
+          "end": 9.44,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " you",
+          "start": 9.44,
+          "end": 9.6,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " tou",
+          "start": 9.6,
+          "end": 9.76,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ch",
+          "start": 9.76,
+          "end": 9.92,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ed",
+          "start": 9.92,
+          "end": 10.08,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": ".",
+          "start": 10.08,
+          "end": 10.16,
+          "duration": 0.08,
+          "confidence": 0.999
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,494 @@
+{
+  "text": "Beside it is a 48 megapixel ultra wide with a 120 degree view. It can also focus close enough for macro shots. Both are the same class of camera as the standard iPhones.",
+  "sentences": [
+    {
+      "text": " Beside it is a 48 megapixel ultra wide with a 120 degree view.",
+      "start": 0.0,
+      "end": 6.08,
+      "duration": 6.08,
+      "confidence": 0.988,
+      "tokens": [
+        {
+          "text": " B",
+          "start": 0.0,
+          "end": 0.08,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "es",
+          "start": 0.08,
+          "end": 0.24,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ide",
+          "start": 0.24,
+          "end": 0.4,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " it",
+          "start": 0.4,
+          "end": 0.64,
+          "duration": 0.24,
+          "confidence": 0.999
+        },
+        {
+          "text": " is",
+          "start": 0.64,
+          "end": 0.8,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " a",
+          "start": 0.8,
+          "end": 0.96,
+          "duration": 0.16,
+          "confidence": 0.998
+        },
+        {
+          "text": " ",
+          "start": 0.96,
+          "end": 1.12,
+          "duration": 0.16,
+          "confidence": 0.969
+        },
+        {
+          "text": "4",
+          "start": 1.12,
+          "end": 1.36,
+          "duration": 0.24,
+          "confidence": 0.999
+        },
+        {
+          "text": "8",
+          "start": 1.44,
+          "end": 1.6,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " meg",
+          "start": 1.68,
+          "end": 1.84,
+          "duration": 0.16,
+          "confidence": 0.877
+        },
+        {
+          "text": "ap",
+          "start": 2.0,
+          "end": 2.16,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ix",
+          "start": 2.16,
+          "end": 2.32,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "el",
+          "start": 2.32,
+          "end": 2.56,
+          "duration": 0.24,
+          "confidence": 0.999
+        },
+        {
+          "text": " ul",
+          "start": 2.56,
+          "end": 2.72,
+          "duration": 0.16,
+          "confidence": 0.983
+        },
+        {
+          "text": "tra",
+          "start": 2.72,
+          "end": 2.88,
+          "duration": 0.16,
+          "confidence": 0.992
+        },
+        {
+          "text": " w",
+          "start": 3.04,
+          "end": 3.2,
+          "duration": 0.16,
+          "confidence": 0.97
+        },
+        {
+          "text": "ide",
+          "start": 3.2,
+          "end": 3.44,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " with",
+          "start": 3.68,
+          "end": 3.84,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " a",
+          "start": 3.84,
+          "end": 4.08,
+          "duration": 0.24,
+          "confidence": 0.981
+        },
+        {
+          "text": " ",
+          "start": 4.08,
+          "end": 4.24,
+          "duration": 0.16,
+          "confidence": 0.926
+        },
+        {
+          "text": "1",
+          "start": 4.24,
+          "end": 4.4,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "2",
+          "start": 4.64,
+          "end": 4.8,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "0",
+          "start": 4.8,
+          "end": 4.96,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " de",
+          "start": 5.04,
+          "end": 5.12,
+          "duration": 0.08,
+          "confidence": 0.987
+        },
+        {
+          "text": "g",
+          "start": 5.12,
+          "end": 5.28,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ree",
+          "start": 5.28,
+          "end": 5.44,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " vie",
+          "start": 5.44,
+          "end": 5.68,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "w",
+          "start": 5.68,
+          "end": 5.84,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": ".",
+          "start": 5.84,
+          "end": 6.08,
+          "duration": 0.24,
+          "confidence": 0.979
+        }
+      ]
+    },
+    {
+      "text": " It can also focus close enough for macro shots.",
+      "start": 6.08,
+      "end": 9.44,
+      "duration": 3.36,
+      "confidence": 0.999,
+      "tokens": [
+        {
+          "text": " It",
+          "start": 6.08,
+          "end": 6.32,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " can",
+          "start": 6.32,
+          "end": 6.56,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " also",
+          "start": 6.56,
+          "end": 6.72,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " fo",
+          "start": 6.72,
+          "end": 6.88,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "c",
+          "start": 6.88,
+          "end": 7.04,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "us",
+          "start": 7.04,
+          "end": 7.2,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " cl",
+          "start": 7.2,
+          "end": 7.36,
+          "duration": 0.16,
+          "confidence": 0.998
+        },
+        {
+          "text": "ose",
+          "start": 7.36,
+          "end": 7.6,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " en",
+          "start": 7.6,
+          "end": 7.68,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "ough",
+          "start": 7.68,
+          "end": 7.92,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " for",
+          "start": 7.92,
+          "end": 8.08,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " ma",
+          "start": 8.08,
+          "end": 8.16,
+          "duration": 0.08,
+          "confidence": 0.999
+        },
+        {
+          "text": "c",
+          "start": 8.16,
+          "end": 8.4,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "ro",
+          "start": 8.4,
+          "end": 8.64,
+          "duration": 0.24,
+          "confidence": 0.999
+        },
+        {
+          "text": " sh",
+          "start": 8.64,
+          "end": 8.96,
+          "duration": 0.32,
+          "confidence": 1.0
+        },
+        {
+          "text": "ots",
+          "start": 8.96,
+          "end": 9.2,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": ".",
+          "start": 9.2,
+          "end": 9.44,
+          "duration": 0.24,
+          "confidence": 0.983
+        }
+      ]
+    },
+    {
+      "text": " Both are the same class of camera as the standard iPhones.",
+      "start": 9.44,
+      "end": 13.28,
+      "duration": 3.84,
+      "confidence": 1.0,
+      "tokens": [
+        {
+          "text": " B",
+          "start": 9.44,
+          "end": 9.68,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "oth",
+          "start": 9.68,
+          "end": 9.92,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " are",
+          "start": 9.92,
+          "end": 10.08,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " the",
+          "start": 10.08,
+          "end": 10.24,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " sam",
+          "start": 10.24,
+          "end": 10.4,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "e",
+          "start": 10.4,
+          "end": 10.56,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " clas",
+          "start": 10.56,
+          "end": 10.72,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "s",
+          "start": 10.72,
+          "end": 10.88,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " of",
+          "start": 10.88,
+          "end": 11.12,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " cam",
+          "start": 11.12,
+          "end": 11.44,
+          "duration": 0.32,
+          "confidence": 1.0
+        },
+        {
+          "text": "era",
+          "start": 11.44,
+          "end": 11.6,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " as",
+          "start": 11.6,
+          "end": 11.76,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " the",
+          "start": 11.76,
+          "end": 12.0,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " stand",
+          "start": 12.0,
+          "end": 12.24,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "ard",
+          "start": 12.24,
+          "end": 12.48,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " i",
+          "start": 12.48,
+          "end": 12.72,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "P",
+          "start": 12.72,
+          "end": 12.88,
+          "duration": 0.16,
+          "confidence": 0.999
+        },
+        {
+          "text": "h",
+          "start": 12.88,
+          "end": 13.04,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ones",
+          "start": 13.04,
+          "end": 13.2,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": ".",
+          "start": 13.2,
+          "end": 13.28,
+          "duration": 0.08,
+          "confidence": 0.999
+        }
+      ]
+    }
+  ]
+}

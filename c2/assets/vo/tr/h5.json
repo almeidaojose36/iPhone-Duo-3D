@@ -1,0 +1,450 @@
+{
+  "text": "When the phone closes, the screen doesn't fold flat. It curves into a teardrop-shaped loop, tucked inside the hinge, almost four millimeters across.",
+  "sentences": [
+    {
+      "text": " When the phone closes, the screen doesn't fold flat.",
+      "start": 0.0,
+      "end": 3.12,
+      "duration": 3.12,
+      "confidence": 0.996,
+      "tokens": [
+        {
+          "text": " W",
+          "start": 0.0,
+          "end": 0.08,
+          "duration": 0.08,
+          "confidence": 0.998
+        },
+        {
+          "text": "hen",
+          "start": 0.08,
+          "end": 0.24,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " the",
+          "start": 0.24,
+          "end": 0.32,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": " p",
+          "start": 0.32,
+          "end": 0.4,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "h",
+          "start": 0.4,
+          "end": 0.56,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "one",
+          "start": 0.56,
+          "end": 0.64,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": " c",
+          "start": 0.64,
+          "end": 0.8,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "los",
+          "start": 0.8,
+          "end": 0.96,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "es",
+          "start": 0.96,
+          "end": 1.04,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": ",",
+          "start": 1.04,
+          "end": 1.2,
+          "duration": 0.16,
+          "confidence": 0.961
+        },
+        {
+          "text": " the",
+          "start": 1.2,
+          "end": 1.28,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": " sc",
+          "start": 1.28,
+          "end": 1.44,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "re",
+          "start": 1.44,
+          "end": 1.6,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "en",
+          "start": 1.6,
+          "end": 1.76,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " do",
+          "start": 1.76,
+          "end": 1.84,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "esn",
+          "start": 1.84,
+          "end": 1.92,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "'",
+          "start": 1.92,
+          "end": 2.08,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "t",
+          "start": 2.08,
+          "end": 2.08,
+          "duration": 0.0,
+          "confidence": 1.0
+        },
+        {
+          "text": " f",
+          "start": 2.08,
+          "end": 2.32,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "old",
+          "start": 2.32,
+          "end": 2.48,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " fl",
+          "start": 2.48,
+          "end": 2.72,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "at",
+          "start": 2.72,
+          "end": 2.96,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": ".",
+          "start": 2.96,
+          "end": 3.12,
+          "duration": 0.16,
+          "confidence": 0.947
+        }
+      ]
+    },
+    {
+      "text": " It curves into a teardrop-shaped loop, tucked inside the hinge, almost four millimeters across.",
+      "start": 3.12,
+      "end": 9.36,
+      "duration": 6.24,
+      "confidence": 0.993,
+      "tokens": [
+        {
+          "text": " It",
+          "start": 3.12,
+          "end": 3.44,
+          "duration": 0.32,
+          "confidence": 1.0
+        },
+        {
+          "text": " cur",
+          "start": 3.44,
+          "end": 3.68,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "ves",
+          "start": 3.68,
+          "end": 3.84,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " into",
+          "start": 3.84,
+          "end": 4.0,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " a",
+          "start": 4.0,
+          "end": 4.16,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " te",
+          "start": 4.16,
+          "end": 4.4,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "ard",
+          "start": 4.4,
+          "end": 4.56,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "rop",
+          "start": 4.72,
+          "end": 4.88,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "-",
+          "start": 4.88,
+          "end": 4.96,
+          "duration": 0.08,
+          "confidence": 0.936
+        },
+        {
+          "text": "s",
+          "start": 4.96,
+          "end": 4.96,
+          "duration": 0.0,
+          "confidence": 1.0
+        },
+        {
+          "text": "h",
+          "start": 4.96,
+          "end": 5.04,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "ap",
+          "start": 5.04,
+          "end": 5.12,
+          "duration": 0.08,
+          "confidence": 0.999
+        },
+        {
+          "text": "ed",
+          "start": 5.28,
+          "end": 5.36,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": " lo",
+          "start": 5.36,
+          "end": 5.52,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "op",
+          "start": 5.52,
+          "end": 5.68,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": ",",
+          "start": 5.68,
+          "end": 5.84,
+          "duration": 0.16,
+          "confidence": 0.929
+        },
+        {
+          "text": " tu",
+          "start": 5.84,
+          "end": 6.0,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ck",
+          "start": 6.0,
+          "end": 6.16,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ed",
+          "start": 6.16,
+          "end": 6.24,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": " ins",
+          "start": 6.24,
+          "end": 6.4,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ide",
+          "start": 6.4,
+          "end": 6.56,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " the",
+          "start": 6.56,
+          "end": 6.8,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " h",
+          "start": 6.8,
+          "end": 7.04,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "inge",
+          "start": 7.04,
+          "end": 7.28,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": ",",
+          "start": 7.28,
+          "end": 7.44,
+          "duration": 0.16,
+          "confidence": 0.961
+        },
+        {
+          "text": " al",
+          "start": 7.44,
+          "end": 7.52,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "m",
+          "start": 7.52,
+          "end": 7.68,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ost",
+          "start": 7.68,
+          "end": 7.84,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " fo",
+          "start": 7.84,
+          "end": 8.0,
+          "duration": 0.16,
+          "confidence": 0.922
+        },
+        {
+          "text": "ur",
+          "start": 8.0,
+          "end": 8.24,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " mil",
+          "start": 8.24,
+          "end": 8.4,
+          "duration": 0.16,
+          "confidence": 0.984
+        },
+        {
+          "text": "lim",
+          "start": 8.4,
+          "end": 8.56,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "et",
+          "start": 8.56,
+          "end": 8.72,
+          "duration": 0.16,
+          "confidence": 0.999
+        },
+        {
+          "text": "ers",
+          "start": 8.72,
+          "end": 8.88,
+          "duration": 0.16,
+          "confidence": 0.999
+        },
+        {
+          "text": " ac",
+          "start": 8.88,
+          "end": 8.96,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "ros",
+          "start": 8.96,
+          "end": 9.12,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "s",
+          "start": 9.12,
+          "end": 9.28,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": ".",
+          "start": 9.28,
+          "end": 9.36,
+          "duration": 0.08,
+          "confidence": 0.996
+        }
+      ]
+    }
+  ]
+}

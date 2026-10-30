@@ -1,0 +1,599 @@
+{
+  "text": "This L-shaped cell holds 7.5 watt hours and wraps around the cameras. The larger cell holds 11.6. Together, that's about 19 watt hours, which Apple rates for up to 24 hours of typical use.",
+  "sentences": [
+    {
+      "text": " This L-shaped cell holds 7.5 watt hours and wraps around the cameras.",
+      "start": 0.0,
+      "end": 5.52,
+      "duration": 5.52,
+      "confidence": 0.995,
+      "tokens": [
+        {
+          "text": " This",
+          "start": 0.0,
+          "end": 0.32,
+          "duration": 0.32,
+          "confidence": 0.999
+        },
+        {
+          "text": " L",
+          "start": 0.32,
+          "end": 0.56,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "-",
+          "start": 0.56,
+          "end": 0.64,
+          "duration": 0.08,
+          "confidence": 0.989
+        },
+        {
+          "text": "s",
+          "start": 0.64,
+          "end": 0.72,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "h",
+          "start": 0.72,
+          "end": 0.8,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "ap",
+          "start": 0.8,
+          "end": 0.88,
+          "duration": 0.08,
+          "confidence": 0.987
+        },
+        {
+          "text": "ed",
+          "start": 0.88,
+          "end": 1.04,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " c",
+          "start": 1.04,
+          "end": 1.2,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ell",
+          "start": 1.2,
+          "end": 1.36,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " h",
+          "start": 1.36,
+          "end": 1.44,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "old",
+          "start": 1.44,
+          "end": 1.52,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "s",
+          "start": 1.52,
+          "end": 1.6,
+          "duration": 0.08,
+          "confidence": 0.999
+        },
+        {
+          "text": " ",
+          "start": 1.6,
+          "end": 1.76,
+          "duration": 0.16,
+          "confidence": 0.969
+        },
+        {
+          "text": "7",
+          "start": 1.76,
+          "end": 1.92,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": ".",
+          "start": 1.92,
+          "end": 2.08,
+          "duration": 0.16,
+          "confidence": 0.958
+        },
+        {
+          "text": "5",
+          "start": 2.16,
+          "end": 2.24,
+          "duration": 0.08,
+          "confidence": 0.992
+        },
+        {
+          "text": " w",
+          "start": 2.48,
+          "end": 2.64,
+          "duration": 0.16,
+          "confidence": 0.953
+        },
+        {
+          "text": "att",
+          "start": 2.64,
+          "end": 2.8,
+          "duration": 0.16,
+          "confidence": 0.997
+        },
+        {
+          "text": " ho",
+          "start": 2.96,
+          "end": 3.12,
+          "duration": 0.16,
+          "confidence": 0.996
+        },
+        {
+          "text": "urs",
+          "start": 3.12,
+          "end": 3.28,
+          "duration": 0.16,
+          "confidence": 0.998
+        },
+        {
+          "text": " and",
+          "start": 3.44,
+          "end": 3.68,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " w",
+          "start": 3.68,
+          "end": 3.76,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "ra",
+          "start": 3.76,
+          "end": 4.0,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "ps",
+          "start": 4.0,
+          "end": 4.16,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " a",
+          "start": 4.16,
+          "end": 4.24,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "ro",
+          "start": 4.24,
+          "end": 4.4,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "und",
+          "start": 4.4,
+          "end": 4.48,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": " the",
+          "start": 4.48,
+          "end": 4.64,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " cam",
+          "start": 4.64,
+          "end": 4.88,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "er",
+          "start": 4.88,
+          "end": 5.04,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "as",
+          "start": 5.04,
+          "end": 5.28,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": ".",
+          "start": 5.28,
+          "end": 5.52,
+          "duration": 0.24,
+          "confidence": 0.992
+        }
+      ]
+    },
+    {
+      "text": " The larger cell holds 11.6.",
+      "start": 5.52,
+      "end": 8.64,
+      "duration": 3.12,
+      "confidence": 0.998,
+      "tokens": [
+        {
+          "text": " The",
+          "start": 5.52,
+          "end": 5.76,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " lar",
+          "start": 5.76,
+          "end": 6.0,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "ger",
+          "start": 6.0,
+          "end": 6.24,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " c",
+          "start": 6.24,
+          "end": 6.4,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ell",
+          "start": 6.4,
+          "end": 6.56,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " h",
+          "start": 6.56,
+          "end": 6.64,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "old",
+          "start": 6.64,
+          "end": 6.72,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "s",
+          "start": 6.72,
+          "end": 6.96,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " ",
+          "start": 6.96,
+          "end": 7.12,
+          "duration": 0.16,
+          "confidence": 0.983
+        },
+        {
+          "text": "1",
+          "start": 7.12,
+          "end": 7.28,
+          "duration": 0.16,
+          "confidence": 0.999
+        },
+        {
+          "text": "1",
+          "start": 7.28,
+          "end": 7.52,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": ".",
+          "start": 7.52,
+          "end": 7.84,
+          "duration": 0.32,
+          "confidence": 0.999
+        },
+        {
+          "text": "6",
+          "start": 7.84,
+          "end": 8.08,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": ".",
+          "start": 8.4,
+          "end": 8.64,
+          "duration": 0.24,
+          "confidence": 0.986
+        }
+      ]
+    },
+    {
+      "text": " Together, that's about 19 watt hours, which Apple rates for up to 24 hours of typical use.",
+      "start": 8.64,
+      "end": 15.36,
+      "duration": 6.72,
+      "confidence": 0.992,
+      "tokens": [
+        {
+          "text": " T",
+          "start": 8.64,
+          "end": 8.72,
+          "duration": 0.08,
+          "confidence": 0.999
+        },
+        {
+          "text": "og",
+          "start": 8.72,
+          "end": 8.88,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "et",
+          "start": 8.88,
+          "end": 9.12,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "her",
+          "start": 9.12,
+          "end": 9.28,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": ",",
+          "start": 9.28,
+          "end": 9.44,
+          "duration": 0.16,
+          "confidence": 0.967
+        },
+        {
+          "text": " that",
+          "start": 9.44,
+          "end": 9.6,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "'",
+          "start": 9.6,
+          "end": 9.76,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "s",
+          "start": 9.76,
+          "end": 9.92,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " about",
+          "start": 9.92,
+          "end": 10.16,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " ",
+          "start": 10.16,
+          "end": 10.32,
+          "duration": 0.16,
+          "confidence": 0.996
+        },
+        {
+          "text": "1",
+          "start": 10.32,
+          "end": 10.48,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "9",
+          "start": 10.48,
+          "end": 10.8,
+          "duration": 0.32,
+          "confidence": 1.0
+        },
+        {
+          "text": " w",
+          "start": 10.8,
+          "end": 11.04,
+          "duration": 0.24,
+          "confidence": 0.902
+        },
+        {
+          "text": "att",
+          "start": 11.04,
+          "end": 11.2,
+          "duration": 0.16,
+          "confidence": 0.998
+        },
+        {
+          "text": " ho",
+          "start": 11.2,
+          "end": 11.36,
+          "duration": 0.16,
+          "confidence": 0.989
+        },
+        {
+          "text": "urs",
+          "start": 11.36,
+          "end": 11.52,
+          "duration": 0.16,
+          "confidence": 0.998
+        },
+        {
+          "text": ",",
+          "start": 11.68,
+          "end": 11.76,
+          "duration": 0.08,
+          "confidence": 0.986
+        },
+        {
+          "text": " which",
+          "start": 11.76,
+          "end": 12.08,
+          "duration": 0.32,
+          "confidence": 1.0
+        },
+        {
+          "text": " App",
+          "start": 12.08,
+          "end": 12.24,
+          "duration": 0.16,
+          "confidence": 0.92
+        },
+        {
+          "text": "le",
+          "start": 12.24,
+          "end": 12.4,
+          "duration": 0.16,
+          "confidence": 0.997
+        },
+        {
+          "text": " r",
+          "start": 12.64,
+          "end": 12.8,
+          "duration": 0.16,
+          "confidence": 0.995
+        },
+        {
+          "text": "ates",
+          "start": 12.8,
+          "end": 12.96,
+          "duration": 0.16,
+          "confidence": 0.999
+        },
+        {
+          "text": " for",
+          "start": 12.96,
+          "end": 13.12,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " up",
+          "start": 13.12,
+          "end": 13.2,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": " to",
+          "start": 13.2,
+          "end": 13.36,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " ",
+          "start": 13.36,
+          "end": 13.52,
+          "duration": 0.16,
+          "confidence": 0.99
+        },
+        {
+          "text": "2",
+          "start": 13.52,
+          "end": 13.76,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "4",
+          "start": 13.76,
+          "end": 14.0,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " ho",
+          "start": 14.0,
+          "end": 14.16,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "urs",
+          "start": 14.16,
+          "end": 14.32,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " of",
+          "start": 14.32,
+          "end": 14.56,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " typ",
+          "start": 14.56,
+          "end": 14.8,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "ical",
+          "start": 14.8,
+          "end": 15.04,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " use",
+          "start": 15.04,
+          "end": 15.28,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": ".",
+          "start": 15.28,
+          "end": 15.36,
+          "duration": 0.08,
+          "confidence": 1.0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "text": "Next the screen that bends over all of this.",
+  "sentences": [
+    {
+      "text": " Next the screen that bends over all of this.",
+      "start": 0.0,
+      "end": 2.56,
+      "duration": 2.56,
+      "confidence": 0.998,
+      "tokens": [
+        {
+          "text": " Ne",
+          "start": 0.0,
+          "end": 0.24,
+          "duration": 0.24,
+          "confidence": 0.982
+        },
+        {
+          "text": "xt",
+          "start": 0.24,
+          "end": 0.48,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " the",
+          "start": 0.56,
+          "end": 0.72,
+          "duration": 0.16,
+          "confidence": 0.999
+        },
+        {
+          "text": " sc",
+          "start": 0.72,
+          "end": 0.8,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "re",
+          "start": 0.8,
+          "end": 0.96,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "en",
+          "start": 0.96,
+          "end": 1.12,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " that",
+          "start": 1.12,
+          "end": 1.36,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " bend",
+          "start": 1.36,
+          "end": 1.6,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "s",
+          "start": 1.6,
+          "end": 1.76,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " over",
+          "start": 1.76,
+          "end": 1.92,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " all",
+          "start": 1.92,
+          "end": 2.08,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " of",
+          "start": 2.08,
+          "end": 2.32,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " this",
+          "start": 2.32,
+          "end": 2.48,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": ".",
+          "start": 2.48,
+          "end": 2.56,
+          "duration": 0.08,
+          "confidence": 0.986
+        }
+      ]
+    }
+  ]
+}

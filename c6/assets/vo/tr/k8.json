@@ -1,0 +1,462 @@
+{
+  "text": "For selfies, there's a 12 megapixel center stage camera on the outer screen, in a module so thin it fits inside a 5mm half, and on the inside, the camera under the screen.",
+  "sentences": [
+    {
+      "text": " For selfies, there's a 12 megapixel center stage camera on the outer screen, in a module so thin it fits inside a 5mm half, and on the inside, the camera under the screen.",
+      "start": 0.0,
+      "end": 12.8,
+      "duration": 12.8,
+      "confidence": 0.993,
+      "tokens": [
+        {
+          "text": " For",
+          "start": 0.0,
+          "end": 0.24,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " sel",
+          "start": 0.24,
+          "end": 0.4,
+          "duration": 0.16,
+          "confidence": 0.994
+        },
+        {
+          "text": "f",
+          "start": 0.4,
+          "end": 0.56,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ies",
+          "start": 0.56,
+          "end": 0.72,
+          "duration": 0.16,
+          "confidence": 0.996
+        },
+        {
+          "text": ",",
+          "start": 0.88,
+          "end": 0.96,
+          "duration": 0.08,
+          "confidence": 0.988
+        },
+        {
+          "text": " there",
+          "start": 0.96,
+          "end": 1.12,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "'",
+          "start": 1.12,
+          "end": 1.28,
+          "duration": 0.16,
+          "confidence": 0.99
+        },
+        {
+          "text": "s",
+          "start": 1.28,
+          "end": 1.28,
+          "duration": 0.0,
+          "confidence": 1.0
+        },
+        {
+          "text": " a",
+          "start": 1.28,
+          "end": 1.36,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": " ",
+          "start": 1.36,
+          "end": 1.44,
+          "duration": 0.08,
+          "confidence": 0.991
+        },
+        {
+          "text": "1",
+          "start": 1.44,
+          "end": 1.6,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "2",
+          "start": 1.6,
+          "end": 1.76,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " meg",
+          "start": 1.84,
+          "end": 2.0,
+          "duration": 0.16,
+          "confidence": 0.892
+        },
+        {
+          "text": "ap",
+          "start": 2.08,
+          "end": 2.32,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "ix",
+          "start": 2.32,
+          "end": 2.48,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "el",
+          "start": 2.48,
+          "end": 2.72,
+          "duration": 0.24,
+          "confidence": 0.999
+        },
+        {
+          "text": " cent",
+          "start": 2.72,
+          "end": 2.88,
+          "duration": 0.16,
+          "confidence": 0.998
+        },
+        {
+          "text": "er",
+          "start": 2.88,
+          "end": 3.12,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " sta",
+          "start": 3.12,
+          "end": 3.28,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ge",
+          "start": 3.28,
+          "end": 3.52,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " cam",
+          "start": 3.52,
+          "end": 3.68,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "era",
+          "start": 3.68,
+          "end": 3.84,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " on",
+          "start": 3.84,
+          "end": 4.0,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " the",
+          "start": 4.0,
+          "end": 4.16,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " out",
+          "start": 4.16,
+          "end": 4.32,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "er",
+          "start": 4.32,
+          "end": 4.56,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " sc",
+          "start": 4.56,
+          "end": 4.64,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "re",
+          "start": 4.64,
+          "end": 4.8,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "en",
+          "start": 4.8,
+          "end": 5.04,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": ",",
+          "start": 5.04,
+          "end": 5.2,
+          "duration": 0.16,
+          "confidence": 0.935
+        },
+        {
+          "text": " in",
+          "start": 5.2,
+          "end": 5.44,
+          "duration": 0.24,
+          "confidence": 0.959
+        },
+        {
+          "text": " a",
+          "start": 5.44,
+          "end": 5.68,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " mod",
+          "start": 5.68,
+          "end": 5.92,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "ule",
+          "start": 5.92,
+          "end": 6.16,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " so",
+          "start": 6.16,
+          "end": 6.4,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " th",
+          "start": 6.4,
+          "end": 6.56,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "in",
+          "start": 6.56,
+          "end": 6.8,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " it",
+          "start": 6.8,
+          "end": 6.96,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " f",
+          "start": 6.96,
+          "end": 7.2,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "its",
+          "start": 7.2,
+          "end": 7.36,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " ins",
+          "start": 7.36,
+          "end": 7.6,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "ide",
+          "start": 7.6,
+          "end": 7.76,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " a",
+          "start": 7.76,
+          "end": 7.92,
+          "duration": 0.16,
+          "confidence": 0.994
+        },
+        {
+          "text": " ",
+          "start": 7.92,
+          "end": 8.08,
+          "duration": 0.16,
+          "confidence": 0.975
+        },
+        {
+          "text": "5",
+          "start": 8.08,
+          "end": 8.32,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "mm",
+          "start": 8.32,
+          "end": 8.48,
+          "duration": 0.16,
+          "confidence": 0.973
+        },
+        {
+          "text": " hal",
+          "start": 9.12,
+          "end": 9.28,
+          "duration": 0.16,
+          "confidence": 0.997
+        },
+        {
+          "text": "f",
+          "start": 9.28,
+          "end": 9.52,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": ",",
+          "start": 9.52,
+          "end": 9.68,
+          "duration": 0.16,
+          "confidence": 0.944
+        },
+        {
+          "text": " and",
+          "start": 9.68,
+          "end": 9.92,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " on",
+          "start": 9.92,
+          "end": 10.08,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " the",
+          "start": 10.08,
+          "end": 10.32,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " ins",
+          "start": 10.32,
+          "end": 10.64,
+          "duration": 0.32,
+          "confidence": 1.0
+        },
+        {
+          "text": "ide",
+          "start": 10.64,
+          "end": 10.96,
+          "duration": 0.32,
+          "confidence": 1.0
+        },
+        {
+          "text": ",",
+          "start": 10.96,
+          "end": 11.12,
+          "duration": 0.16,
+          "confidence": 0.928
+        },
+        {
+          "text": " the",
+          "start": 11.12,
+          "end": 11.44,
+          "duration": 0.32,
+          "confidence": 1.0
+        },
+        {
+          "text": " cam",
+          "start": 11.44,
+          "end": 11.6,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "era",
+          "start": 11.6,
+          "end": 11.84,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " under",
+          "start": 11.84,
+          "end": 12.08,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " the",
+          "start": 12.08,
+          "end": 12.24,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " sc",
+          "start": 12.24,
+          "end": 12.32,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "re",
+          "start": 12.32,
+          "end": 12.48,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "en",
+          "start": 12.48,
+          "end": 12.64,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": ".",
+          "start": 12.64,
+          "end": 12.8,
+          "duration": 0.16,
+          "confidence": 0.998
+        }
+      ]
+    }
+  ]
+}

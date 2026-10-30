@@ -1,0 +1,38 @@
+[
+ {
+  "id": "k1",
+  "text": "There are four cameras in this phone, in three modules."
+ },
+ {
+  "id": "k2",
+  "text": "On the back is the forty-eight megapixel Fusion main camera. Its f one point six lens lets in a lot of light, and its whole sensor shifts to cancel out the shake of your hands."
+ },
+ {
+  "id": "k3",
+  "text": "Beside it is a forty-eight megapixel ultra wide, with a hundred and twenty degree view. It can also focus close enough for macro shots. Both are the same class of camera as the standard iPhone's."
+ },
+ {
+  "id": "k4",
+  "text": "There's no separate telephoto lens. Instead, the main camera uses the middle of its sensor for a two times zoom, at twelve megapixels."
+ },
+ {
+  "id": "k5",
+  "text": "Each camera is a stack of tiny lenses, focusing light onto an image sensor."
+ },
+ {
+  "id": "k6",
+  "text": "Let's zoom into the sensor. It's covered in millions of light wells called photodiodes. Over each one sits a tiny lens and a red, green or blue filter, in a repeating pattern with twice as many greens, because our eyes are most sensitive to green."
+ },
+ {
+  "id": "k7",
+  "text": "When light hits a photodiode, it knocks electrons loose. The brighter the light, the more electrons collect. The chip counts them, pixel by pixel, and blends neighboring colors to build the image."
+ },
+ {
+  "id": "k8",
+  "text": "For selfies, there's a twelve megapixel Center Stage camera on the outer screen, in a module so thin it fits inside a five millimeter half. And on the inside, the camera under the screen."
+ },
+ {
+  "id": "k9",
+  "text": "Folding adds new tricks, too. Stand it up like a tent, and Smart Capture takes the photo when everyone's ready. Or turn on dual-screen preview, so the people in the photo can see themselves on the outer screen. Next: sound and touch."
+ }
+]

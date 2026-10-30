@@ -1,0 +1,1216 @@
+{
+  "text": "Compared with a regular iPhone, a few things move around. There's no face ID. You unlock it with touch ID in the side button. The volume buttons sit on the top edge. The outer screen is shaped like a D, square by the hinge and rounded on the outside with its controls down the right edge. And the USB-C port sits low on the left half, out of the way when you use it like a laptop. Inside, it runs the same A20 Pro chip as the iPhone 18 Pro.",
+  "sentences": [
+    {
+      "text": " Compared with a regular iPhone, a few things move around.",
+      "start": 0.0,
+      "end": 3.52,
+      "duration": 3.52,
+      "confidence": 1.0,
+      "tokens": [
+        {
+          "text": " Com",
+          "start": 0.0,
+          "end": 0.16,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "par",
+          "start": 0.16,
+          "end": 0.32,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ed",
+          "start": 0.32,
+          "end": 0.48,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " with",
+          "start": 0.48,
+          "end": 0.64,
+          "duration": 0.16,
+          "confidence": 0.999
+        },
+        {
+          "text": " a",
+          "start": 0.64,
+          "end": 0.8,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " regul",
+          "start": 0.8,
+          "end": 0.96,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ar",
+          "start": 0.96,
+          "end": 1.2,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " i",
+          "start": 1.2,
+          "end": 1.36,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "P",
+          "start": 1.36,
+          "end": 1.52,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "h",
+          "start": 1.52,
+          "end": 1.68,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "one",
+          "start": 1.68,
+          "end": 1.76,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": ",",
+          "start": 1.76,
+          "end": 1.92,
+          "duration": 0.16,
+          "confidence": 0.996
+        },
+        {
+          "text": " a",
+          "start": 1.92,
+          "end": 2.0,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": " f",
+          "start": 2.0,
+          "end": 2.08,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "ew",
+          "start": 2.08,
+          "end": 2.24,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " th",
+          "start": 2.24,
+          "end": 2.4,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ings",
+          "start": 2.4,
+          "end": 2.56,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " m",
+          "start": 2.56,
+          "end": 2.72,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ove",
+          "start": 2.72,
+          "end": 2.88,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " a",
+          "start": 2.88,
+          "end": 3.04,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ro",
+          "start": 3.04,
+          "end": 3.2,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "und",
+          "start": 3.2,
+          "end": 3.36,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": ".",
+          "start": 3.36,
+          "end": 3.52,
+          "duration": 0.16,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "text": " There's no face ID.",
+      "start": 3.52,
+      "end": 5.2,
+      "duration": 1.68,
+      "confidence": 0.989,
+      "tokens": [
+        {
+          "text": " Th",
+          "start": 3.52,
+          "end": 3.6,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "ere",
+          "start": 3.6,
+          "end": 3.76,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "'",
+          "start": 3.76,
+          "end": 3.92,
+          "duration": 0.16,
+          "confidence": 0.996
+        },
+        {
+          "text": "s",
+          "start": 3.92,
+          "end": 3.92,
+          "duration": 0.0,
+          "confidence": 1.0
+        },
+        {
+          "text": " no",
+          "start": 3.92,
+          "end": 4.24,
+          "duration": 0.32,
+          "confidence": 1.0
+        },
+        {
+          "text": " face",
+          "start": 4.24,
+          "end": 4.56,
+          "duration": 0.32,
+          "confidence": 0.966
+        },
+        {
+          "text": " I",
+          "start": 4.56,
+          "end": 4.8,
+          "duration": 0.24,
+          "confidence": 0.998
+        },
+        {
+          "text": "D",
+          "start": 4.8,
+          "end": 5.04,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": ".",
+          "start": 5.04,
+          "end": 5.2,
+          "duration": 0.16,
+          "confidence": 0.948
+        }
+      ]
+    },
+    {
+      "text": " You unlock it with touch ID in the side button.",
+      "start": 5.2,
+      "end": 8.16,
+      "duration": 2.96,
+      "confidence": 0.987,
+      "tokens": [
+        {
+          "text": " You",
+          "start": 5.2,
+          "end": 5.44,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " un",
+          "start": 5.44,
+          "end": 5.6,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "lo",
+          "start": 5.6,
+          "end": 5.68,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "ck",
+          "start": 5.68,
+          "end": 5.84,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " it",
+          "start": 5.84,
+          "end": 5.92,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": " with",
+          "start": 5.92,
+          "end": 6.08,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " tou",
+          "start": 6.24,
+          "end": 6.32,
+          "duration": 0.08,
+          "confidence": 0.936
+        },
+        {
+          "text": "ch",
+          "start": 6.32,
+          "end": 6.48,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " I",
+          "start": 6.56,
+          "end": 6.72,
+          "duration": 0.16,
+          "confidence": 0.993
+        },
+        {
+          "text": "D",
+          "start": 6.72,
+          "end": 6.96,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " in",
+          "start": 6.96,
+          "end": 7.12,
+          "duration": 0.16,
+          "confidence": 0.931
+        },
+        {
+          "text": " the",
+          "start": 7.12,
+          "end": 7.2,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": " s",
+          "start": 7.2,
+          "end": 7.36,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ide",
+          "start": 7.36,
+          "end": 7.52,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " but",
+          "start": 7.52,
+          "end": 7.76,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "ton",
+          "start": 7.76,
+          "end": 8.0,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": ".",
+          "start": 8.0,
+          "end": 8.16,
+          "duration": 0.16,
+          "confidence": 0.931
+        }
+      ]
+    },
+    {
+      "text": " The volume buttons sit on the top edge.",
+      "start": 8.16,
+      "end": 10.56,
+      "duration": 2.4,
+      "confidence": 0.995,
+      "tokens": [
+        {
+          "text": " The",
+          "start": 8.16,
+          "end": 8.4,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " vol",
+          "start": 8.4,
+          "end": 8.64,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "ume",
+          "start": 8.64,
+          "end": 8.8,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " but",
+          "start": 8.8,
+          "end": 8.96,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "t",
+          "start": 8.96,
+          "end": 9.04,
+          "duration": 0.08,
+          "confidence": 0.958
+        },
+        {
+          "text": "ons",
+          "start": 9.04,
+          "end": 9.2,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " sit",
+          "start": 9.2,
+          "end": 9.44,
+          "duration": 0.24,
+          "confidence": 0.99
+        },
+        {
+          "text": " on",
+          "start": 9.44,
+          "end": 9.6,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " the",
+          "start": 9.6,
+          "end": 9.68,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": " to",
+          "start": 9.68,
+          "end": 9.84,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "p",
+          "start": 9.84,
+          "end": 10.08,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " ed",
+          "start": 10.08,
+          "end": 10.24,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ge",
+          "start": 10.24,
+          "end": 10.4,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": ".",
+          "start": 10.4,
+          "end": 10.56,
+          "duration": 0.16,
+          "confidence": 0.987
+        }
+      ]
+    },
+    {
+      "text": " The outer screen is shaped like a D, square by the hinge and rounded on the outside with its controls down the right edge.",
+      "start": 10.56,
+      "end": 17.44,
+      "duration": 6.88,
+      "confidence": 0.998,
+      "tokens": [
+        {
+          "text": " The",
+          "start": 10.56,
+          "end": 10.8,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " out",
+          "start": 10.8,
+          "end": 10.96,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "er",
+          "start": 10.96,
+          "end": 11.12,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " sc",
+          "start": 11.12,
+          "end": 11.2,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "re",
+          "start": 11.2,
+          "end": 11.28,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "en",
+          "start": 11.28,
+          "end": 11.44,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " is",
+          "start": 11.44,
+          "end": 11.6,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " sh",
+          "start": 11.6,
+          "end": 11.68,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "ap",
+          "start": 11.68,
+          "end": 11.76,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "ed",
+          "start": 11.76,
+          "end": 11.92,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " like",
+          "start": 11.92,
+          "end": 12.08,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " a",
+          "start": 12.08,
+          "end": 12.32,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " D",
+          "start": 12.32,
+          "end": 12.64,
+          "duration": 0.32,
+          "confidence": 1.0
+        },
+        {
+          "text": ",",
+          "start": 12.64,
+          "end": 12.8,
+          "duration": 0.16,
+          "confidence": 0.975
+        },
+        {
+          "text": " s",
+          "start": 12.8,
+          "end": 12.88,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "qu",
+          "start": 12.88,
+          "end": 13.04,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "are",
+          "start": 13.04,
+          "end": 13.2,
+          "duration": 0.16,
+          "confidence": 0.998
+        },
+        {
+          "text": " by",
+          "start": 13.2,
+          "end": 13.36,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " the",
+          "start": 13.36,
+          "end": 13.44,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": " h",
+          "start": 13.44,
+          "end": 13.6,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "inge",
+          "start": 13.6,
+          "end": 13.76,
+          "duration": 0.16,
+          "confidence": 0.999
+        },
+        {
+          "text": " and",
+          "start": 13.84,
+          "end": 14.0,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " ro",
+          "start": 14.0,
+          "end": 14.16,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "und",
+          "start": 14.16,
+          "end": 14.32,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ed",
+          "start": 14.32,
+          "end": 14.48,
+          "duration": 0.16,
+          "confidence": 0.999
+        },
+        {
+          "text": " on",
+          "start": 14.48,
+          "end": 14.64,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " the",
+          "start": 14.64,
+          "end": 14.72,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": " out",
+          "start": 14.72,
+          "end": 14.96,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "s",
+          "start": 14.96,
+          "end": 15.04,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "ide",
+          "start": 15.04,
+          "end": 15.2,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " with",
+          "start": 15.28,
+          "end": 15.52,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " its",
+          "start": 15.52,
+          "end": 15.68,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " control",
+          "start": 15.68,
+          "end": 16.0,
+          "duration": 0.32,
+          "confidence": 1.0
+        },
+        {
+          "text": "s",
+          "start": 16.0,
+          "end": 16.24,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " down",
+          "start": 16.24,
+          "end": 16.48,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " the",
+          "start": 16.48,
+          "end": 16.64,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " right",
+          "start": 16.64,
+          "end": 16.96,
+          "duration": 0.32,
+          "confidence": 1.0
+        },
+        {
+          "text": " ed",
+          "start": 16.96,
+          "end": 17.12,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ge",
+          "start": 17.12,
+          "end": 17.28,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": ".",
+          "start": 17.28,
+          "end": 17.44,
+          "duration": 0.16,
+          "confidence": 0.935
+        }
+      ]
+    },
+    {
+      "text": " And the USB-C port sits low on the left half, out of the way when you use it like a laptop.",
+      "start": 17.44,
+      "end": 23.36,
+      "duration": 5.92,
+      "confidence": 0.997,
+      "tokens": [
+        {
+          "text": " And",
+          "start": 17.44,
+          "end": 17.68,
+          "duration": 0.24,
+          "confidence": 0.988
+        },
+        {
+          "text": " the",
+          "start": 17.68,
+          "end": 17.92,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " U",
+          "start": 17.92,
+          "end": 18.08,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "S",
+          "start": 18.08,
+          "end": 18.24,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "B",
+          "start": 18.24,
+          "end": 18.32,
+          "duration": 0.08,
+          "confidence": 0.999
+        },
+        {
+          "text": "-",
+          "start": 18.4,
+          "end": 18.48,
+          "duration": 0.08,
+          "confidence": 0.951
+        },
+        {
+          "text": "C",
+          "start": 18.48,
+          "end": 18.72,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " port",
+          "start": 18.72,
+          "end": 19.04,
+          "duration": 0.32,
+          "confidence": 1.0
+        },
+        {
+          "text": " s",
+          "start": 19.04,
+          "end": 19.2,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "its",
+          "start": 19.2,
+          "end": 19.36,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " l",
+          "start": 19.36,
+          "end": 19.52,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ow",
+          "start": 19.52,
+          "end": 19.68,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " on",
+          "start": 19.68,
+          "end": 19.76,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": " the",
+          "start": 19.76,
+          "end": 19.84,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": " le",
+          "start": 19.84,
+          "end": 20.0,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ft",
+          "start": 20.0,
+          "end": 20.24,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " hal",
+          "start": 20.24,
+          "end": 20.4,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "f",
+          "start": 20.4,
+          "end": 20.56,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": ",",
+          "start": 20.56,
+          "end": 20.72,
+          "duration": 0.16,
+          "confidence": 0.962
+        },
+        {
+          "text": " out",
+          "start": 20.72,
+          "end": 20.88,
+          "duration": 0.16,
+          "confidence": 0.999
+        },
+        {
+          "text": " of",
+          "start": 20.88,
+          "end": 21.04,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " the",
+          "start": 21.04,
+          "end": 21.12,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": " way",
+          "start": 21.12,
+          "end": 21.28,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " when",
+          "start": 21.36,
+          "end": 21.52,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " you",
+          "start": 21.52,
+          "end": 21.68,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " use",
+          "start": 21.68,
+          "end": 21.84,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " it",
+          "start": 21.84,
+          "end": 22.0,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " like",
+          "start": 22.0,
+          "end": 22.16,
+          "duration": 0.16,
+          "confidence": 0.996
+        },
+        {
+          "text": " a",
+          "start": 22.16,
+          "end": 22.32,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " la",
+          "start": 22.32,
+          "end": 22.48,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "p",
+          "start": 22.48,
+          "end": 22.72,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "to",
+          "start": 22.72,
+          "end": 22.88,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "p",
+          "start": 22.88,
+          "end": 23.12,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": ".",
+          "start": 23.12,
+          "end": 23.36,
+          "duration": 0.24,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "text": " Inside, it runs the same A20 Pro chip as the iPhone 18 Pro.",
+      "start": 23.36,
+      "end": 28.4,
+      "duration": 5.04,
+      "confidence": 0.997,
+      "tokens": [
+        {
+          "text": " In",
+          "start": 23.36,
+          "end": 23.52,
+          "duration": 0.16,
+          "confidence": 0.999
+        },
+        {
+          "text": "s",
+          "start": 23.52,
+          "end": 23.76,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "ide",
+          "start": 23.76,
+          "end": 24.0,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": ",",
+          "start": 24.0,
+          "end": 24.08,
+          "duration": 0.08,
+          "confidence": 0.955
+        },
+        {
+          "text": " it",
+          "start": 24.08,
+          "end": 24.32,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " r",
+          "start": 24.32,
+          "end": 24.48,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "uns",
+          "start": 24.48,
+          "end": 24.64,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " the",
+          "start": 24.64,
+          "end": 24.8,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " sam",
+          "start": 24.8,
+          "end": 24.96,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "e",
+          "start": 24.96,
+          "end": 25.2,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " A",
+          "start": 25.2,
+          "end": 25.52,
+          "duration": 0.32,
+          "confidence": 0.985
+        },
+        {
+          "text": "2",
+          "start": 25.52,
+          "end": 25.68,
+          "duration": 0.16,
+          "confidence": 0.997
+        },
+        {
+          "text": "0",
+          "start": 25.68,
+          "end": 25.92,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " Pro",
+          "start": 25.92,
+          "end": 26.08,
+          "duration": 0.16,
+          "confidence": 0.997
+        },
+        {
+          "text": " ch",
+          "start": 26.24,
+          "end": 26.4,
+          "duration": 0.16,
+          "confidence": 0.992
+        },
+        {
+          "text": "ip",
+          "start": 26.4,
+          "end": 26.56,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " as",
+          "start": 26.56,
+          "end": 26.72,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " the",
+          "start": 26.72,
+          "end": 26.88,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " i",
+          "start": 26.88,
+          "end": 27.12,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "P",
+          "start": 27.12,
+          "end": 27.28,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "h",
+          "start": 27.28,
+          "end": 27.44,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "one",
+          "start": 27.44,
+          "end": 27.6,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " ",
+          "start": 27.6,
+          "end": 27.68,
+          "duration": 0.08,
+          "confidence": 0.996
+        },
+        {
+          "text": "1",
+          "start": 27.68,
+          "end": 27.84,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "8",
+          "start": 27.84,
+          "end": 28.08,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " Pro",
+          "start": 28.08,
+          "end": 28.32,
+          "duration": 0.24,
+          "confidence": 0.999
+        },
+        {
+          "text": ".",
+          "start": 28.32,
+          "end": 28.4,
+          "duration": 0.08,
+          "confidence": 0.999
+        }
+      ]
+    }
+  ]
+}

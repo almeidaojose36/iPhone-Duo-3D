@@ -1,0 +1,175 @@
+{
+  "text": "Even in a phone this thin, there's room for sound and touch.",
+  "sentences": [
+    {
+      "text": " Even in a phone this thin, there's room for sound and touch.",
+      "start": 0.0,
+      "end": 3.52,
+      "duration": 3.52,
+      "confidence": 0.997,
+      "tokens": [
+        {
+          "text": " E",
+          "start": 0.0,
+          "end": 0.08,
+          "duration": 0.08,
+          "confidence": 0.988
+        },
+        {
+          "text": "ven",
+          "start": 0.08,
+          "end": 0.24,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " in",
+          "start": 0.24,
+          "end": 0.4,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " a",
+          "start": 0.4,
+          "end": 0.48,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": " p",
+          "start": 0.48,
+          "end": 0.64,
+          "duration": 0.16,
+          "confidence": 0.989
+        },
+        {
+          "text": "h",
+          "start": 0.64,
+          "end": 0.72,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "one",
+          "start": 0.72,
+          "end": 0.88,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " this",
+          "start": 0.88,
+          "end": 1.12,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " th",
+          "start": 1.12,
+          "end": 1.28,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "in",
+          "start": 1.28,
+          "end": 1.52,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": ",",
+          "start": 1.52,
+          "end": 1.68,
+          "duration": 0.16,
+          "confidence": 0.984
+        },
+        {
+          "text": " there",
+          "start": 1.68,
+          "end": 1.84,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "'",
+          "start": 1.84,
+          "end": 1.92,
+          "duration": 0.08,
+          "confidence": 0.998
+        },
+        {
+          "text": "s",
+          "start": 1.92,
+          "end": 2.0,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": " ro",
+          "start": 2.0,
+          "end": 2.16,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "om",
+          "start": 2.16,
+          "end": 2.32,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " for",
+          "start": 2.32,
+          "end": 2.56,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " so",
+          "start": 2.56,
+          "end": 2.72,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "und",
+          "start": 2.72,
+          "end": 2.88,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " and",
+          "start": 2.88,
+          "end": 3.12,
+          "duration": 0.24,
+          "confidence": 0.997
+        },
+        {
+          "text": " tou",
+          "start": 3.12,
+          "end": 3.28,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ch",
+          "start": 3.28,
+          "end": 3.44,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": ".",
+          "start": 3.44,
+          "end": 3.52,
+          "duration": 0.08,
+          "confidence": 0.986
+        }
+      ]
+    }
+  ]
+}

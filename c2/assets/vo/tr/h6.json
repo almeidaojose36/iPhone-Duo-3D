@@ -1,0 +1,515 @@
+{
+  "text": "In the middle sits a support bar. With the phone open, it holds the screen up along the fold so it feels flat under your finger. When the phone closes, it drops down to make room for that loop.",
+  "sentences": [
+    {
+      "text": " In the middle sits a support bar.",
+      "start": 0.0,
+      "end": 2.08,
+      "duration": 2.08,
+      "confidence": 1.0,
+      "tokens": [
+        {
+          "text": " In",
+          "start": 0.0,
+          "end": 0.24,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " the",
+          "start": 0.24,
+          "end": 0.32,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": " mid",
+          "start": 0.32,
+          "end": 0.4,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "d",
+          "start": 0.4,
+          "end": 0.48,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "le",
+          "start": 0.48,
+          "end": 0.56,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": " s",
+          "start": 0.56,
+          "end": 0.72,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "its",
+          "start": 0.72,
+          "end": 0.88,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " a",
+          "start": 0.88,
+          "end": 1.04,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " su",
+          "start": 1.04,
+          "end": 1.28,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "pport",
+          "start": 1.28,
+          "end": 1.6,
+          "duration": 0.32,
+          "confidence": 1.0
+        },
+        {
+          "text": " bar",
+          "start": 1.6,
+          "end": 1.92,
+          "duration": 0.32,
+          "confidence": 1.0
+        },
+        {
+          "text": ".",
+          "start": 1.92,
+          "end": 2.08,
+          "duration": 0.16,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "text": " With the phone open, it holds the screen up along the fold so it feels flat under your finger.",
+      "start": 2.08,
+      "end": 8.16,
+      "duration": 6.08,
+      "confidence": 1.0,
+      "tokens": [
+        {
+          "text": " W",
+          "start": 2.08,
+          "end": 2.24,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ith",
+          "start": 2.24,
+          "end": 2.4,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " the",
+          "start": 2.4,
+          "end": 2.56,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " p",
+          "start": 2.56,
+          "end": 2.64,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "h",
+          "start": 2.64,
+          "end": 2.8,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "one",
+          "start": 2.8,
+          "end": 2.96,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " op",
+          "start": 2.96,
+          "end": 3.12,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "en",
+          "start": 3.12,
+          "end": 3.28,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": ",",
+          "start": 3.28,
+          "end": 3.44,
+          "duration": 0.16,
+          "confidence": 0.995
+        },
+        {
+          "text": " it",
+          "start": 3.44,
+          "end": 3.68,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " h",
+          "start": 3.68,
+          "end": 3.76,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "old",
+          "start": 3.76,
+          "end": 3.92,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "s",
+          "start": 3.92,
+          "end": 4.08,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " the",
+          "start": 4.08,
+          "end": 4.16,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": " sc",
+          "start": 4.16,
+          "end": 4.32,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "re",
+          "start": 4.32,
+          "end": 4.48,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "en",
+          "start": 4.48,
+          "end": 4.64,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " up",
+          "start": 4.64,
+          "end": 4.8,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " al",
+          "start": 4.8,
+          "end": 4.96,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ong",
+          "start": 4.96,
+          "end": 5.12,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " the",
+          "start": 5.12,
+          "end": 5.36,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " f",
+          "start": 5.36,
+          "end": 5.6,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "old",
+          "start": 5.6,
+          "end": 5.84,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " so",
+          "start": 5.84,
+          "end": 6.08,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " it",
+          "start": 6.08,
+          "end": 6.24,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " fe",
+          "start": 6.24,
+          "end": 6.4,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "els",
+          "start": 6.4,
+          "end": 6.64,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " fl",
+          "start": 6.64,
+          "end": 6.8,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "at",
+          "start": 6.8,
+          "end": 7.04,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " under",
+          "start": 7.04,
+          "end": 7.28,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " your",
+          "start": 7.28,
+          "end": 7.44,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " f",
+          "start": 7.44,
+          "end": 7.68,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "inger",
+          "start": 7.68,
+          "end": 7.92,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": ".",
+          "start": 7.92,
+          "end": 8.16,
+          "duration": 0.24,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "text": " When the phone closes, it drops down to make room for that loop.",
+      "start": 8.16,
+      "end": 12.16,
+      "duration": 4.0,
+      "confidence": 1.0,
+      "tokens": [
+        {
+          "text": " W",
+          "start": 8.16,
+          "end": 8.24,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "hen",
+          "start": 8.24,
+          "end": 8.4,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " the",
+          "start": 8.4,
+          "end": 8.56,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " p",
+          "start": 8.56,
+          "end": 8.64,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "h",
+          "start": 8.64,
+          "end": 8.8,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "one",
+          "start": 8.8,
+          "end": 8.96,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " c",
+          "start": 8.96,
+          "end": 9.12,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "los",
+          "start": 9.12,
+          "end": 9.36,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "es",
+          "start": 9.36,
+          "end": 9.52,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": ",",
+          "start": 9.52,
+          "end": 9.76,
+          "duration": 0.24,
+          "confidence": 0.999
+        },
+        {
+          "text": " it",
+          "start": 9.76,
+          "end": 10.0,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " dro",
+          "start": 10.0,
+          "end": 10.24,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "ps",
+          "start": 10.24,
+          "end": 10.56,
+          "duration": 0.32,
+          "confidence": 1.0
+        },
+        {
+          "text": " down",
+          "start": 10.56,
+          "end": 10.72,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " to",
+          "start": 10.72,
+          "end": 10.96,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " make",
+          "start": 10.96,
+          "end": 11.12,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " ro",
+          "start": 11.12,
+          "end": 11.28,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "om",
+          "start": 11.28,
+          "end": 11.36,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": " for",
+          "start": 11.36,
+          "end": 11.52,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " that",
+          "start": 11.52,
+          "end": 11.76,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " lo",
+          "start": 11.76,
+          "end": 11.92,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "op",
+          "start": 11.92,
+          "end": 12.08,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": ".",
+          "start": 12.08,
+          "end": 12.16,
+          "duration": 0.08,
+          "confidence": 1.0
+        }
+      ]
+    }
+  ]
+}

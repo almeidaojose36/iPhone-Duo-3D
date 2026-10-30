@@ -1,0 +1,231 @@
+{
+  "text": "and in the last few degrees, magnets in the frame take over and pull the two halves shut.",
+  "sentences": [
+    {
+      "text": " and in the last few degrees, magnets in the frame take over and pull the two halves shut.",
+      "start": 0.0,
+      "end": 5.04,
+      "duration": 5.04,
+      "confidence": 0.991,
+      "tokens": [
+        {
+          "text": " and",
+          "start": 0.0,
+          "end": 0.24,
+          "duration": 0.24,
+          "confidence": 0.919
+        },
+        {
+          "text": " in",
+          "start": 0.24,
+          "end": 0.4,
+          "duration": 0.16,
+          "confidence": 0.999
+        },
+        {
+          "text": " the",
+          "start": 0.4,
+          "end": 0.56,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " last",
+          "start": 0.56,
+          "end": 0.72,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " f",
+          "start": 0.72,
+          "end": 0.88,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ew",
+          "start": 0.88,
+          "end": 1.04,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " de",
+          "start": 1.04,
+          "end": 1.12,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "g",
+          "start": 1.12,
+          "end": 1.28,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "re",
+          "start": 1.28,
+          "end": 1.44,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "es",
+          "start": 1.44,
+          "end": 1.6,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": ",",
+          "start": 1.6,
+          "end": 1.92,
+          "duration": 0.32,
+          "confidence": 0.934
+        },
+        {
+          "text": " mag",
+          "start": 1.92,
+          "end": 2.16,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "net",
+          "start": 2.16,
+          "end": 2.32,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "s",
+          "start": 2.32,
+          "end": 2.4,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": " in",
+          "start": 2.4,
+          "end": 2.56,
+          "duration": 0.16,
+          "confidence": 0.995
+        },
+        {
+          "text": " the",
+          "start": 2.56,
+          "end": 2.72,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " fra",
+          "start": 2.72,
+          "end": 2.88,
+          "duration": 0.16,
+          "confidence": 0.999
+        },
+        {
+          "text": "me",
+          "start": 2.88,
+          "end": 3.12,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " tak",
+          "start": 3.12,
+          "end": 3.2,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "e",
+          "start": 3.2,
+          "end": 3.36,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " over",
+          "start": 3.36,
+          "end": 3.52,
+          "duration": 0.16,
+          "confidence": 0.997
+        },
+        {
+          "text": " and",
+          "start": 3.52,
+          "end": 3.68,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " p",
+          "start": 3.68,
+          "end": 3.76,
+          "duration": 0.08,
+          "confidence": 0.999
+        },
+        {
+          "text": "ull",
+          "start": 3.76,
+          "end": 3.92,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " the",
+          "start": 3.92,
+          "end": 4.08,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " two",
+          "start": 4.08,
+          "end": 4.24,
+          "duration": 0.16,
+          "confidence": 0.989
+        },
+        {
+          "text": " hal",
+          "start": 4.4,
+          "end": 4.56,
+          "duration": 0.16,
+          "confidence": 0.988
+        },
+        {
+          "text": "ves",
+          "start": 4.56,
+          "end": 4.72,
+          "duration": 0.16,
+          "confidence": 0.971
+        },
+        {
+          "text": " sh",
+          "start": 4.72,
+          "end": 4.8,
+          "duration": 0.08,
+          "confidence": 0.999
+        },
+        {
+          "text": "ut",
+          "start": 4.8,
+          "end": 4.96,
+          "duration": 0.16,
+          "confidence": 0.998
+        },
+        {
+          "text": ".",
+          "start": 4.96,
+          "end": 5.04,
+          "duration": 0.08,
+          "confidence": 0.954
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+<template>
+  <style>
+    @font-face { font-family: 'Saira'; src: url('assets/fonts/Saira-Variable.woff2') format('woff2'); font-weight: 300 700; }
+    #root { position: absolute; inset: 0; background: #0d0e10; --cyan: #5fd8ff; overflow: hidden; }
+    #stage-macro, #stage-micro { position: absolute; inset: 0; width: 1920px; height: 1080px; }
+    #stage-micro { opacity: 0; }
+    #stage-vignette { position: absolute; inset: 0; pointer-events: none;
+      background: radial-gradient(ellipse 78% 72% at 50% 48%, rgba(0,0,0,0) 58%, rgba(0,0,0,0.5) 100%); }
+    #stage-scope { position: absolute; right: 90px; bottom: 90px; width: 620px; height: 300px; opacity: 0; pointer-events: none; }
+    #stage-labels, #stage-mlabels { position: absolute; inset: 0; pointer-events: none; }
+    .lbl { position: absolute; left: 0; top: 0; white-space: nowrap; font-family: 'Saira', sans-serif;
+      font-weight: 500; font-size: 44px; letter-spacing: 0.01em; line-height: 1.15;
+      padding: 4px 16px 7px; border-radius: 12px; background: rgba(5, 9, 14, 0.66);
+      box-shadow: 0 0 0 1px rgba(95,216,255,0.18), 0 6px 18px rgba(0,0,0,0.45);
+      text-shadow: 0 0 14px rgba(95,216,255,0.35), 0 2px 6px rgba(0,0,0,0.9); }
+    #stage-loupe { position: absolute; left: 0; top: 0; width: 540px; height: 540px; opacity: 0; transform-origin: 270px 270px; pointer-events: none; }
+    #stage-fade { position: absolute; inset: 0; background: #000; opacity: 1; pointer-events: none; z-index: 2; }
+    #stage-title { position: absolute; inset: 0; display: flex; flex-direction: column; align-items: center; justify-content: center;
+      background: radial-gradient(ellipse 58% 34% at 50% 50%, rgba(3,6,11,0.86) 0%, rgba(3,6,11,0.62) 48%, rgba(3,6,11,0) 100%);
+      opacity: 0; pointer-events: none; }
+    #stage-title h1 { font-family: 'Saira', sans-serif; font-weight: 700; font-size: 124px; letter-spacing: 0.14em; white-space: nowrap; text-align: center; color: #f4fbff;
+      text-shadow: 0 0 40px rgba(95,216,255,0.55), 0 6px 30px rgba(0,0,0,0.9); margin: 0; }
+    #stage-title p { font-family: 'Saira', sans-serif; font-weight: 400; font-size: 36px; letter-spacing: 0.5em; white-space: nowrap; text-align: center; color: #9fe6ff; margin: 18px 0 0 0;
+      text-shadow: 0 2px 12px rgba(0,0,0,0.9); }
+    #stage-chapter { position: absolute; left: 150px; top: 120px; opacity: 0; font-family: 'Saira', sans-serif; color: #e9f7ff; pointer-events: none; }
+    #stage-chapter .num { font-size: 34px; font-weight: 600; color: var(--cyan); letter-spacing: 0.3em; }
+    #stage-chapter .name { font-size: 64px; font-weight: 600; letter-spacing: 0.12em; margin-top: 4px; text-shadow: 0 2px 14px rgba(0,0,0,0.9); }
+    #stage-chapter .bar { width: 120px; height: 4px; background: var(--cyan); margin-top: 14px; box-shadow: 0 0 14px rgba(95,216,255,0.8); }
+    #stage-big { position: absolute; right: 150px; top: 70px; text-align: right; opacity: 0; font-family: 'Saira', sans-serif; pointer-events: none; }
+    #stage-big .n { font-size: 112px; font-weight: 600; color: #f4fbff; text-shadow: 0 0 30px rgba(95,216,255,0.6), 0 4px 18px rgba(0,0,0,0.9); font-variant-numeric: tabular-nums; }
+    #stage-big .s { font-size: 40px; font-weight: 500; color: var(--cyan); letter-spacing: 0.06em; text-shadow: 0 2px 10px rgba(0,0,0,0.9); }
+    #stage-scale { position: absolute; left: 190px; bottom: 170px; opacity: 0; font-family: 'Saira', sans-serif; color: #f4fbff; pointer-events: none; }
+    #stage-scale .rule { width: 260px; height: 3px; background: #f4fbff; position: relative; box-shadow: 0 0 10px rgba(95,216,255,0.8); }
+    #stage-scale .rule::before, #stage-scale .rule::after { content: ''; position: absolute; top: -12px; width: 3px; height: 27px; background: #f4fbff; }
+    #stage-scale .rule::before { left: 0; } #stage-scale .rule::after { right: 0; }
+    #stage-scale .t { font-size: 40px; font-weight: 500; margin-top: 16px; text-shadow: 0 2px 10px rgba(0,0,0,0.9); }
+    #stage-end { position: absolute; inset: 0; z-index: 3; display: flex; flex-direction: column; align-items: center; justify-content: center; opacity: 0; pointer-events: none; }
+    #stage-end .k { font-family: 'Saira', sans-serif; font-size: 40px; letter-spacing: 0.5em; color: var(--cyan); }
+    #stage-end .h { font-family: 'Saira', sans-serif; font-size: 130px; font-weight: 700; letter-spacing: 0.14em; color: #f4fbff; margin-top: 10px;
+      text-shadow: 0 0 40px rgba(95,216,255,0.45); }
+    #stage-es { position: absolute; inset: 0; z-index: 3; opacity: 0; pointer-events: none; font-family: 'Saira', sans-serif; }
+    #stage-es .bg { position: absolute; inset: 0; background: radial-gradient(ellipse 90% 80% at 50% 55%, rgba(3,6,11,0.55) 0%, rgba(3,6,11,0.82) 100%); }
+    #stage-es .t { position: absolute; left: 0; right: 0; top: 150px; text-align: center; font-size: 84px; font-weight: 700; letter-spacing: 0.16em; color: #f4fbff;
+      text-shadow: 0 0 36px rgba(95,216,255,0.5), 0 4px 20px rgba(0,0,0,0.9); }
+    #stage-es .st { position: absolute; left: 0; right: 0; top: 262px; text-align: center; font-size: 30px; font-weight: 400; letter-spacing: 0.5em; color: #9fe6ff; }
+    #stage-es .tile { position: absolute; top: 400px; width: 640px; height: 360px; border-radius: 18px; border: 2px solid rgba(95,216,255,0.28);
+      background: rgba(10,16,24,0.35); box-shadow: 0 0 40px rgba(95,216,255,0.08) inset; }
+    #stage-es .tile.a { left: 170px; } #stage-es .tile.b { right: 170px; }
+    #stage-es .sub { position: absolute; left: 845px; top: 465px; width: 230px; height: 230px; border-radius: 50%; border: 2px solid rgba(95,216,255,0.32);
+      background: rgba(10,16,24,0.35); }
+  </style>
+  <div id="root" data-composition-id="stage" data-width="1920" data-height="1080">
+    <canvas id="stage-macro" width="1920" height="1080"></canvas>
+    <canvas id="stage-micro" width="1920" height="1080"></canvas>
+    <div id="stage-vignette"></div>
+    <svg id="stage-loupe" viewBox="0 0 540 540">
+      <defs>
+        <linearGradient id="rim" x1="0" y1="0" x2="1" y2="1">
+          <stop offset="0" stop-color="#f2f6fa"/><stop offset="0.45" stop-color="#5a6068"/><stop offset="0.7" stop-color="#c9ced4"/><stop offset="1" stop-color="#3a3f45"/>
+        </linearGradient>
+        <radialGradient id="sheen" cx="0.35" cy="0.3" r="0.7">
+          <stop offset="0" stop-color="rgba(255,255,255,0.22)"/><stop offset="0.5" stop-color="rgba(255,255,255,0.03)"/><stop offset="1" stop-color="rgba(255,255,255,0)"/>
+        </radialGradient>
+      </defs>
+      <circle cx="270" cy="270" r="250" fill="url(#sheen)"/>
+      <circle cx="270" cy="270" r="256" fill="none" stroke="url(#rim)" stroke-width="16"/>
+      <circle cx="270" cy="270" r="247" fill="none" stroke="rgba(95,216,255,0.7)" stroke-width="2"/>
+    </svg>
+    <canvas id="stage-scope" width="620" height="300"></canvas>
+    <canvas id="stage-ov" width="1920" height="1080" style="position:absolute;inset:0;pointer-events:none;opacity:0"></canvas>
+    <div id="stage-labels"></div>
+    <div id="stage-mlabels"></div>
+    <div id="stage-chapter"><div class="num" id="stage-chapnum">01</div><div class="name" id="stage-chapname">THE MACHINE</div><div class="bar"></div></div>
+    <div id="stage-big"><div class="n" id="stage-bignum">0</div><div class="s" id="stage-bigsub"></div></div>
+    <div id="stage-scale"><div class="rule"></div><div class="t">≈ a few dozen atoms</div></div>
+    <div id="stage-title"><h1 id="stage-titleh">INSIDE THE iPHONE DUO</h1><p id="stage-titlep">A FOLDABLE, TAKEN APART</p></div>
+    <div id="stage-end"><div class="k">NEXT</div><div class="h" id="stage-endname">MOTHERBOARD</div></div>
+    <div id="stage-es"><div class="bg"></div><div class="t">THANKS FOR WATCHING</div><div class="st">INSIDE THE iPHONE DUO</div><div class="tile a"></div><div class="tile b"></div><div class="sub"></div></div>
+    <div id="stage-fade"></div>
+  </div>
+  <script>
+    (function () {
+      const DURATION = 64.76;
+      const tl = gsap.timeline({ paused: true });
+      tl.set({}, {}, DURATION);
+      window.__timelines = window.__timelines || {};
+      window.__timelines["stage"] = tl;
+      window.__hf = window.__hf || {};
+      window.__hf.buildReady = window.__hf.buildReady || {};
+      const $ = (id) => document.getElementById(id);
+      const el = {
+        macro: $('stage-macro'), micro: $('stage-micro'), labels: $('stage-labels'), mlabels: $('stage-mlabels'),
+        loupe: $('stage-loupe'), fade: $('stage-fade'), title: $('stage-title'), chapter: $('stage-chapter'),
+        chapNum: $('stage-chapnum'), chapName: $('stage-chapname'), big: $('stage-big'), bigNum: $('stage-bignum'),
+        bigSub: $('stage-bigsub'), titleH: $('stage-titleh'), titleP: $('stage-titlep'), es: $('stage-es'), ov: $('stage-ov'), scale: $('stage-scale'), endcard: $('stage-end'), scope: $('stage-scope')
+      };
+      let renderAt = null;
+      let lastT = 0;
+      window.__hf.buildReady["stage"] = import('./assets/js/shots.js').then(async (mod) => {
+        renderAt = await mod.init(el);
+        renderAt(lastT);
+      }).catch((e) => { console.error('stage init failed', e && e.stack || e); throw e; });
+      window.addEventListener('hf-seek', (e) => {
+        lastT = e.detail.time;
+        if (renderAt) renderAt(lastT);
+      });
+    })();
+  </script>
+</template>

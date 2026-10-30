@@ -1,0 +1,564 @@
+{
+  "text": "The cells are held in with an adhesive that lets go when a small electric current runs through it. The current changes the glue right at the surface, so it loses its grip. Even a 9 volt battery is enough.",
+  "sentences": [
+    {
+      "text": " The cells are held in with an adhesive that lets go when a small electric current runs through it.",
+      "start": 0.0,
+      "end": 6.08,
+      "duration": 6.08,
+      "confidence": 1.0,
+      "tokens": [
+        {
+          "text": " The",
+          "start": 0.0,
+          "end": 0.24,
+          "duration": 0.24,
+          "confidence": 0.999
+        },
+        {
+          "text": " c",
+          "start": 0.24,
+          "end": 0.32,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "ell",
+          "start": 0.32,
+          "end": 0.48,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "s",
+          "start": 0.48,
+          "end": 0.56,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": " are",
+          "start": 0.56,
+          "end": 0.72,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " h",
+          "start": 0.72,
+          "end": 0.88,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "eld",
+          "start": 0.88,
+          "end": 1.04,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " in",
+          "start": 1.04,
+          "end": 1.2,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " with",
+          "start": 1.2,
+          "end": 1.36,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " an",
+          "start": 1.36,
+          "end": 1.52,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " ad",
+          "start": 1.52,
+          "end": 1.68,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "h",
+          "start": 1.68,
+          "end": 1.84,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "es",
+          "start": 1.84,
+          "end": 2.08,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "ive",
+          "start": 2.08,
+          "end": 2.24,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " that",
+          "start": 2.24,
+          "end": 2.48,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " let",
+          "start": 2.48,
+          "end": 2.64,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "s",
+          "start": 2.64,
+          "end": 2.88,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " go",
+          "start": 2.88,
+          "end": 3.12,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " when",
+          "start": 3.12,
+          "end": 3.28,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " a",
+          "start": 3.28,
+          "end": 3.44,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " sm",
+          "start": 3.44,
+          "end": 3.68,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "all",
+          "start": 3.68,
+          "end": 3.84,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " ele",
+          "start": 3.84,
+          "end": 4.0,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ct",
+          "start": 4.0,
+          "end": 4.24,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "ric",
+          "start": 4.24,
+          "end": 4.4,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " cur",
+          "start": 4.4,
+          "end": 4.56,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "r",
+          "start": 4.56,
+          "end": 4.72,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ent",
+          "start": 4.72,
+          "end": 4.88,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " r",
+          "start": 4.88,
+          "end": 5.12,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "uns",
+          "start": 5.12,
+          "end": 5.28,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " th",
+          "start": 5.28,
+          "end": 5.36,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "ro",
+          "start": 5.36,
+          "end": 5.44,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "ugh",
+          "start": 5.44,
+          "end": 5.68,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " it",
+          "start": 5.68,
+          "end": 5.84,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": ".",
+          "start": 5.84,
+          "end": 6.08,
+          "duration": 0.24,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "text": " The current changes the glue right at the surface, so it loses its grip.",
+      "start": 6.08,
+      "end": 11.12,
+      "duration": 5.04,
+      "confidence": 0.999,
+      "tokens": [
+        {
+          "text": " The",
+          "start": 6.08,
+          "end": 6.24,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " cur",
+          "start": 6.24,
+          "end": 6.4,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "r",
+          "start": 6.4,
+          "end": 6.56,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ent",
+          "start": 6.56,
+          "end": 6.72,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " ch",
+          "start": 6.72,
+          "end": 6.88,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ang",
+          "start": 6.88,
+          "end": 7.04,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "es",
+          "start": 7.04,
+          "end": 7.2,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " the",
+          "start": 7.2,
+          "end": 7.36,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " g",
+          "start": 7.36,
+          "end": 7.52,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "lu",
+          "start": 7.52,
+          "end": 7.68,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "e",
+          "start": 7.68,
+          "end": 7.92,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " right",
+          "start": 7.92,
+          "end": 8.16,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " at",
+          "start": 8.16,
+          "end": 8.32,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " the",
+          "start": 8.32,
+          "end": 8.56,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " sur",
+          "start": 8.56,
+          "end": 8.72,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "fa",
+          "start": 8.72,
+          "end": 8.88,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ce",
+          "start": 8.88,
+          "end": 9.04,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": ",",
+          "start": 9.04,
+          "end": 9.28,
+          "duration": 0.24,
+          "confidence": 0.964
+        },
+        {
+          "text": " so",
+          "start": 9.28,
+          "end": 9.52,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " it",
+          "start": 9.52,
+          "end": 9.68,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " los",
+          "start": 9.68,
+          "end": 9.92,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "es",
+          "start": 9.92,
+          "end": 10.16,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " its",
+          "start": 10.16,
+          "end": 10.4,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " g",
+          "start": 10.4,
+          "end": 10.48,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "ri",
+          "start": 10.48,
+          "end": 10.72,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "p",
+          "start": 10.72,
+          "end": 10.88,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": ".",
+          "start": 10.88,
+          "end": 11.12,
+          "duration": 0.24,
+          "confidence": 0.997
+        }
+      ]
+    },
+    {
+      "text": " Even a 9 volt battery is enough.",
+      "start": 11.12,
+      "end": 13.6,
+      "duration": 2.48,
+      "confidence": 0.993,
+      "tokens": [
+        {
+          "text": " E",
+          "start": 11.12,
+          "end": 11.28,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ven",
+          "start": 11.28,
+          "end": 11.44,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " a",
+          "start": 11.44,
+          "end": 11.68,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " ",
+          "start": 11.68,
+          "end": 11.84,
+          "duration": 0.16,
+          "confidence": 0.962
+        },
+        {
+          "text": "9",
+          "start": 11.84,
+          "end": 12.08,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " volt",
+          "start": 12.08,
+          "end": 12.4,
+          "duration": 0.32,
+          "confidence": 0.941
+        },
+        {
+          "text": " b",
+          "start": 12.56,
+          "end": 12.64,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "at",
+          "start": 12.64,
+          "end": 12.8,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ter",
+          "start": 12.8,
+          "end": 12.88,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "y",
+          "start": 12.88,
+          "end": 13.04,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " is",
+          "start": 13.04,
+          "end": 13.2,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " en",
+          "start": 13.2,
+          "end": 13.44,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "ough",
+          "start": 13.44,
+          "end": 13.52,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": ".",
+          "start": 13.52,
+          "end": 13.6,
+          "duration": 0.08,
+          "confidence": 1.0
+        }
+      ]
+    }
+  ]
+}

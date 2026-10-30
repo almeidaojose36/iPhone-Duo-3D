@@ -1,0 +1,280 @@
+{
+  "text": "A phone this thin has no room for one big battery, so the iPhone Duo has two, one in each half.",
+  "sentences": [
+    {
+      "text": " A phone this thin has no room for one big battery, so the iPhone Duo has two, one in each half.",
+      "start": 0.0,
+      "end": 6.8,
+      "duration": 6.8,
+      "confidence": 0.997,
+      "tokens": [
+        {
+          "text": " A",
+          "start": 0.0,
+          "end": 0.24,
+          "duration": 0.24,
+          "confidence": 0.998
+        },
+        {
+          "text": " p",
+          "start": 0.24,
+          "end": 0.32,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "h",
+          "start": 0.32,
+          "end": 0.4,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "one",
+          "start": 0.4,
+          "end": 0.56,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " this",
+          "start": 0.56,
+          "end": 0.8,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " th",
+          "start": 0.8,
+          "end": 0.96,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "in",
+          "start": 0.96,
+          "end": 1.2,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " has",
+          "start": 1.2,
+          "end": 1.44,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " no",
+          "start": 1.44,
+          "end": 1.6,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " ro",
+          "start": 1.6,
+          "end": 1.68,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "om",
+          "start": 1.68,
+          "end": 1.84,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " for",
+          "start": 1.84,
+          "end": 2.08,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " one",
+          "start": 2.08,
+          "end": 2.24,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " b",
+          "start": 2.24,
+          "end": 2.32,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "ig",
+          "start": 2.32,
+          "end": 2.56,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " b",
+          "start": 2.56,
+          "end": 2.64,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "at",
+          "start": 2.64,
+          "end": 2.72,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "ter",
+          "start": 2.72,
+          "end": 2.88,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "y",
+          "start": 2.88,
+          "end": 3.12,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": ",",
+          "start": 3.12,
+          "end": 3.36,
+          "duration": 0.24,
+          "confidence": 0.97
+        },
+        {
+          "text": " so",
+          "start": 3.36,
+          "end": 3.52,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " the",
+          "start": 3.52,
+          "end": 3.68,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " i",
+          "start": 3.68,
+          "end": 3.92,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "P",
+          "start": 3.92,
+          "end": 4.0,
+          "duration": 0.08,
+          "confidence": 0.999
+        },
+        {
+          "text": "h",
+          "start": 4.0,
+          "end": 4.08,
+          "duration": 0.08,
+          "confidence": 0.988
+        },
+        {
+          "text": "one",
+          "start": 4.08,
+          "end": 4.24,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " Du",
+          "start": 4.4,
+          "end": 4.64,
+          "duration": 0.24,
+          "confidence": 0.93
+        },
+        {
+          "text": "o",
+          "start": 4.64,
+          "end": 4.88,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " has",
+          "start": 4.88,
+          "end": 5.2,
+          "duration": 0.32,
+          "confidence": 1.0
+        },
+        {
+          "text": " two",
+          "start": 5.2,
+          "end": 5.44,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": ",",
+          "start": 5.44,
+          "end": 5.68,
+          "duration": 0.24,
+          "confidence": 0.996
+        },
+        {
+          "text": " one",
+          "start": 5.68,
+          "end": 5.84,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " in",
+          "start": 5.84,
+          "end": 6.0,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " e",
+          "start": 6.0,
+          "end": 6.16,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ach",
+          "start": 6.16,
+          "end": 6.4,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " hal",
+          "start": 6.4,
+          "end": 6.56,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "f",
+          "start": 6.56,
+          "end": 6.72,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": ".",
+          "start": 6.72,
+          "end": 6.8,
+          "duration": 0.08,
+          "confidence": 0.998
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,646 @@
+{
+  "text": "At its center is the A20 Pro, Apple's first iPhone chip made on a 2 nanometer process. It has a 6-core CPU and a 7-core GPU with neural accelerators, and its memory sits right beside it, instead of stacked on top.",
+  "sentences": [
+    {
+      "text": " At its center is the A20 Pro, Apple's first iPhone chip made on a 2 nanometer process.",
+      "start": 0.0,
+      "end": 6.56,
+      "duration": 6.56,
+      "confidence": 0.995,
+      "tokens": [
+        {
+          "text": " At",
+          "start": 0.0,
+          "end": 0.24,
+          "duration": 0.24,
+          "confidence": 0.999
+        },
+        {
+          "text": " its",
+          "start": 0.24,
+          "end": 0.4,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " cent",
+          "start": 0.4,
+          "end": 0.56,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "er",
+          "start": 0.56,
+          "end": 0.72,
+          "duration": 0.16,
+          "confidence": 0.996
+        },
+        {
+          "text": " is",
+          "start": 0.72,
+          "end": 0.88,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " the",
+          "start": 0.88,
+          "end": 1.12,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " A",
+          "start": 1.12,
+          "end": 1.44,
+          "duration": 0.32,
+          "confidence": 0.995
+        },
+        {
+          "text": "2",
+          "start": 1.44,
+          "end": 1.52,
+          "duration": 0.08,
+          "confidence": 0.998
+        },
+        {
+          "text": "0",
+          "start": 1.68,
+          "end": 1.84,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " Pro",
+          "start": 1.84,
+          "end": 2.08,
+          "duration": 0.24,
+          "confidence": 0.993
+        },
+        {
+          "text": ",",
+          "start": 2.24,
+          "end": 2.48,
+          "duration": 0.24,
+          "confidence": 0.997
+        },
+        {
+          "text": " App",
+          "start": 2.48,
+          "end": 2.72,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "le",
+          "start": 2.72,
+          "end": 2.88,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "'",
+          "start": 2.88,
+          "end": 2.96,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "s",
+          "start": 2.96,
+          "end": 3.04,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": " first",
+          "start": 3.04,
+          "end": 3.28,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " i",
+          "start": 3.28,
+          "end": 3.52,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "P",
+          "start": 3.52,
+          "end": 3.6,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "h",
+          "start": 3.6,
+          "end": 3.68,
+          "duration": 0.08,
+          "confidence": 0.997
+        },
+        {
+          "text": "one",
+          "start": 3.68,
+          "end": 3.84,
+          "duration": 0.16,
+          "confidence": 0.999
+        },
+        {
+          "text": " ch",
+          "start": 3.92,
+          "end": 4.08,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ip",
+          "start": 4.08,
+          "end": 4.24,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " m",
+          "start": 4.24,
+          "end": 4.32,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "ade",
+          "start": 4.32,
+          "end": 4.4,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": " on",
+          "start": 4.4,
+          "end": 4.48,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": " a",
+          "start": 4.48,
+          "end": 4.56,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": " ",
+          "start": 4.56,
+          "end": 4.72,
+          "duration": 0.16,
+          "confidence": 0.957
+        },
+        {
+          "text": "2",
+          "start": 4.72,
+          "end": 4.8,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": " n",
+          "start": 4.88,
+          "end": 5.04,
+          "duration": 0.16,
+          "confidence": 0.974
+        },
+        {
+          "text": "an",
+          "start": 5.04,
+          "end": 5.2,
+          "duration": 0.16,
+          "confidence": 0.948
+        },
+        {
+          "text": "om",
+          "start": 5.2,
+          "end": 5.36,
+          "duration": 0.16,
+          "confidence": 0.999
+        },
+        {
+          "text": "eter",
+          "start": 5.36,
+          "end": 5.52,
+          "duration": 0.16,
+          "confidence": 0.999
+        },
+        {
+          "text": " pro",
+          "start": 5.76,
+          "end": 6.0,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "cess",
+          "start": 6.0,
+          "end": 6.32,
+          "duration": 0.32,
+          "confidence": 1.0
+        },
+        {
+          "text": ".",
+          "start": 6.32,
+          "end": 6.56,
+          "duration": 0.24,
+          "confidence": 0.993
+        }
+      ]
+    },
+    {
+      "text": " It has a 6-core CPU and a 7-core GPU with neural accelerators, and its memory sits right beside it, instead of stacked on top.",
+      "start": 6.56,
+      "end": 16.96,
+      "duration": 10.4,
+      "confidence": 0.995,
+      "tokens": [
+        {
+          "text": " It",
+          "start": 6.56,
+          "end": 6.72,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " has",
+          "start": 6.72,
+          "end": 6.88,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " a",
+          "start": 6.88,
+          "end": 7.12,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " ",
+          "start": 7.12,
+          "end": 7.28,
+          "duration": 0.16,
+          "confidence": 0.985
+        },
+        {
+          "text": "6",
+          "start": 7.28,
+          "end": 7.44,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "-",
+          "start": 7.44,
+          "end": 7.52,
+          "duration": 0.08,
+          "confidence": 0.935
+        },
+        {
+          "text": "c",
+          "start": 7.52,
+          "end": 7.68,
+          "duration": 0.16,
+          "confidence": 0.987
+        },
+        {
+          "text": "ore",
+          "start": 7.68,
+          "end": 7.92,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " C",
+          "start": 7.92,
+          "end": 8.24,
+          "duration": 0.32,
+          "confidence": 0.999
+        },
+        {
+          "text": "P",
+          "start": 8.24,
+          "end": 8.56,
+          "duration": 0.32,
+          "confidence": 0.999
+        },
+        {
+          "text": "U",
+          "start": 8.56,
+          "end": 8.88,
+          "duration": 0.32,
+          "confidence": 1.0
+        },
+        {
+          "text": " and",
+          "start": 9.04,
+          "end": 9.2,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " a",
+          "start": 9.2,
+          "end": 9.36,
+          "duration": 0.16,
+          "confidence": 0.997
+        },
+        {
+          "text": " ",
+          "start": 9.36,
+          "end": 9.52,
+          "duration": 0.16,
+          "confidence": 0.982
+        },
+        {
+          "text": "7",
+          "start": 9.52,
+          "end": 9.76,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "-",
+          "start": 9.76,
+          "end": 9.84,
+          "duration": 0.08,
+          "confidence": 0.943
+        },
+        {
+          "text": "c",
+          "start": 9.84,
+          "end": 10.0,
+          "duration": 0.16,
+          "confidence": 0.996
+        },
+        {
+          "text": "ore",
+          "start": 10.0,
+          "end": 10.24,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " G",
+          "start": 10.4,
+          "end": 10.72,
+          "duration": 0.32,
+          "confidence": 0.999
+        },
+        {
+          "text": "P",
+          "start": 10.72,
+          "end": 10.88,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "U",
+          "start": 10.88,
+          "end": 11.12,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " with",
+          "start": 11.12,
+          "end": 11.36,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " ne",
+          "start": 11.36,
+          "end": 11.6,
+          "duration": 0.24,
+          "confidence": 0.975
+        },
+        {
+          "text": "ur",
+          "start": 11.6,
+          "end": 11.76,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "al",
+          "start": 11.76,
+          "end": 11.92,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " acc",
+          "start": 11.92,
+          "end": 12.08,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "el",
+          "start": 12.08,
+          "end": 12.24,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "er",
+          "start": 12.24,
+          "end": 12.48,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "at",
+          "start": 12.48,
+          "end": 12.64,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ors",
+          "start": 12.64,
+          "end": 12.88,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": ",",
+          "start": 12.88,
+          "end": 13.04,
+          "duration": 0.16,
+          "confidence": 0.977
+        },
+        {
+          "text": " and",
+          "start": 13.04,
+          "end": 13.2,
+          "duration": 0.16,
+          "confidence": 0.999
+        },
+        {
+          "text": " its",
+          "start": 13.2,
+          "end": 13.44,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " m",
+          "start": 13.44,
+          "end": 13.52,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "em",
+          "start": 13.52,
+          "end": 13.76,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "ory",
+          "start": 13.76,
+          "end": 14.0,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " s",
+          "start": 14.0,
+          "end": 14.08,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "its",
+          "start": 14.08,
+          "end": 14.32,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " right",
+          "start": 14.32,
+          "end": 14.56,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " bes",
+          "start": 14.56,
+          "end": 14.8,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "ide",
+          "start": 14.8,
+          "end": 15.04,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " it",
+          "start": 15.04,
+          "end": 15.2,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": ",",
+          "start": 15.2,
+          "end": 15.36,
+          "duration": 0.16,
+          "confidence": 0.95
+        },
+        {
+          "text": " in",
+          "start": 15.36,
+          "end": 15.44,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "ste",
+          "start": 15.44,
+          "end": 15.6,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ad",
+          "start": 15.6,
+          "end": 15.76,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " of",
+          "start": 15.76,
+          "end": 15.92,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " sta",
+          "start": 15.92,
+          "end": 16.08,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ck",
+          "start": 16.08,
+          "end": 16.24,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ed",
+          "start": 16.24,
+          "end": 16.4,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " on",
+          "start": 16.4,
+          "end": 16.64,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " to",
+          "start": 16.64,
+          "end": 16.72,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "p",
+          "start": 16.72,
+          "end": 16.88,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": ".",
+          "start": 16.88,
+          "end": 16.96,
+          "duration": 0.08,
+          "confidence": 0.996
+        }
+      ]
+    }
+  ]
+}

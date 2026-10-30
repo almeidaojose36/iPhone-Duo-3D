@@ -1,0 +1,522 @@
+{
+  "text": "Inside there's a hinge with more than a hundred parts, a screen built from more than ten layers and not one battery but two. So let's take it apart. Every part, every layer, all the way down to the atoms.",
+  "sentences": [
+    {
+      "text": " Inside there's a hinge with more than a hundred parts, a screen built from more than ten layers and not one battery but two.",
+      "start": 0.0,
+      "end": 7.92,
+      "duration": 7.92,
+      "confidence": 0.994,
+      "tokens": [
+        {
+          "text": " In",
+          "start": 0.0,
+          "end": 0.16,
+          "duration": 0.16,
+          "confidence": 0.999
+        },
+        {
+          "text": "s",
+          "start": 0.16,
+          "end": 0.32,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ide",
+          "start": 0.32,
+          "end": 0.48,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " there",
+          "start": 0.56,
+          "end": 0.72,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "'",
+          "start": 0.72,
+          "end": 0.88,
+          "duration": 0.16,
+          "confidence": 0.999
+        },
+        {
+          "text": "s",
+          "start": 0.88,
+          "end": 0.88,
+          "duration": 0.0,
+          "confidence": 1.0
+        },
+        {
+          "text": " a",
+          "start": 0.88,
+          "end": 1.04,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " h",
+          "start": 1.04,
+          "end": 1.12,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "inge",
+          "start": 1.12,
+          "end": 1.36,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " with",
+          "start": 1.52,
+          "end": 1.68,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " more",
+          "start": 1.68,
+          "end": 1.92,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " than",
+          "start": 1.92,
+          "end": 2.08,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " a",
+          "start": 2.08,
+          "end": 2.24,
+          "duration": 0.16,
+          "confidence": 0.942
+        },
+        {
+          "text": " hund",
+          "start": 2.24,
+          "end": 2.4,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "red",
+          "start": 2.4,
+          "end": 2.56,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " par",
+          "start": 2.72,
+          "end": 2.96,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "ts",
+          "start": 2.96,
+          "end": 3.2,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": ",",
+          "start": 3.2,
+          "end": 3.36,
+          "duration": 0.16,
+          "confidence": 0.961
+        },
+        {
+          "text": " a",
+          "start": 3.36,
+          "end": 3.6,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " sc",
+          "start": 3.6,
+          "end": 3.68,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "re",
+          "start": 3.68,
+          "end": 3.92,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "en",
+          "start": 3.92,
+          "end": 4.08,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " bu",
+          "start": 4.08,
+          "end": 4.24,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ilt",
+          "start": 4.24,
+          "end": 4.4,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " from",
+          "start": 4.4,
+          "end": 4.64,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " more",
+          "start": 4.64,
+          "end": 4.8,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " than",
+          "start": 4.8,
+          "end": 4.96,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " ten",
+          "start": 4.96,
+          "end": 5.12,
+          "duration": 0.16,
+          "confidence": 0.927
+        },
+        {
+          "text": " la",
+          "start": 5.28,
+          "end": 5.44,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "y",
+          "start": 5.44,
+          "end": 5.6,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ers",
+          "start": 5.6,
+          "end": 5.68,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": " and",
+          "start": 5.76,
+          "end": 6.0,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " not",
+          "start": 6.0,
+          "end": 6.16,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " one",
+          "start": 6.16,
+          "end": 6.4,
+          "duration": 0.24,
+          "confidence": 0.999
+        },
+        {
+          "text": " b",
+          "start": 6.4,
+          "end": 6.48,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "at",
+          "start": 6.48,
+          "end": 6.64,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ter",
+          "start": 6.64,
+          "end": 6.8,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "y",
+          "start": 6.8,
+          "end": 6.96,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " but",
+          "start": 7.12,
+          "end": 7.44,
+          "duration": 0.32,
+          "confidence": 1.0
+        },
+        {
+          "text": " two",
+          "start": 7.44,
+          "end": 7.68,
+          "duration": 0.24,
+          "confidence": 0.999
+        },
+        {
+          "text": ".",
+          "start": 7.68,
+          "end": 7.92,
+          "duration": 0.24,
+          "confidence": 0.94
+        }
+      ]
+    },
+    {
+      "text": " So let's take it apart.",
+      "start": 7.92,
+      "end": 9.76,
+      "duration": 1.84,
+      "confidence": 0.996,
+      "tokens": [
+        {
+          "text": " So",
+          "start": 7.92,
+          "end": 8.24,
+          "duration": 0.32,
+          "confidence": 1.0
+        },
+        {
+          "text": " let",
+          "start": 8.24,
+          "end": 8.4,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "'",
+          "start": 8.4,
+          "end": 8.56,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "s",
+          "start": 8.56,
+          "end": 8.56,
+          "duration": 0.0,
+          "confidence": 1.0
+        },
+        {
+          "text": " tak",
+          "start": 8.56,
+          "end": 8.64,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "e",
+          "start": 8.64,
+          "end": 8.8,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " it",
+          "start": 8.8,
+          "end": 9.04,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " ap",
+          "start": 9.04,
+          "end": 9.28,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "art",
+          "start": 9.28,
+          "end": 9.52,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": ".",
+          "start": 9.52,
+          "end": 9.76,
+          "duration": 0.24,
+          "confidence": 0.962
+        }
+      ]
+    },
+    {
+      "text": " Every part, every layer, all the way down to the atoms.",
+      "start": 9.76,
+      "end": 13.28,
+      "duration": 3.52,
+      "confidence": 0.997,
+      "tokens": [
+        {
+          "text": " E",
+          "start": 9.76,
+          "end": 9.84,
+          "duration": 0.08,
+          "confidence": 0.999
+        },
+        {
+          "text": "ver",
+          "start": 9.84,
+          "end": 10.0,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "y",
+          "start": 10.0,
+          "end": 10.24,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " part",
+          "start": 10.24,
+          "end": 10.48,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": ",",
+          "start": 10.48,
+          "end": 10.64,
+          "duration": 0.16,
+          "confidence": 0.966
+        },
+        {
+          "text": " ever",
+          "start": 10.64,
+          "end": 10.8,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "y",
+          "start": 10.8,
+          "end": 10.96,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " la",
+          "start": 10.96,
+          "end": 11.2,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "yer",
+          "start": 11.2,
+          "end": 11.36,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": ",",
+          "start": 11.36,
+          "end": 11.6,
+          "duration": 0.24,
+          "confidence": 0.978
+        },
+        {
+          "text": " all",
+          "start": 11.6,
+          "end": 11.76,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " the",
+          "start": 11.76,
+          "end": 12.0,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " way",
+          "start": 12.0,
+          "end": 12.24,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " down",
+          "start": 12.24,
+          "end": 12.4,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " to",
+          "start": 12.4,
+          "end": 12.56,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " the",
+          "start": 12.56,
+          "end": 12.72,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " at",
+          "start": 12.72,
+          "end": 13.04,
+          "duration": 0.32,
+          "confidence": 1.0
+        },
+        {
+          "text": "oms",
+          "start": 13.04,
+          "end": 13.2,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": ".",
+          "start": 13.2,
+          "end": 13.28,
+          "duration": 0.08,
+          "confidence": 0.997
+        }
+      ]
+    }
+  ]
+}

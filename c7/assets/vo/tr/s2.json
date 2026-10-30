@@ -1,0 +1,261 @@
+{
+  "text": "This is the Taptic engine. Inside, a heavy magnet hangs on springs next to a coil of wire.",
+  "sentences": [
+    {
+      "text": " This is the Taptic engine.",
+      "start": 0.0,
+      "end": 1.92,
+      "duration": 1.92,
+      "confidence": 0.986,
+      "tokens": [
+        {
+          "text": " This",
+          "start": 0.0,
+          "end": 0.16,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " is",
+          "start": 0.16,
+          "end": 0.32,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " the",
+          "start": 0.32,
+          "end": 0.48,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " T",
+          "start": 0.48,
+          "end": 0.64,
+          "duration": 0.16,
+          "confidence": 0.924
+        },
+        {
+          "text": "ap",
+          "start": 0.64,
+          "end": 0.88,
+          "duration": 0.24,
+          "confidence": 0.991
+        },
+        {
+          "text": "tic",
+          "start": 0.88,
+          "end": 1.04,
+          "duration": 0.16,
+          "confidence": 0.998
+        },
+        {
+          "text": " eng",
+          "start": 1.2,
+          "end": 1.44,
+          "duration": 0.24,
+          "confidence": 0.969
+        },
+        {
+          "text": "ine",
+          "start": 1.44,
+          "end": 1.68,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": ".",
+          "start": 1.68,
+          "end": 1.92,
+          "duration": 0.24,
+          "confidence": 0.995
+        }
+      ]
+    },
+    {
+      "text": " Inside, a heavy magnet hangs on springs next to a coil of wire.",
+      "start": 1.92,
+      "end": 6.48,
+      "duration": 4.56,
+      "confidence": 0.998,
+      "tokens": [
+        {
+          "text": " In",
+          "start": 1.92,
+          "end": 2.08,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "s",
+          "start": 2.08,
+          "end": 2.32,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "ide",
+          "start": 2.32,
+          "end": 2.48,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": ",",
+          "start": 2.48,
+          "end": 2.56,
+          "duration": 0.08,
+          "confidence": 0.952
+        },
+        {
+          "text": " a",
+          "start": 2.56,
+          "end": 2.72,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " he",
+          "start": 2.72,
+          "end": 2.88,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "av",
+          "start": 2.88,
+          "end": 2.96,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "y",
+          "start": 2.96,
+          "end": 3.2,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " mag",
+          "start": 3.2,
+          "end": 3.44,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "net",
+          "start": 3.44,
+          "end": 3.68,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " hang",
+          "start": 3.68,
+          "end": 3.92,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "s",
+          "start": 3.92,
+          "end": 4.08,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " on",
+          "start": 4.08,
+          "end": 4.32,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " spr",
+          "start": 4.32,
+          "end": 4.64,
+          "duration": 0.32,
+          "confidence": 0.999
+        },
+        {
+          "text": "ings",
+          "start": 4.64,
+          "end": 4.96,
+          "duration": 0.32,
+          "confidence": 1.0
+        },
+        {
+          "text": " ne",
+          "start": 4.96,
+          "end": 5.12,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "xt",
+          "start": 5.12,
+          "end": 5.28,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " to",
+          "start": 5.28,
+          "end": 5.44,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " a",
+          "start": 5.44,
+          "end": 5.6,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " co",
+          "start": 5.6,
+          "end": 5.76,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "il",
+          "start": 5.76,
+          "end": 5.92,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " of",
+          "start": 5.92,
+          "end": 6.08,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " wi",
+          "start": 6.08,
+          "end": 6.24,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "re",
+          "start": 6.24,
+          "end": 6.4,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": ".",
+          "start": 6.4,
+          "end": 6.48,
+          "duration": 0.08,
+          "confidence": 1.0
+        }
+      ]
+    }
+  ]
+}

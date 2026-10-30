@@ -1,0 +1,532 @@
+{
+  "text": "At the ends the hinge is flat, under a titanium cover strong enough to take a knock, with no bumps to catch your finger, and even with all these moving parts, the phone is rated IP sixty eight against dust and water.",
+  "sentences": [
+    {
+      "text": " At the ends the hinge is flat, under a titanium cover strong enough to take a knock, with no bumps to catch your finger, and even with all these moving parts, the phone is rated IP sixty eight against dust and water.",
+      "start": 0.0,
+      "end": 14.4,
+      "duration": 14.4,
+      "confidence": 0.996,
+      "tokens": [
+        {
+          "text": " At",
+          "start": 0.0,
+          "end": 0.24,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " the",
+          "start": 0.24,
+          "end": 0.4,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " end",
+          "start": 0.4,
+          "end": 0.64,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "s",
+          "start": 0.64,
+          "end": 0.72,
+          "duration": 0.08,
+          "confidence": 0.995
+        },
+        {
+          "text": " the",
+          "start": 0.8,
+          "end": 1.04,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " h",
+          "start": 1.04,
+          "end": 1.2,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "inge",
+          "start": 1.2,
+          "end": 1.44,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " is",
+          "start": 1.44,
+          "end": 1.76,
+          "duration": 0.32,
+          "confidence": 1.0
+        },
+        {
+          "text": " fl",
+          "start": 1.76,
+          "end": 1.92,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "at",
+          "start": 1.92,
+          "end": 2.16,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": ",",
+          "start": 2.16,
+          "end": 2.4,
+          "duration": 0.24,
+          "confidence": 0.972
+        },
+        {
+          "text": " under",
+          "start": 2.4,
+          "end": 2.56,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " a",
+          "start": 2.56,
+          "end": 2.8,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " tit",
+          "start": 2.8,
+          "end": 3.12,
+          "duration": 0.32,
+          "confidence": 1.0
+        },
+        {
+          "text": "ani",
+          "start": 3.12,
+          "end": 3.44,
+          "duration": 0.32,
+          "confidence": 1.0
+        },
+        {
+          "text": "um",
+          "start": 3.44,
+          "end": 3.6,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " c",
+          "start": 3.6,
+          "end": 3.84,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "over",
+          "start": 3.84,
+          "end": 4.0,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " str",
+          "start": 4.0,
+          "end": 4.16,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ong",
+          "start": 4.16,
+          "end": 4.32,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " en",
+          "start": 4.32,
+          "end": 4.4,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "ough",
+          "start": 4.4,
+          "end": 4.56,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " to",
+          "start": 4.56,
+          "end": 4.72,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " tak",
+          "start": 4.72,
+          "end": 4.88,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "e",
+          "start": 4.88,
+          "end": 4.96,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": " a",
+          "start": 4.96,
+          "end": 5.2,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " k",
+          "start": 5.2,
+          "end": 5.28,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "no",
+          "start": 5.28,
+          "end": 5.44,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ck",
+          "start": 5.44,
+          "end": 5.6,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": ",",
+          "start": 5.6,
+          "end": 5.84,
+          "duration": 0.24,
+          "confidence": 0.976
+        },
+        {
+          "text": " with",
+          "start": 5.84,
+          "end": 6.08,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " no",
+          "start": 6.08,
+          "end": 6.24,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " b",
+          "start": 6.24,
+          "end": 6.4,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "um",
+          "start": 6.4,
+          "end": 6.56,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ps",
+          "start": 6.56,
+          "end": 6.72,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " to",
+          "start": 6.72,
+          "end": 6.88,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " cat",
+          "start": 6.88,
+          "end": 7.04,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ch",
+          "start": 7.04,
+          "end": 7.2,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " your",
+          "start": 7.2,
+          "end": 7.44,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " f",
+          "start": 7.44,
+          "end": 7.68,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "inger",
+          "start": 7.68,
+          "end": 7.92,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": ",",
+          "start": 7.92,
+          "end": 8.16,
+          "duration": 0.24,
+          "confidence": 0.923
+        },
+        {
+          "text": " and",
+          "start": 8.16,
+          "end": 8.4,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " even",
+          "start": 8.4,
+          "end": 8.72,
+          "duration": 0.32,
+          "confidence": 1.0
+        },
+        {
+          "text": " with",
+          "start": 8.72,
+          "end": 8.96,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " all",
+          "start": 8.96,
+          "end": 9.2,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " these",
+          "start": 9.2,
+          "end": 9.44,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " mov",
+          "start": 9.44,
+          "end": 9.68,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "ing",
+          "start": 9.68,
+          "end": 9.92,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " par",
+          "start": 9.92,
+          "end": 10.08,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ts",
+          "start": 10.08,
+          "end": 10.24,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": ",",
+          "start": 10.24,
+          "end": 10.4,
+          "duration": 0.16,
+          "confidence": 0.939
+        },
+        {
+          "text": " the",
+          "start": 10.4,
+          "end": 10.64,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " p",
+          "start": 10.64,
+          "end": 10.72,
+          "duration": 0.08,
+          "confidence": 0.999
+        },
+        {
+          "text": "h",
+          "start": 10.72,
+          "end": 10.88,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "one",
+          "start": 10.88,
+          "end": 11.04,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " is",
+          "start": 11.04,
+          "end": 11.28,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " r",
+          "start": 11.28,
+          "end": 11.44,
+          "duration": 0.16,
+          "confidence": 0.999
+        },
+        {
+          "text": "ated",
+          "start": 11.44,
+          "end": 11.6,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " I",
+          "start": 11.92,
+          "end": 12.16,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "P",
+          "start": 12.16,
+          "end": 12.48,
+          "duration": 0.32,
+          "confidence": 0.988
+        },
+        {
+          "text": " si",
+          "start": 12.48,
+          "end": 12.56,
+          "duration": 0.08,
+          "confidence": 0.964
+        },
+        {
+          "text": "x",
+          "start": 12.56,
+          "end": 12.64,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "ty",
+          "start": 12.64,
+          "end": 12.8,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " e",
+          "start": 12.8,
+          "end": 12.88,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "ight",
+          "start": 12.88,
+          "end": 13.12,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " aga",
+          "start": 13.12,
+          "end": 13.28,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "inst",
+          "start": 13.28,
+          "end": 13.52,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " d",
+          "start": 13.52,
+          "end": 13.68,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ust",
+          "start": 13.68,
+          "end": 13.84,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " and",
+          "start": 13.84,
+          "end": 14.0,
+          "duration": 0.16,
+          "confidence": 0.993
+        },
+        {
+          "text": " w",
+          "start": 14.0,
+          "end": 14.16,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ater",
+          "start": 14.16,
+          "end": 14.32,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": ".",
+          "start": 14.32,
+          "end": 14.4,
+          "duration": 0.08,
+          "confidence": 0.999
+        }
+      ]
+    }
+  ]
+}

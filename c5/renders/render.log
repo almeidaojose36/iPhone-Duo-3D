@@ -1,0 +1,17 @@
+[INFO] [Compiler] Embedded local font file: assets/fonts/Saira-Variable.woff2 (32 KB → data URI)
+[hyperframes] browserGpuMode probe → hardware (WebGL renderer vendor="Google Inc. (Apple)" renderer="ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Unspecified Version)")
+[BrowserManager] Browser launched (HeadlessChrome/152.0.7977.30, screenshot, gl=--use-gl=angle --use-angle=metal, headlessShell=true, platform=darwin)
+[initSession:screenshot] page.goto start (0ms)
+[initSession:screenshot] page.goto complete (227ms)
+[HyperFrames] render runtime fps {"canonicalFps":30,"source":"render-options","rawFpsSource":"render-options","rawFps":30}
+[initSession:screenshot] GSAP proxy flush complete (517ms)
+[initSession:screenshot] pollHfReady complete (5686ms)
+[initSession:screenshot] pollSubCompositionTimelines complete (ready) (5718ms)
+[initSession:screenshot] applyVideoMetadataHints complete (5719ms)
+[initSession:screenshot] media + fonts + tailwind ready (5721ms)
+[engine] fast capture falls back to screenshot: render-mode compatibility hint forced screenshot capture (e.g. raw requestAnimationFrame composition).
+[initSession:screenshot] static-frame dedup: disabled (canvas/webgl) (5727ms)
+
+  5 HyperFrames skills out of date or missing.
+  Run: npx hyperframes skills update
+

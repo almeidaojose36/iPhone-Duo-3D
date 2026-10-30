@@ -1,0 +1,42 @@
+[
+ {
+  "id": "l1",
+  "text": "For years, iPhones have used stacked logic boards: two circuit boards sandwiched together to save space. The iPhone Duo spreads everything out on a single layer."
+ },
+ {
+  "id": "l2",
+  "text": "At its center is the A20 Pro, Apple's first iPhone chip made on a two-nanometer process. It has a six-core CPU and a seven-core GPU with neural accelerators, and its memory sits right beside it, instead of stacked on top."
+ },
+ {
+  "id": "l3",
+  "text": "Let's go inside. The chip holds billions of transistors: tiny switches that turn on and off to do every calculation."
+ },
+ {
+  "id": "l4",
+  "text": "At two nanometers, they have a new shape. The channel, where current flows, is a stack of thin silicon ribbons. And the gate wraps all the way around each ribbon, like a hand around a bundle of straws."
+ },
+ {
+  "id": "l5",
+  "text": "Put a voltage on the gate, and current flows through the ribbons. Remove it, and the flow stops. Because the gate surrounds the channel on every side, it controls it tightly, so less current leaks away when the switch is off."
+ },
+ {
+  "id": "l6",
+  "text": "Next to the A20 Pro is the NAND flash, where your photos, apps and files live, up to two terabytes. Here's Apple's own C2 modem, for 5G, and the N1 wireless chip, for Wi-Fi seven, Bluetooth six and Thread."
+ },
+ {
+  "id": "l7",
+  "text": "And this is the power management chip. It turns battery power into dozens of different voltages for everything on the board."
+ },
+ {
+  "id": "l8",
+  "text": "Billions of switches make heat, and a phone this thin has nowhere to hide it. So the A20 Pro presses into a soft metal-over-foam layer, which carries the heat up into a vapor chamber."
+ },
+ {
+  "id": "l9",
+  "text": "Inside the chamber, a little liquid boils over the hot chip. The vapor spreads out, condenses where it's cooler, and flows back to boil again."
+ },
+ {
+  "id": "l10",
+  "text": "But all of this sits in one half of the phone. So a flexible graphite pipe runs through the hinge, carrying heat across the fold, so both halves of the frame can shed it. Next: the cameras."
+ }
+]

@@ -1,0 +1,487 @@
+{
+  "text": "This is the iPhone Duo. Closed, it's a phone you can hold in one hand. Open it, and it becomes a 7.6 inch screen, the largest display ever put in an iPhone.",
+  "sentences": [
+    {
+      "text": " This is the iPhone Duo.",
+      "start": 0.0,
+      "end": 2.08,
+      "duration": 2.08,
+      "confidence": 0.992,
+      "tokens": [
+        {
+          "text": " This",
+          "start": 0.0,
+          "end": 0.24,
+          "duration": 0.24,
+          "confidence": 0.999
+        },
+        {
+          "text": " is",
+          "start": 0.24,
+          "end": 0.4,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " the",
+          "start": 0.4,
+          "end": 0.64,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " i",
+          "start": 0.64,
+          "end": 0.88,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "P",
+          "start": 0.88,
+          "end": 1.04,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "h",
+          "start": 1.04,
+          "end": 1.2,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "one",
+          "start": 1.2,
+          "end": 1.36,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " Du",
+          "start": 1.36,
+          "end": 1.68,
+          "duration": 0.32,
+          "confidence": 0.936
+        },
+        {
+          "text": "o",
+          "start": 1.68,
+          "end": 1.92,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": ".",
+          "start": 1.92,
+          "end": 2.08,
+          "duration": 0.16,
+          "confidence": 0.992
+        }
+      ]
+    },
+    {
+      "text": " Closed, it's a phone you can hold in one hand.",
+      "start": 2.08,
+      "end": 5.28,
+      "duration": 3.2,
+      "confidence": 0.997,
+      "tokens": [
+        {
+          "text": " C",
+          "start": 2.08,
+          "end": 2.24,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "los",
+          "start": 2.24,
+          "end": 2.48,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "ed",
+          "start": 2.48,
+          "end": 2.72,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": ",",
+          "start": 2.72,
+          "end": 2.8,
+          "duration": 0.08,
+          "confidence": 0.968
+        },
+        {
+          "text": " it",
+          "start": 2.8,
+          "end": 2.88,
+          "duration": 0.08,
+          "confidence": 0.999
+        },
+        {
+          "text": "'",
+          "start": 2.88,
+          "end": 2.96,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "s",
+          "start": 2.96,
+          "end": 3.04,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": " a",
+          "start": 3.04,
+          "end": 3.12,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": " p",
+          "start": 3.12,
+          "end": 3.28,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "h",
+          "start": 3.28,
+          "end": 3.36,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "one",
+          "start": 3.36,
+          "end": 3.52,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " you",
+          "start": 3.52,
+          "end": 3.68,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " can",
+          "start": 3.68,
+          "end": 3.92,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " h",
+          "start": 3.92,
+          "end": 4.0,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "old",
+          "start": 4.0,
+          "end": 4.16,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " in",
+          "start": 4.16,
+          "end": 4.4,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " one",
+          "start": 4.4,
+          "end": 4.72,
+          "duration": 0.32,
+          "confidence": 1.0
+        },
+        {
+          "text": " hand",
+          "start": 4.72,
+          "end": 5.04,
+          "duration": 0.32,
+          "confidence": 1.0
+        },
+        {
+          "text": ".",
+          "start": 5.04,
+          "end": 5.28,
+          "duration": 0.24,
+          "confidence": 0.981
+        }
+      ]
+    },
+    {
+      "text": " Open it, and it becomes a 7.6 inch screen, the largest display ever put in an iPhone.",
+      "start": 5.28,
+      "end": 12.0,
+      "duration": 6.72,
+      "confidence": 0.996,
+      "tokens": [
+        {
+          "text": " O",
+          "start": 5.28,
+          "end": 5.52,
+          "duration": 0.24,
+          "confidence": 0.999
+        },
+        {
+          "text": "pen",
+          "start": 5.52,
+          "end": 5.76,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " it",
+          "start": 5.76,
+          "end": 5.92,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": ",",
+          "start": 5.92,
+          "end": 6.08,
+          "duration": 0.16,
+          "confidence": 0.926
+        },
+        {
+          "text": " and",
+          "start": 6.08,
+          "end": 6.24,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " it",
+          "start": 6.24,
+          "end": 6.4,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " be",
+          "start": 6.4,
+          "end": 6.48,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "com",
+          "start": 6.48,
+          "end": 6.72,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "es",
+          "start": 6.72,
+          "end": 6.8,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": " a",
+          "start": 6.8,
+          "end": 7.04,
+          "duration": 0.24,
+          "confidence": 0.999
+        },
+        {
+          "text": " ",
+          "start": 7.04,
+          "end": 7.2,
+          "duration": 0.16,
+          "confidence": 0.994
+        },
+        {
+          "text": "7",
+          "start": 7.2,
+          "end": 7.52,
+          "duration": 0.32,
+          "confidence": 1.0
+        },
+        {
+          "text": ".",
+          "start": 7.52,
+          "end": 7.76,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "6",
+          "start": 7.76,
+          "end": 8.0,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " in",
+          "start": 8.08,
+          "end": 8.32,
+          "duration": 0.24,
+          "confidence": 0.999
+        },
+        {
+          "text": "ch",
+          "start": 8.32,
+          "end": 8.48,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " sc",
+          "start": 8.48,
+          "end": 8.64,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "re",
+          "start": 8.64,
+          "end": 8.8,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "en",
+          "start": 8.8,
+          "end": 8.96,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": ",",
+          "start": 8.96,
+          "end": 9.2,
+          "duration": 0.24,
+          "confidence": 0.94
+        },
+        {
+          "text": " the",
+          "start": 9.2,
+          "end": 9.44,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " l",
+          "start": 9.44,
+          "end": 9.52,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "arg",
+          "start": 9.52,
+          "end": 9.76,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "est",
+          "start": 9.76,
+          "end": 10.0,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " dis",
+          "start": 10.0,
+          "end": 10.16,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "pla",
+          "start": 10.16,
+          "end": 10.32,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "y",
+          "start": 10.32,
+          "end": 10.48,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " ever",
+          "start": 10.48,
+          "end": 10.72,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " put",
+          "start": 10.72,
+          "end": 10.96,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " in",
+          "start": 10.96,
+          "end": 11.12,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " an",
+          "start": 11.12,
+          "end": 11.36,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " i",
+          "start": 11.36,
+          "end": 11.52,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "P",
+          "start": 11.52,
+          "end": 11.68,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "h",
+          "start": 11.68,
+          "end": 11.84,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "one",
+          "start": 11.84,
+          "end": 11.92,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": ".",
+          "start": 11.92,
+          "end": 12.0,
+          "duration": 0.08,
+          "confidence": 0.998
+        }
+      ]
+    }
+  ]
+}

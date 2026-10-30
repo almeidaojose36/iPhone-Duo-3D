@@ -1,0 +1,30 @@
+[
+ {
+  "id": "b1",
+  "text": "A phone this thin has no room for one big battery. So the iPhone Duo has two, one in each half."
+ },
+ {
+  "id": "b2",
+  "text": "This L-shaped cell holds seven and a half watt-hours, and wraps around the cameras. The larger cell holds eleven point six. Together, that's about nineteen watt-hours, which Apple rates for up to twenty-four hours of typical use."
+ },
+ {
+  "id": "b3",
+  "text": "Each cell is wrapped in a thin metal shell. Inside, very thin sheets are stacked together: a cathode, a separator, and an anode, soaked in a liquid electrolyte."
+ },
+ {
+  "id": "b4",
+  "text": "Let's look closer. The cathode is a metal oxide that holds lithium. When you charge the phone, lithium ions are pulled out of it, through tiny holes in the separator, and packed in between the layers of carbon in the anode."
+ },
+ {
+  "id": "b5",
+  "text": "When you use the phone, they flow back. Each ion that crosses sends one electron around the circuit, and that stream of electrons powers everything you've seen so far."
+ },
+ {
+  "id": "b6",
+  "text": "The cells are held in with an adhesive that lets go when a small electric current runs through it. The current changes the glue right at the surface, so it loses its grip. Even a nine-volt battery is enough."
+ },
+ {
+  "id": "b7",
+  "text": "And because the charging hardware sits in only one half, the other battery charges through that accordion cable in the hinge. With a sixty-watt charger, the pair reaches fifty percent in about twenty minutes. Next: the brains."
+ }
+]

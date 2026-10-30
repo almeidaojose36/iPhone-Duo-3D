@@ -1,0 +1,571 @@
+{
+  "text": "And because the charging hardware sits in only one half, the other battery charges through that accordion cable in the hinge. With a 60 watt charger, the pair reaches 50% in about 20 minutes. Next, the brains.",
+  "sentences": [
+    {
+      "text": " And because the charging hardware sits in only one half, the other battery charges through that accordion cable in the hinge.",
+      "start": 0.0,
+      "end": 7.76,
+      "duration": 7.76,
+      "confidence": 0.998,
+      "tokens": [
+        {
+          "text": " And",
+          "start": 0.0,
+          "end": 0.32,
+          "duration": 0.32,
+          "confidence": 0.936
+        },
+        {
+          "text": " because",
+          "start": 0.32,
+          "end": 0.56,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " the",
+          "start": 0.56,
+          "end": 0.72,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " ch",
+          "start": 0.72,
+          "end": 0.88,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "arg",
+          "start": 0.88,
+          "end": 1.12,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "ing",
+          "start": 1.12,
+          "end": 1.28,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " har",
+          "start": 1.28,
+          "end": 1.36,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "d",
+          "start": 1.36,
+          "end": 1.52,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "w",
+          "start": 1.52,
+          "end": 1.68,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "are",
+          "start": 1.68,
+          "end": 1.84,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " s",
+          "start": 1.84,
+          "end": 2.0,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "its",
+          "start": 2.0,
+          "end": 2.16,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " in",
+          "start": 2.16,
+          "end": 2.4,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " only",
+          "start": 2.4,
+          "end": 2.64,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " one",
+          "start": 2.64,
+          "end": 2.96,
+          "duration": 0.32,
+          "confidence": 1.0
+        },
+        {
+          "text": " hal",
+          "start": 2.96,
+          "end": 3.2,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "f",
+          "start": 3.2,
+          "end": 3.36,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": ",",
+          "start": 3.36,
+          "end": 3.6,
+          "duration": 0.24,
+          "confidence": 0.993
+        },
+        {
+          "text": " the",
+          "start": 3.6,
+          "end": 3.84,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " other",
+          "start": 3.84,
+          "end": 4.0,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " b",
+          "start": 4.0,
+          "end": 4.08,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "at",
+          "start": 4.08,
+          "end": 4.24,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ter",
+          "start": 4.24,
+          "end": 4.4,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "y",
+          "start": 4.4,
+          "end": 4.56,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " ch",
+          "start": 4.56,
+          "end": 4.72,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "arg",
+          "start": 4.72,
+          "end": 4.88,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "es",
+          "start": 4.88,
+          "end": 5.04,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " th",
+          "start": 5.04,
+          "end": 5.12,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "ro",
+          "start": 5.12,
+          "end": 5.2,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "ugh",
+          "start": 5.2,
+          "end": 5.36,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " that",
+          "start": 5.36,
+          "end": 5.52,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " acc",
+          "start": 5.52,
+          "end": 5.84,
+          "duration": 0.32,
+          "confidence": 0.995
+        },
+        {
+          "text": "ord",
+          "start": 5.84,
+          "end": 6.0,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ion",
+          "start": 6.0,
+          "end": 6.08,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": " c",
+          "start": 6.32,
+          "end": 6.48,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "able",
+          "start": 6.48,
+          "end": 6.72,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " in",
+          "start": 6.72,
+          "end": 6.8,
+          "duration": 0.08,
+          "confidence": 0.989
+        },
+        {
+          "text": " the",
+          "start": 6.8,
+          "end": 7.04,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " h",
+          "start": 7.04,
+          "end": 7.2,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "inge",
+          "start": 7.2,
+          "end": 7.44,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": ".",
+          "start": 7.6,
+          "end": 7.76,
+          "duration": 0.16,
+          "confidence": 0.993
+        }
+      ]
+    },
+    {
+      "text": " With a 60 watt charger, the pair reaches 50% in about 20 minutes.",
+      "start": 7.76,
+      "end": 13.28,
+      "duration": 5.52,
+      "confidence": 0.994,
+      "tokens": [
+        {
+          "text": " W",
+          "start": 7.76,
+          "end": 7.84,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "ith",
+          "start": 7.84,
+          "end": 8.0,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " a",
+          "start": 8.0,
+          "end": 8.16,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " ",
+          "start": 8.16,
+          "end": 8.32,
+          "duration": 0.16,
+          "confidence": 0.97
+        },
+        {
+          "text": "6",
+          "start": 8.32,
+          "end": 8.48,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "0",
+          "start": 8.48,
+          "end": 8.56,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": " w",
+          "start": 8.72,
+          "end": 8.88,
+          "duration": 0.16,
+          "confidence": 0.99
+        },
+        {
+          "text": "att",
+          "start": 8.88,
+          "end": 9.12,
+          "duration": 0.24,
+          "confidence": 0.999
+        },
+        {
+          "text": " char",
+          "start": 9.12,
+          "end": 9.36,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "ger",
+          "start": 9.36,
+          "end": 9.52,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": ",",
+          "start": 9.52,
+          "end": 9.68,
+          "duration": 0.16,
+          "confidence": 0.975
+        },
+        {
+          "text": " the",
+          "start": 9.68,
+          "end": 9.92,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " p",
+          "start": 9.92,
+          "end": 10.16,
+          "duration": 0.24,
+          "confidence": 0.999
+        },
+        {
+          "text": "air",
+          "start": 10.16,
+          "end": 10.32,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " re",
+          "start": 10.32,
+          "end": 10.4,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "ach",
+          "start": 10.4,
+          "end": 10.56,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "es",
+          "start": 10.56,
+          "end": 10.8,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " ",
+          "start": 10.8,
+          "end": 10.88,
+          "duration": 0.08,
+          "confidence": 0.953
+        },
+        {
+          "text": "5",
+          "start": 10.88,
+          "end": 11.04,
+          "duration": 0.16,
+          "confidence": 0.999
+        },
+        {
+          "text": "0",
+          "start": 11.04,
+          "end": 11.28,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "%",
+          "start": 11.28,
+          "end": 11.6,
+          "duration": 0.32,
+          "confidence": 0.99
+        },
+        {
+          "text": " in",
+          "start": 11.6,
+          "end": 11.84,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " about",
+          "start": 11.84,
+          "end": 12.08,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " ",
+          "start": 12.08,
+          "end": 12.24,
+          "duration": 0.16,
+          "confidence": 0.952
+        },
+        {
+          "text": "2",
+          "start": 12.24,
+          "end": 12.32,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "0",
+          "start": 12.32,
+          "end": 12.56,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " minut",
+          "start": 12.56,
+          "end": 12.8,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "es",
+          "start": 12.8,
+          "end": 13.04,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": ".",
+          "start": 13.04,
+          "end": 13.28,
+          "duration": 0.24,
+          "confidence": 0.997
+        }
+      ]
+    },
+    {
+      "text": " Next, the brains.",
+      "start": 13.28,
+      "end": 15.04,
+      "duration": 1.76,
+      "confidence": 0.989,
+      "tokens": [
+        {
+          "text": " Ne",
+          "start": 13.28,
+          "end": 13.6,
+          "duration": 0.32,
+          "confidence": 0.997
+        },
+        {
+          "text": "xt",
+          "start": 13.6,
+          "end": 13.84,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": ",",
+          "start": 13.84,
+          "end": 14.08,
+          "duration": 0.24,
+          "confidence": 0.975
+        },
+        {
+          "text": " the",
+          "start": 14.08,
+          "end": 14.32,
+          "duration": 0.24,
+          "confidence": 0.996
+        },
+        {
+          "text": " bra",
+          "start": 14.32,
+          "end": 14.56,
+          "duration": 0.24,
+          "confidence": 0.985
+        },
+        {
+          "text": "ins",
+          "start": 14.56,
+          "end": 14.8,
+          "duration": 0.24,
+          "confidence": 0.997
+        },
+        {
+          "text": ".",
+          "start": 14.88,
+          "end": 15.04,
+          "duration": 0.16,
+          "confidence": 0.974
+        }
+      ]
+    }
+  ]
+}

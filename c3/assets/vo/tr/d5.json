@@ -1,0 +1,413 @@
+{
+  "text": "Then instead of a polarizer, there are color filters, tiny colored windows over every subpixel, framed by a black grid that soaks up light from the room.",
+  "sentences": [
+    {
+      "text": " Then instead of a polarizer, there are color filters, tiny colored windows over every subpixel, framed by a black grid that soaks up light from the room.",
+      "start": 0.0,
+      "end": 10.08,
+      "duration": 10.08,
+      "confidence": 0.998,
+      "tokens": [
+        {
+          "text": " T",
+          "start": 0.0,
+          "end": 0.08,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "hen",
+          "start": 0.08,
+          "end": 0.24,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " in",
+          "start": 0.24,
+          "end": 0.4,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ste",
+          "start": 0.4,
+          "end": 0.48,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "ad",
+          "start": 0.48,
+          "end": 0.56,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": " of",
+          "start": 0.56,
+          "end": 0.64,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": " a",
+          "start": 0.64,
+          "end": 0.88,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " pol",
+          "start": 0.88,
+          "end": 1.12,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "ar",
+          "start": 1.12,
+          "end": 1.28,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "iz",
+          "start": 1.28,
+          "end": 1.52,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "er",
+          "start": 1.52,
+          "end": 1.68,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": ",",
+          "start": 1.68,
+          "end": 1.92,
+          "duration": 0.24,
+          "confidence": 0.993
+        },
+        {
+          "text": " there",
+          "start": 1.92,
+          "end": 2.08,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " are",
+          "start": 2.08,
+          "end": 2.32,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " col",
+          "start": 2.32,
+          "end": 2.48,
+          "duration": 0.16,
+          "confidence": 0.986
+        },
+        {
+          "text": "or",
+          "start": 2.48,
+          "end": 2.72,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " fil",
+          "start": 2.72,
+          "end": 3.04,
+          "duration": 0.32,
+          "confidence": 1.0
+        },
+        {
+          "text": "ter",
+          "start": 3.04,
+          "end": 3.2,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "s",
+          "start": 3.2,
+          "end": 3.44,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": ",",
+          "start": 3.44,
+          "end": 3.68,
+          "duration": 0.24,
+          "confidence": 0.966
+        },
+        {
+          "text": " t",
+          "start": 3.68,
+          "end": 3.92,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "iny",
+          "start": 3.92,
+          "end": 4.16,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " col",
+          "start": 4.16,
+          "end": 4.4,
+          "duration": 0.24,
+          "confidence": 0.999
+        },
+        {
+          "text": "or",
+          "start": 4.4,
+          "end": 4.56,
+          "duration": 0.16,
+          "confidence": 0.995
+        },
+        {
+          "text": "ed",
+          "start": 4.56,
+          "end": 4.64,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": " w",
+          "start": 4.64,
+          "end": 4.72,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "ind",
+          "start": 4.72,
+          "end": 4.88,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ow",
+          "start": 4.88,
+          "end": 5.04,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "s",
+          "start": 5.04,
+          "end": 5.2,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " over",
+          "start": 5.2,
+          "end": 5.36,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " ever",
+          "start": 5.36,
+          "end": 5.52,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "y",
+          "start": 5.52,
+          "end": 5.76,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " sub",
+          "start": 5.76,
+          "end": 6.0,
+          "duration": 0.24,
+          "confidence": 0.999
+        },
+        {
+          "text": "pi",
+          "start": 6.0,
+          "end": 6.16,
+          "duration": 0.16,
+          "confidence": 0.99
+        },
+        {
+          "text": "x",
+          "start": 6.16,
+          "end": 6.4,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "el",
+          "start": 6.4,
+          "end": 6.56,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": ",",
+          "start": 6.56,
+          "end": 6.8,
+          "duration": 0.24,
+          "confidence": 0.958
+        },
+        {
+          "text": " fram",
+          "start": 6.8,
+          "end": 7.12,
+          "duration": 0.32,
+          "confidence": 1.0
+        },
+        {
+          "text": "ed",
+          "start": 7.12,
+          "end": 7.28,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " by",
+          "start": 7.28,
+          "end": 7.44,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " a",
+          "start": 7.44,
+          "end": 7.52,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": " b",
+          "start": 7.52,
+          "end": 7.6,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "la",
+          "start": 7.6,
+          "end": 7.76,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ck",
+          "start": 7.76,
+          "end": 7.92,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " g",
+          "start": 7.92,
+          "end": 8.08,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "rid",
+          "start": 8.08,
+          "end": 8.24,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " that",
+          "start": 8.24,
+          "end": 8.48,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " so",
+          "start": 8.48,
+          "end": 8.8,
+          "duration": 0.32,
+          "confidence": 1.0
+        },
+        {
+          "text": "aks",
+          "start": 8.8,
+          "end": 8.96,
+          "duration": 0.16,
+          "confidence": 0.999
+        },
+        {
+          "text": " up",
+          "start": 8.96,
+          "end": 9.12,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " lig",
+          "start": 9.12,
+          "end": 9.2,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "ht",
+          "start": 9.2,
+          "end": 9.36,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " from",
+          "start": 9.36,
+          "end": 9.52,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " the",
+          "start": 9.52,
+          "end": 9.68,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " ro",
+          "start": 9.68,
+          "end": 9.84,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "om",
+          "start": 9.84,
+          "end": 10.0,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": ".",
+          "start": 10.0,
+          "end": 10.08,
+          "duration": 0.08,
+          "confidence": 0.997
+        }
+      ]
+    }
+  ]
+}

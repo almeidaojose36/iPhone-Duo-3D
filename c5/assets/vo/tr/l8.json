@@ -1,0 +1,478 @@
+{
+  "text": "Billions of switches make heat, and a foam this thin has nowhere to hide it. So the A20 Pro presses into a soft metal overfoam layer, which carries the heat up into a vapor chamber.",
+  "sentences": [
+    {
+      "text": " Billions of switches make heat, and a foam this thin has nowhere to hide it.",
+      "start": 0.0,
+      "end": 5.04,
+      "duration": 5.04,
+      "confidence": 0.994,
+      "tokens": [
+        {
+          "text": " B",
+          "start": 0.0,
+          "end": 0.16,
+          "duration": 0.16,
+          "confidence": 0.999
+        },
+        {
+          "text": "illi",
+          "start": 0.16,
+          "end": 0.32,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ons",
+          "start": 0.32,
+          "end": 0.48,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " of",
+          "start": 0.48,
+          "end": 0.64,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " sw",
+          "start": 0.64,
+          "end": 0.88,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "it",
+          "start": 0.88,
+          "end": 1.12,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "ches",
+          "start": 1.12,
+          "end": 1.36,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " make",
+          "start": 1.36,
+          "end": 1.6,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " he",
+          "start": 1.6,
+          "end": 1.76,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "at",
+          "start": 1.76,
+          "end": 2.0,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": ",",
+          "start": 2.0,
+          "end": 2.16,
+          "duration": 0.16,
+          "confidence": 0.959
+        },
+        {
+          "text": " and",
+          "start": 2.16,
+          "end": 2.32,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " a",
+          "start": 2.32,
+          "end": 2.48,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " fo",
+          "start": 2.48,
+          "end": 2.56,
+          "duration": 0.08,
+          "confidence": 0.975
+        },
+        {
+          "text": "am",
+          "start": 2.56,
+          "end": 2.72,
+          "duration": 0.16,
+          "confidence": 0.973
+        },
+        {
+          "text": " this",
+          "start": 2.8,
+          "end": 3.04,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " th",
+          "start": 3.04,
+          "end": 3.28,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "in",
+          "start": 3.28,
+          "end": 3.52,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " has",
+          "start": 3.52,
+          "end": 3.68,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " now",
+          "start": 3.68,
+          "end": 3.84,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "h",
+          "start": 3.84,
+          "end": 3.92,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "ere",
+          "start": 3.92,
+          "end": 4.08,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " to",
+          "start": 4.08,
+          "end": 4.24,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " h",
+          "start": 4.24,
+          "end": 4.4,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ide",
+          "start": 4.4,
+          "end": 4.64,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " it",
+          "start": 4.64,
+          "end": 4.88,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": ".",
+          "start": 4.88,
+          "end": 5.04,
+          "duration": 0.16,
+          "confidence": 0.939
+        }
+      ]
+    },
+    {
+      "text": " So the A20 Pro presses into a soft metal overfoam layer, which carries the heat up into a vapor chamber.",
+      "start": 5.04,
+      "end": 12.0,
+      "duration": 6.96,
+      "confidence": 0.994,
+      "tokens": [
+        {
+          "text": " So",
+          "start": 5.04,
+          "end": 5.28,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " the",
+          "start": 5.28,
+          "end": 5.52,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " A",
+          "start": 5.52,
+          "end": 5.84,
+          "duration": 0.32,
+          "confidence": 0.999
+        },
+        {
+          "text": "2",
+          "start": 5.84,
+          "end": 5.92,
+          "duration": 0.08,
+          "confidence": 0.964
+        },
+        {
+          "text": "0",
+          "start": 6.08,
+          "end": 6.24,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " Pro",
+          "start": 6.24,
+          "end": 6.48,
+          "duration": 0.24,
+          "confidence": 0.986
+        },
+        {
+          "text": " pr",
+          "start": 6.64,
+          "end": 6.8,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ess",
+          "start": 6.8,
+          "end": 6.96,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "es",
+          "start": 6.96,
+          "end": 7.12,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " into",
+          "start": 7.12,
+          "end": 7.28,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " a",
+          "start": 7.28,
+          "end": 7.36,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": " so",
+          "start": 7.36,
+          "end": 7.52,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ft",
+          "start": 7.52,
+          "end": 7.76,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " met",
+          "start": 7.76,
+          "end": 7.92,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "al",
+          "start": 7.92,
+          "end": 8.16,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " over",
+          "start": 8.16,
+          "end": 8.32,
+          "duration": 0.16,
+          "confidence": 0.995
+        },
+        {
+          "text": "fo",
+          "start": 8.48,
+          "end": 8.72,
+          "duration": 0.24,
+          "confidence": 0.92
+        },
+        {
+          "text": "am",
+          "start": 8.72,
+          "end": 8.88,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " la",
+          "start": 8.88,
+          "end": 9.12,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "yer",
+          "start": 9.12,
+          "end": 9.28,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": ",",
+          "start": 9.28,
+          "end": 9.44,
+          "duration": 0.16,
+          "confidence": 0.924
+        },
+        {
+          "text": " which",
+          "start": 9.44,
+          "end": 9.6,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " car",
+          "start": 9.6,
+          "end": 9.84,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "ri",
+          "start": 9.84,
+          "end": 9.92,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "es",
+          "start": 9.92,
+          "end": 10.08,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " the",
+          "start": 10.08,
+          "end": 10.24,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " he",
+          "start": 10.24,
+          "end": 10.4,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "at",
+          "start": 10.4,
+          "end": 10.56,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " up",
+          "start": 10.56,
+          "end": 10.72,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " into",
+          "start": 10.72,
+          "end": 10.96,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " a",
+          "start": 10.96,
+          "end": 11.12,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " v",
+          "start": 11.12,
+          "end": 11.2,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "ap",
+          "start": 11.2,
+          "end": 11.44,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "or",
+          "start": 11.44,
+          "end": 11.6,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " ch",
+          "start": 11.6,
+          "end": 11.68,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "am",
+          "start": 11.68,
+          "end": 11.84,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ber",
+          "start": 11.84,
+          "end": 11.92,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": ".",
+          "start": 11.92,
+          "end": 12.0,
+          "duration": 0.08,
+          "confidence": 0.994
+        }
+      ]
+    }
+  ]
+}

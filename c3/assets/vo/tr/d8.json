@@ -1,0 +1,273 @@
+{
+  "text": "Each subpixel is switched on and off by thin film transistors in the layer below, many times every second.",
+  "sentences": [
+    {
+      "text": " Each subpixel is switched on and off by thin film transistors in the layer below, many times every second.",
+      "start": 0.0,
+      "end": 6.72,
+      "duration": 6.72,
+      "confidence": 0.998,
+      "tokens": [
+        {
+          "text": " E",
+          "start": 0.0,
+          "end": 0.08,
+          "duration": 0.08,
+          "confidence": 0.999
+        },
+        {
+          "text": "ach",
+          "start": 0.08,
+          "end": 0.24,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " sub",
+          "start": 0.24,
+          "end": 0.48,
+          "duration": 0.24,
+          "confidence": 0.997
+        },
+        {
+          "text": "pi",
+          "start": 0.48,
+          "end": 0.64,
+          "duration": 0.16,
+          "confidence": 0.998
+        },
+        {
+          "text": "x",
+          "start": 0.64,
+          "end": 0.8,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "el",
+          "start": 0.8,
+          "end": 0.88,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": " is",
+          "start": 0.88,
+          "end": 1.04,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " sw",
+          "start": 1.04,
+          "end": 1.12,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "it",
+          "start": 1.12,
+          "end": 1.2,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "ch",
+          "start": 1.2,
+          "end": 1.28,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "ed",
+          "start": 1.28,
+          "end": 1.44,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " on",
+          "start": 1.44,
+          "end": 1.6,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " and",
+          "start": 1.6,
+          "end": 1.76,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " off",
+          "start": 1.76,
+          "end": 1.92,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " by",
+          "start": 1.92,
+          "end": 2.16,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " th",
+          "start": 2.16,
+          "end": 2.32,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "in",
+          "start": 2.32,
+          "end": 2.4,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": " film",
+          "start": 2.56,
+          "end": 2.88,
+          "duration": 0.32,
+          "confidence": 1.0
+        },
+        {
+          "text": " trans",
+          "start": 2.96,
+          "end": 3.28,
+          "duration": 0.32,
+          "confidence": 1.0
+        },
+        {
+          "text": "ist",
+          "start": 3.28,
+          "end": 3.44,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ors",
+          "start": 3.44,
+          "end": 3.68,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " in",
+          "start": 3.68,
+          "end": 3.76,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": " the",
+          "start": 3.76,
+          "end": 3.92,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " la",
+          "start": 3.92,
+          "end": 4.16,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "yer",
+          "start": 4.16,
+          "end": 4.4,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " bel",
+          "start": 4.4,
+          "end": 4.72,
+          "duration": 0.32,
+          "confidence": 1.0
+        },
+        {
+          "text": "ow",
+          "start": 4.72,
+          "end": 4.96,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": ",",
+          "start": 4.96,
+          "end": 5.2,
+          "duration": 0.24,
+          "confidence": 0.939
+        },
+        {
+          "text": " man",
+          "start": 5.2,
+          "end": 5.36,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "y",
+          "start": 5.36,
+          "end": 5.52,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " tim",
+          "start": 5.52,
+          "end": 5.68,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "es",
+          "start": 5.68,
+          "end": 5.92,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " ever",
+          "start": 5.92,
+          "end": 6.08,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "y",
+          "start": 6.08,
+          "end": 6.24,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " sec",
+          "start": 6.24,
+          "end": 6.48,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "ond",
+          "start": 6.48,
+          "end": 6.64,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": ".",
+          "start": 6.64,
+          "end": 6.72,
+          "duration": 0.08,
+          "confidence": 0.999
+        }
+      ]
+    }
+  ]
+}

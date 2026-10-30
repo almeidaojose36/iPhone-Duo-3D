@@ -1,0 +1,592 @@
+{
+  "text": "Put a voltage on the gate and current flows through the ribbons. Remove it and the flow stops. Because the gate surrounds the channel on every side, it controls it tightly, so less current leaks away when the switch is off.",
+  "sentences": [
+    {
+      "text": " Put a voltage on the gate and current flows through the ribbons.",
+      "start": 0.0,
+      "end": 3.84,
+      "duration": 3.84,
+      "confidence": 1.0,
+      "tokens": [
+        {
+          "text": " P",
+          "start": 0.0,
+          "end": 0.08,
+          "duration": 0.08,
+          "confidence": 0.995
+        },
+        {
+          "text": "ut",
+          "start": 0.08,
+          "end": 0.24,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " a",
+          "start": 0.24,
+          "end": 0.4,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " volta",
+          "start": 0.4,
+          "end": 0.64,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "ge",
+          "start": 0.64,
+          "end": 0.8,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " on",
+          "start": 0.8,
+          "end": 0.96,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " the",
+          "start": 0.96,
+          "end": 1.12,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " g",
+          "start": 1.12,
+          "end": 1.28,
+          "duration": 0.16,
+          "confidence": 0.999
+        },
+        {
+          "text": "ate",
+          "start": 1.28,
+          "end": 1.36,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": " and",
+          "start": 1.52,
+          "end": 1.68,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " cur",
+          "start": 1.68,
+          "end": 1.84,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "r",
+          "start": 1.84,
+          "end": 2.0,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ent",
+          "start": 2.0,
+          "end": 2.16,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " fl",
+          "start": 2.16,
+          "end": 2.32,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ow",
+          "start": 2.32,
+          "end": 2.4,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "s",
+          "start": 2.4,
+          "end": 2.56,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " th",
+          "start": 2.56,
+          "end": 2.64,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "ro",
+          "start": 2.64,
+          "end": 2.72,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "ugh",
+          "start": 2.72,
+          "end": 2.8,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": " the",
+          "start": 2.8,
+          "end": 2.96,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " ri",
+          "start": 2.96,
+          "end": 3.2,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "bb",
+          "start": 3.2,
+          "end": 3.44,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "ons",
+          "start": 3.44,
+          "end": 3.6,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": ".",
+          "start": 3.6,
+          "end": 3.84,
+          "duration": 0.24,
+          "confidence": 0.996
+        }
+      ]
+    },
+    {
+      "text": " Remove it and the flow stops.",
+      "start": 3.84,
+      "end": 6.32,
+      "duration": 2.48,
+      "confidence": 0.999,
+      "tokens": [
+        {
+          "text": " R",
+          "start": 3.84,
+          "end": 4.0,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "em",
+          "start": 4.0,
+          "end": 4.16,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ove",
+          "start": 4.16,
+          "end": 4.32,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " it",
+          "start": 4.32,
+          "end": 4.48,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " and",
+          "start": 4.64,
+          "end": 4.8,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " the",
+          "start": 4.8,
+          "end": 5.04,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " fl",
+          "start": 5.04,
+          "end": 5.28,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "ow",
+          "start": 5.28,
+          "end": 5.52,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " stop",
+          "start": 5.52,
+          "end": 5.84,
+          "duration": 0.32,
+          "confidence": 1.0
+        },
+        {
+          "text": "s",
+          "start": 5.84,
+          "end": 6.08,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": ".",
+          "start": 6.08,
+          "end": 6.32,
+          "duration": 0.24,
+          "confidence": 0.992
+        }
+      ]
+    },
+    {
+      "text": " Because the gate surrounds the channel on every side, it controls it tightly, so less current leaks away when the switch is off.",
+      "start": 6.32,
+      "end": 13.84,
+      "duration": 7.52,
+      "confidence": 0.997,
+      "tokens": [
+        {
+          "text": " Be",
+          "start": 6.32,
+          "end": 6.48,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "cause",
+          "start": 6.48,
+          "end": 6.64,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " the",
+          "start": 6.64,
+          "end": 6.8,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " g",
+          "start": 6.8,
+          "end": 7.04,
+          "duration": 0.24,
+          "confidence": 0.999
+        },
+        {
+          "text": "ate",
+          "start": 7.04,
+          "end": 7.2,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " sur",
+          "start": 7.2,
+          "end": 7.36,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ro",
+          "start": 7.36,
+          "end": 7.52,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "und",
+          "start": 7.52,
+          "end": 7.6,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "s",
+          "start": 7.6,
+          "end": 7.76,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " the",
+          "start": 7.76,
+          "end": 7.92,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " ch",
+          "start": 7.92,
+          "end": 8.0,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "ann",
+          "start": 8.0,
+          "end": 8.16,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "el",
+          "start": 8.16,
+          "end": 8.32,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " on",
+          "start": 8.32,
+          "end": 8.48,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " ever",
+          "start": 8.48,
+          "end": 8.64,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "y",
+          "start": 8.64,
+          "end": 8.8,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " s",
+          "start": 8.8,
+          "end": 8.96,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ide",
+          "start": 8.96,
+          "end": 9.12,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": ",",
+          "start": 9.12,
+          "end": 9.28,
+          "duration": 0.16,
+          "confidence": 0.941
+        },
+        {
+          "text": " it",
+          "start": 9.28,
+          "end": 9.6,
+          "duration": 0.32,
+          "confidence": 1.0
+        },
+        {
+          "text": " control",
+          "start": 9.6,
+          "end": 9.84,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "s",
+          "start": 9.84,
+          "end": 10.08,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " it",
+          "start": 10.08,
+          "end": 10.24,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " t",
+          "start": 10.24,
+          "end": 10.4,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ight",
+          "start": 10.4,
+          "end": 10.64,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "ly",
+          "start": 10.64,
+          "end": 10.8,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": ",",
+          "start": 10.8,
+          "end": 10.96,
+          "duration": 0.16,
+          "confidence": 0.94
+        },
+        {
+          "text": " so",
+          "start": 10.96,
+          "end": 11.2,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " l",
+          "start": 11.2,
+          "end": 11.36,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ess",
+          "start": 11.36,
+          "end": 11.52,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " cur",
+          "start": 11.52,
+          "end": 11.68,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "r",
+          "start": 11.68,
+          "end": 11.76,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "ent",
+          "start": 11.76,
+          "end": 12.0,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " le",
+          "start": 12.0,
+          "end": 12.16,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "aks",
+          "start": 12.16,
+          "end": 12.4,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " a",
+          "start": 12.4,
+          "end": 12.56,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "way",
+          "start": 12.56,
+          "end": 12.72,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " when",
+          "start": 12.72,
+          "end": 12.88,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " the",
+          "start": 12.88,
+          "end": 12.96,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": " sw",
+          "start": 12.96,
+          "end": 13.12,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "it",
+          "start": 13.12,
+          "end": 13.28,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ch",
+          "start": 13.28,
+          "end": 13.36,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": " is",
+          "start": 13.36,
+          "end": 13.6,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " off",
+          "start": 13.6,
+          "end": 13.76,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": ".",
+          "start": 13.76,
+          "end": 13.84,
+          "duration": 0.08,
+          "confidence": 0.999
+        }
+      ]
+    }
+  ]
+}

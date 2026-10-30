@@ -1,0 +1,701 @@
+{
+  "text": "Why does thin bend more easily? When a sheet bends, its outside stretches and its inside squeezes. The thinner the sheet, the less each surface has to stretch. That's why every layer here is made as thin as possible. Even glass can bend if it's thin enough.",
+  "sentences": [
+    {
+      "text": " Why does thin bend more easily?",
+      "start": 0.0,
+      "end": 2.16,
+      "duration": 2.16,
+      "confidence": 0.999,
+      "tokens": [
+        {
+          "text": " W",
+          "start": 0.0,
+          "end": 0.08,
+          "duration": 0.08,
+          "confidence": 0.999
+        },
+        {
+          "text": "hy",
+          "start": 0.08,
+          "end": 0.24,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " do",
+          "start": 0.24,
+          "end": 0.32,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "es",
+          "start": 0.32,
+          "end": 0.4,
+          "duration": 0.08,
+          "confidence": 0.999
+        },
+        {
+          "text": " th",
+          "start": 0.4,
+          "end": 0.56,
+          "duration": 0.16,
+          "confidence": 0.996
+        },
+        {
+          "text": "in",
+          "start": 0.56,
+          "end": 0.8,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " bend",
+          "start": 0.8,
+          "end": 1.12,
+          "duration": 0.32,
+          "confidence": 0.999
+        },
+        {
+          "text": " more",
+          "start": 1.12,
+          "end": 1.36,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " e",
+          "start": 1.36,
+          "end": 1.52,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "as",
+          "start": 1.52,
+          "end": 1.76,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "ily",
+          "start": 1.76,
+          "end": 1.92,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "?",
+          "start": 1.92,
+          "end": 2.16,
+          "duration": 0.24,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "text": " When a sheet bends, its outside stretches and its inside squeezes.",
+      "start": 2.16,
+      "end": 6.88,
+      "duration": 4.72,
+      "confidence": 0.998,
+      "tokens": [
+        {
+          "text": " W",
+          "start": 2.16,
+          "end": 2.24,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "hen",
+          "start": 2.24,
+          "end": 2.4,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " a",
+          "start": 2.4,
+          "end": 2.56,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " she",
+          "start": 2.56,
+          "end": 2.72,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "et",
+          "start": 2.72,
+          "end": 2.88,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " bend",
+          "start": 2.88,
+          "end": 3.12,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "s",
+          "start": 3.12,
+          "end": 3.28,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": ",",
+          "start": 3.28,
+          "end": 3.36,
+          "duration": 0.08,
+          "confidence": 0.985
+        },
+        {
+          "text": " its",
+          "start": 3.36,
+          "end": 3.52,
+          "duration": 0.16,
+          "confidence": 0.986
+        },
+        {
+          "text": " out",
+          "start": 3.68,
+          "end": 3.84,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "s",
+          "start": 3.84,
+          "end": 4.0,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ide",
+          "start": 4.0,
+          "end": 4.16,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " st",
+          "start": 4.16,
+          "end": 4.32,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ret",
+          "start": 4.32,
+          "end": 4.56,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "ches",
+          "start": 4.56,
+          "end": 4.8,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " and",
+          "start": 4.8,
+          "end": 5.04,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " its",
+          "start": 5.04,
+          "end": 5.28,
+          "duration": 0.24,
+          "confidence": 0.996
+        },
+        {
+          "text": " ins",
+          "start": 5.28,
+          "end": 5.6,
+          "duration": 0.32,
+          "confidence": 1.0
+        },
+        {
+          "text": "ide",
+          "start": 5.6,
+          "end": 5.84,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " s",
+          "start": 5.84,
+          "end": 5.92,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "que",
+          "start": 5.92,
+          "end": 6.16,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "ez",
+          "start": 6.16,
+          "end": 6.32,
+          "duration": 0.16,
+          "confidence": 0.999
+        },
+        {
+          "text": "es",
+          "start": 6.48,
+          "end": 6.72,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": ".",
+          "start": 6.72,
+          "end": 6.88,
+          "duration": 0.16,
+          "confidence": 0.997
+        }
+      ]
+    },
+    {
+      "text": " The thinner the sheet, the less each surface has to stretch.",
+      "start": 6.88,
+      "end": 10.88,
+      "duration": 4.0,
+      "confidence": 1.0,
+      "tokens": [
+        {
+          "text": " The",
+          "start": 6.88,
+          "end": 7.12,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " th",
+          "start": 7.12,
+          "end": 7.28,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "inn",
+          "start": 7.28,
+          "end": 7.44,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "er",
+          "start": 7.44,
+          "end": 7.6,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " the",
+          "start": 7.6,
+          "end": 7.76,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " she",
+          "start": 7.76,
+          "end": 8.0,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "et",
+          "start": 8.0,
+          "end": 8.16,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": ",",
+          "start": 8.16,
+          "end": 8.4,
+          "duration": 0.24,
+          "confidence": 0.999
+        },
+        {
+          "text": " the",
+          "start": 8.4,
+          "end": 8.56,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " l",
+          "start": 8.56,
+          "end": 8.72,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ess",
+          "start": 8.72,
+          "end": 8.88,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " e",
+          "start": 8.88,
+          "end": 9.04,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ach",
+          "start": 9.04,
+          "end": 9.2,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " sur",
+          "start": 9.2,
+          "end": 9.44,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "fa",
+          "start": 9.44,
+          "end": 9.6,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ce",
+          "start": 9.6,
+          "end": 9.76,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " has",
+          "start": 9.76,
+          "end": 10.0,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " to",
+          "start": 10.0,
+          "end": 10.16,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " st",
+          "start": 10.16,
+          "end": 10.32,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ret",
+          "start": 10.32,
+          "end": 10.56,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "ch",
+          "start": 10.56,
+          "end": 10.72,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": ".",
+          "start": 10.72,
+          "end": 10.88,
+          "duration": 0.16,
+          "confidence": 0.996
+        }
+      ]
+    },
+    {
+      "text": " That's why every layer here is made as thin as possible.",
+      "start": 10.88,
+      "end": 14.4,
+      "duration": 3.52,
+      "confidence": 0.999,
+      "tokens": [
+        {
+          "text": " That",
+          "start": 10.88,
+          "end": 11.12,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "'",
+          "start": 11.12,
+          "end": 11.28,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "s",
+          "start": 11.28,
+          "end": 11.28,
+          "duration": 0.0,
+          "confidence": 1.0
+        },
+        {
+          "text": " wh",
+          "start": 11.28,
+          "end": 11.36,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "y",
+          "start": 11.36,
+          "end": 11.52,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " ever",
+          "start": 11.52,
+          "end": 11.68,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "y",
+          "start": 11.68,
+          "end": 11.84,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " la",
+          "start": 11.84,
+          "end": 12.0,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "yer",
+          "start": 12.0,
+          "end": 12.24,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " here",
+          "start": 12.24,
+          "end": 12.4,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " is",
+          "start": 12.4,
+          "end": 12.56,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " m",
+          "start": 12.56,
+          "end": 12.64,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "ade",
+          "start": 12.64,
+          "end": 12.8,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " as",
+          "start": 12.8,
+          "end": 13.04,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " th",
+          "start": 13.04,
+          "end": 13.2,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "in",
+          "start": 13.2,
+          "end": 13.44,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " as",
+          "start": 13.44,
+          "end": 13.68,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " possi",
+          "start": 13.68,
+          "end": 14.0,
+          "duration": 0.32,
+          "confidence": 1.0
+        },
+        {
+          "text": "ble",
+          "start": 14.0,
+          "end": 14.16,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": ".",
+          "start": 14.16,
+          "end": 14.4,
+          "duration": 0.24,
+          "confidence": 0.989
+        }
+      ]
+    },
+    {
+      "text": " Even glass can bend if it's thin enough.",
+      "start": 14.4,
+      "end": 16.8,
+      "duration": 2.4,
+      "confidence": 1.0,
+      "tokens": [
+        {
+          "text": " E",
+          "start": 14.4,
+          "end": 14.56,
+          "duration": 0.16,
+          "confidence": 0.999
+        },
+        {
+          "text": "ven",
+          "start": 14.56,
+          "end": 14.8,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " glas",
+          "start": 14.8,
+          "end": 15.04,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "s",
+          "start": 15.04,
+          "end": 15.28,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " can",
+          "start": 15.28,
+          "end": 15.52,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " bend",
+          "start": 15.52,
+          "end": 15.84,
+          "duration": 0.32,
+          "confidence": 1.0
+        },
+        {
+          "text": " if",
+          "start": 15.84,
+          "end": 15.92,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": " it",
+          "start": 15.92,
+          "end": 16.08,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "'",
+          "start": 16.08,
+          "end": 16.24,
+          "duration": 0.16,
+          "confidence": 0.996
+        },
+        {
+          "text": "s",
+          "start": 16.24,
+          "end": 16.24,
+          "duration": 0.0,
+          "confidence": 1.0
+        },
+        {
+          "text": " th",
+          "start": 16.24,
+          "end": 16.32,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "in",
+          "start": 16.32,
+          "end": 16.48,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " en",
+          "start": 16.48,
+          "end": 16.64,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ough",
+          "start": 16.64,
+          "end": 16.72,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": ".",
+          "start": 16.72,
+          "end": 16.8,
+          "duration": 0.08,
+          "confidence": 1.0
+        }
+      ]
+    }
+  ]
+}

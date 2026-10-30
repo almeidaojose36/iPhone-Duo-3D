@@ -1,0 +1,564 @@
+{
+  "text": "From the outside, all you see is a titanium spine. Inside there are no simple pins. Instead, there's a chain of small metal joints, each rotating through a limited range, a bit like the links of a watch band.",
+  "sentences": [
+    {
+      "text": " From the outside, all you see is a titanium spine.",
+      "start": 0.0,
+      "end": 3.76,
+      "duration": 3.76,
+      "confidence": 0.995,
+      "tokens": [
+        {
+          "text": " F",
+          "start": 0.0,
+          "end": 0.08,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "rom",
+          "start": 0.08,
+          "end": 0.24,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " the",
+          "start": 0.24,
+          "end": 0.4,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " out",
+          "start": 0.4,
+          "end": 0.56,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "s",
+          "start": 0.56,
+          "end": 0.8,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "ide",
+          "start": 0.8,
+          "end": 0.96,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": ",",
+          "start": 0.96,
+          "end": 1.04,
+          "duration": 0.08,
+          "confidence": 0.924
+        },
+        {
+          "text": " all",
+          "start": 1.04,
+          "end": 1.28,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " you",
+          "start": 1.28,
+          "end": 1.52,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " see",
+          "start": 1.52,
+          "end": 1.68,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " is",
+          "start": 1.68,
+          "end": 1.84,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " a",
+          "start": 1.84,
+          "end": 2.08,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " tit",
+          "start": 2.08,
+          "end": 2.4,
+          "duration": 0.32,
+          "confidence": 1.0
+        },
+        {
+          "text": "ani",
+          "start": 2.4,
+          "end": 2.72,
+          "duration": 0.32,
+          "confidence": 1.0
+        },
+        {
+          "text": "um",
+          "start": 2.72,
+          "end": 3.04,
+          "duration": 0.32,
+          "confidence": 1.0
+        },
+        {
+          "text": " sp",
+          "start": 3.04,
+          "end": 3.36,
+          "duration": 0.32,
+          "confidence": 1.0
+        },
+        {
+          "text": "ine",
+          "start": 3.36,
+          "end": 3.52,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": ".",
+          "start": 3.52,
+          "end": 3.76,
+          "duration": 0.24,
+          "confidence": 0.993
+        }
+      ]
+    },
+    {
+      "text": " Inside there are no simple pins.",
+      "start": 3.76,
+      "end": 6.32,
+      "duration": 2.56,
+      "confidence": 0.996,
+      "tokens": [
+        {
+          "text": " In",
+          "start": 3.76,
+          "end": 3.92,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "s",
+          "start": 3.92,
+          "end": 4.16,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "ide",
+          "start": 4.16,
+          "end": 4.32,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " there",
+          "start": 4.48,
+          "end": 4.64,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " are",
+          "start": 4.64,
+          "end": 4.88,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " no",
+          "start": 4.88,
+          "end": 5.12,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " sim",
+          "start": 5.12,
+          "end": 5.28,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ple",
+          "start": 5.28,
+          "end": 5.52,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " p",
+          "start": 5.52,
+          "end": 5.84,
+          "duration": 0.32,
+          "confidence": 1.0
+        },
+        {
+          "text": "ins",
+          "start": 5.84,
+          "end": 6.16,
+          "duration": 0.32,
+          "confidence": 1.0
+        },
+        {
+          "text": ".",
+          "start": 6.16,
+          "end": 6.32,
+          "duration": 0.16,
+          "confidence": 0.959
+        }
+      ]
+    },
+    {
+      "text": " Instead, there's a chain of small metal joints, each rotating through a limited range, a bit like the links of a watch band.",
+      "start": 6.32,
+      "end": 14.56,
+      "duration": 8.24,
+      "confidence": 0.997,
+      "tokens": [
+        {
+          "text": " In",
+          "start": 6.32,
+          "end": 6.56,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "ste",
+          "start": 6.56,
+          "end": 6.8,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "ad",
+          "start": 6.8,
+          "end": 6.88,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": ",",
+          "start": 6.88,
+          "end": 7.04,
+          "duration": 0.16,
+          "confidence": 0.939
+        },
+        {
+          "text": " there",
+          "start": 7.04,
+          "end": 7.2,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "'",
+          "start": 7.2,
+          "end": 7.36,
+          "duration": 0.16,
+          "confidence": 0.979
+        },
+        {
+          "text": "s",
+          "start": 7.36,
+          "end": 7.44,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": " a",
+          "start": 7.44,
+          "end": 7.6,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " cha",
+          "start": 7.6,
+          "end": 7.76,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "in",
+          "start": 7.76,
+          "end": 7.92,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " of",
+          "start": 7.92,
+          "end": 8.16,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " sm",
+          "start": 8.16,
+          "end": 8.32,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "all",
+          "start": 8.32,
+          "end": 8.56,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " met",
+          "start": 8.56,
+          "end": 8.8,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "al",
+          "start": 8.8,
+          "end": 9.04,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " jo",
+          "start": 9.04,
+          "end": 9.2,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "in",
+          "start": 9.2,
+          "end": 9.36,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ts",
+          "start": 9.36,
+          "end": 9.6,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": ",",
+          "start": 9.6,
+          "end": 9.76,
+          "duration": 0.16,
+          "confidence": 0.998
+        },
+        {
+          "text": " e",
+          "start": 9.76,
+          "end": 10.0,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "ach",
+          "start": 10.0,
+          "end": 10.16,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " ro",
+          "start": 10.16,
+          "end": 10.32,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "t",
+          "start": 10.32,
+          "end": 10.48,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "at",
+          "start": 10.48,
+          "end": 10.72,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "ing",
+          "start": 10.72,
+          "end": 10.88,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " th",
+          "start": 10.88,
+          "end": 10.96,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "ro",
+          "start": 10.96,
+          "end": 11.04,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "ugh",
+          "start": 11.04,
+          "end": 11.12,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": " a",
+          "start": 11.12,
+          "end": 11.28,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " lim",
+          "start": 11.28,
+          "end": 11.44,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "it",
+          "start": 11.44,
+          "end": 11.6,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ed",
+          "start": 11.6,
+          "end": 11.84,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " r",
+          "start": 11.84,
+          "end": 12.08,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "ange",
+          "start": 12.08,
+          "end": 12.24,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": ",",
+          "start": 12.24,
+          "end": 12.48,
+          "duration": 0.24,
+          "confidence": 0.997
+        },
+        {
+          "text": " a",
+          "start": 12.48,
+          "end": 12.64,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " bit",
+          "start": 12.64,
+          "end": 12.8,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " like",
+          "start": 12.8,
+          "end": 12.96,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " the",
+          "start": 12.96,
+          "end": 13.2,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " lin",
+          "start": 13.2,
+          "end": 13.44,
+          "duration": 0.24,
+          "confidence": 0.954
+        },
+        {
+          "text": "ks",
+          "start": 13.44,
+          "end": 13.6,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " of",
+          "start": 13.68,
+          "end": 13.76,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": " a",
+          "start": 13.76,
+          "end": 13.92,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " wat",
+          "start": 13.92,
+          "end": 14.08,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ch",
+          "start": 14.08,
+          "end": 14.32,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " band",
+          "start": 14.32,
+          "end": 14.48,
+          "duration": 0.16,
+          "confidence": 0.994
+        },
+        {
+          "text": ".",
+          "start": 14.48,
+          "end": 14.56,
+          "duration": 0.08,
+          "confidence": 0.999
+        }
+      ]
+    }
+  ]
+}

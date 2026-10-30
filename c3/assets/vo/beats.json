@@ -1,0 +1,46 @@
+[
+ {
+  "id": "d1",
+  "text": "A normal phone screen sits under thick, hard glass. Glass like that can't fold. So the inner screen is a flexible OLED panel, built from more than ten ultrathin layers and adhesives."
+ },
+ {
+  "id": "d2",
+  "text": "Why does thin bend more easily? When a sheet bends, its outside stretches and its inside squeezes. The thinner the sheet, the less each surface has to stretch. That's why every layer here is made as thin as possible. Even glass can bend, if it's thin enough."
+ },
+ {
+  "id": "d3",
+  "text": "On top is a flexible polymer cover. Under a microscope, its surface is covered in tiny bumps: the nano-texture. It scatters reflections, so the screen shows less glare, and the reflection off the crease almost disappears. It also makes the surface harder to scratch. And this cover can be replaced on its own."
+ },
+ {
+  "id": "dg",
+  "text": "Under it is a layer of ultra-thin glass, thinner than a sheet of paper, and there's another one below the panel. Glass this thin bends, and it spreads the pressure of a fingertip or a pencil, so the screen resists dents."
+ },
+ {
+  "id": "d4",
+  "text": "Below it is the touch layer, a fine metal mesh. Your finger changes the electric field between the wires, and the phone works out exactly where you touched."
+ },
+ {
+  "id": "d5",
+  "text": "Then, instead of a polarizer, there are color filters: tiny colored windows over every subpixel, framed by a black grid that soaks up light from the room."
+ },
+ {
+  "id": "d6",
+  "text": "Under them are the light sources themselves: red, green and blue organic LEDs. Some subpixels are oval, turned in different directions, to reduce diffraction."
+ },
+ {
+  "id": "d7",
+  "text": "Let's zoom into a single subpixel. It's a sandwich of organic layers between two electrodes. Electrons enter from the top, and holes, the gaps where electrons are missing, enter from the bottom. When they meet in the middle layer, they release their energy as a tiny flash of light. The material in that layer decides the color."
+ },
+ {
+  "id": "d8",
+  "text": "Each subpixel is switched on and off by thin-film transistors in the layer below, many times every second."
+ },
+ {
+  "id": "d9",
+  "text": "There's even a camera hiding under this screen. Around it, small gaps in the pixel pattern let light pass through to the lens."
+ },
+ {
+  "id": "d10",
+  "text": "At the bottom, a plastic base bends instead of shattering, a soft foam cushion absorbs the press of your finger, and a metal support plate gives the whole panel its strength. Next: how one phone runs on two batteries."
+ }
+]

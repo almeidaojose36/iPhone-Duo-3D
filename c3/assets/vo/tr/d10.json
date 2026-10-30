@@ -1,0 +1,597 @@
+{
+  "text": "At the bottom, a plastic base bends instead of shattering, a soft foam cushion absorbs the press of your finger, and a metal support plate gives the whole panel its strength. Next, how one phone runs on two batteries.",
+  "sentences": [
+    {
+      "text": " At the bottom, a plastic base bends instead of shattering, a soft foam cushion absorbs the press of your finger, and a metal support plate gives the whole panel its strength.",
+      "start": 0.0,
+      "end": 10.8,
+      "duration": 10.8,
+      "confidence": 0.997,
+      "tokens": [
+        {
+          "text": " At",
+          "start": 0.0,
+          "end": 0.24,
+          "duration": 0.24,
+          "confidence": 0.999
+        },
+        {
+          "text": " the",
+          "start": 0.24,
+          "end": 0.32,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": " b",
+          "start": 0.32,
+          "end": 0.4,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "ott",
+          "start": 0.4,
+          "end": 0.56,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "om",
+          "start": 0.56,
+          "end": 0.72,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": ",",
+          "start": 0.72,
+          "end": 0.8,
+          "duration": 0.08,
+          "confidence": 0.942
+        },
+        {
+          "text": " a",
+          "start": 0.8,
+          "end": 0.96,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " pl",
+          "start": 0.96,
+          "end": 1.12,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "asti",
+          "start": 1.12,
+          "end": 1.28,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "c",
+          "start": 1.28,
+          "end": 1.6,
+          "duration": 0.32,
+          "confidence": 1.0
+        },
+        {
+          "text": " base",
+          "start": 1.6,
+          "end": 1.92,
+          "duration": 0.32,
+          "confidence": 0.998
+        },
+        {
+          "text": " bend",
+          "start": 1.92,
+          "end": 2.16,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "s",
+          "start": 2.16,
+          "end": 2.32,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " in",
+          "start": 2.32,
+          "end": 2.4,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "ste",
+          "start": 2.4,
+          "end": 2.48,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "ad",
+          "start": 2.48,
+          "end": 2.56,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": " of",
+          "start": 2.56,
+          "end": 2.8,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " s",
+          "start": 2.8,
+          "end": 2.88,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "hat",
+          "start": 2.88,
+          "end": 3.12,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "ter",
+          "start": 3.12,
+          "end": 3.28,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ing",
+          "start": 3.28,
+          "end": 3.44,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": ",",
+          "start": 3.44,
+          "end": 3.68,
+          "duration": 0.24,
+          "confidence": 0.924
+        },
+        {
+          "text": " a",
+          "start": 3.68,
+          "end": 3.84,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " so",
+          "start": 3.84,
+          "end": 4.0,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ft",
+          "start": 4.0,
+          "end": 4.24,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " fo",
+          "start": 4.24,
+          "end": 4.4,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "am",
+          "start": 4.4,
+          "end": 4.56,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " c",
+          "start": 4.56,
+          "end": 4.72,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "us",
+          "start": 4.72,
+          "end": 4.8,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "h",
+          "start": 4.8,
+          "end": 4.96,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ion",
+          "start": 4.96,
+          "end": 5.12,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " abs",
+          "start": 5.12,
+          "end": 5.2,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "or",
+          "start": 5.2,
+          "end": 5.36,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "b",
+          "start": 5.36,
+          "end": 5.52,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "s",
+          "start": 5.52,
+          "end": 5.6,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": " the",
+          "start": 5.6,
+          "end": 5.76,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " pr",
+          "start": 5.76,
+          "end": 5.92,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ess",
+          "start": 5.92,
+          "end": 6.08,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " of",
+          "start": 6.08,
+          "end": 6.16,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": " your",
+          "start": 6.16,
+          "end": 6.32,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " f",
+          "start": 6.32,
+          "end": 6.56,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "inger",
+          "start": 6.56,
+          "end": 6.8,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": ",",
+          "start": 6.8,
+          "end": 6.88,
+          "duration": 0.08,
+          "confidence": 0.981
+        },
+        {
+          "text": " and",
+          "start": 6.88,
+          "end": 7.12,
+          "duration": 0.24,
+          "confidence": 0.999
+        },
+        {
+          "text": " a",
+          "start": 7.12,
+          "end": 7.28,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " met",
+          "start": 7.28,
+          "end": 7.44,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "al",
+          "start": 7.44,
+          "end": 7.68,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " su",
+          "start": 7.68,
+          "end": 7.92,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "pport",
+          "start": 7.92,
+          "end": 8.16,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " pl",
+          "start": 8.16,
+          "end": 8.32,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ate",
+          "start": 8.32,
+          "end": 8.48,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " g",
+          "start": 8.48,
+          "end": 8.56,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "iv",
+          "start": 8.56,
+          "end": 8.64,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "es",
+          "start": 8.64,
+          "end": 8.72,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": " the",
+          "start": 8.72,
+          "end": 8.88,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " wh",
+          "start": 8.88,
+          "end": 8.96,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "ole",
+          "start": 8.96,
+          "end": 9.2,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " pan",
+          "start": 9.2,
+          "end": 9.44,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "el",
+          "start": 9.44,
+          "end": 9.68,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " its",
+          "start": 9.68,
+          "end": 9.92,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " str",
+          "start": 9.92,
+          "end": 10.0,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "en",
+          "start": 10.0,
+          "end": 10.16,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "gt",
+          "start": 10.16,
+          "end": 10.32,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "h",
+          "start": 10.32,
+          "end": 10.48,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": ".",
+          "start": 10.48,
+          "end": 10.8,
+          "duration": 0.32,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "text": " Next, how one phone runs on two batteries.",
+      "start": 10.8,
+      "end": 14.16,
+      "duration": 3.36,
+      "confidence": 0.99,
+      "tokens": [
+        {
+          "text": " Ne",
+          "start": 10.8,
+          "end": 11.12,
+          "duration": 0.32,
+          "confidence": 0.993
+        },
+        {
+          "text": "xt",
+          "start": 11.12,
+          "end": 11.36,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": ",",
+          "start": 11.36,
+          "end": 11.68,
+          "duration": 0.32,
+          "confidence": 0.953
+        },
+        {
+          "text": " how",
+          "start": 11.68,
+          "end": 11.84,
+          "duration": 0.16,
+          "confidence": 0.995
+        },
+        {
+          "text": " one",
+          "start": 12.0,
+          "end": 12.24,
+          "duration": 0.24,
+          "confidence": 0.999
+        },
+        {
+          "text": " p",
+          "start": 12.24,
+          "end": 12.4,
+          "duration": 0.16,
+          "confidence": 0.94
+        },
+        {
+          "text": "h",
+          "start": 12.4,
+          "end": 12.56,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "one",
+          "start": 12.56,
+          "end": 12.72,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " r",
+          "start": 12.72,
+          "end": 12.96,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "uns",
+          "start": 12.96,
+          "end": 13.12,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " on",
+          "start": 13.12,
+          "end": 13.28,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " two",
+          "start": 13.28,
+          "end": 13.52,
+          "duration": 0.24,
+          "confidence": 0.998
+        },
+        {
+          "text": " b",
+          "start": 13.52,
+          "end": 13.6,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "at",
+          "start": 13.6,
+          "end": 13.76,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ter",
+          "start": 13.76,
+          "end": 13.92,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ies",
+          "start": 13.92,
+          "end": 14.08,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": ".",
+          "start": 14.08,
+          "end": 14.16,
+          "duration": 0.08,
+          "confidence": 0.958
+        }
+      ]
+    }
+  ]
+}

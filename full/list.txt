@@ -1,0 +1,8 @@
+file '/Users/almeidajose/Documents/A/App/3D Hardware glb studio/video/duo/c1/renders/review_c1.mp4'
+file '/Users/almeidajose/Documents/A/App/3D Hardware glb studio/video/duo/c2/renders/review_c2.mp4'
+file '/Users/almeidajose/Documents/A/App/3D Hardware glb studio/video/duo/c3/renders/review_c3.mp4'
+file '/Users/almeidajose/Documents/A/App/3D Hardware glb studio/video/duo/c4/renders/review_c4.mp4'
+file '/Users/almeidajose/Documents/A/App/3D Hardware glb studio/video/duo/c5/renders/review_c5.mp4'
+file '/Users/almeidajose/Documents/A/App/3D Hardware glb studio/video/duo/c6/renders/review_c6.mp4'
+file '/Users/almeidajose/Documents/A/App/3D Hardware glb studio/video/duo/c7/renders/review_c7.mp4'
+file '/Users/almeidajose/Documents/A/App/3D Hardware glb studio/video/duo/c8/renders/review_c8.mp4'

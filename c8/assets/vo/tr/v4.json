@@ -1,0 +1,147 @@
+{
+  "text": "All of it in a phone 5.2 millimeters thick.",
+  "sentences": [
+    {
+      "text": " All of it in a phone 5.2 millimeters thick.",
+      "start": 0.08,
+      "end": 3.12,
+      "duration": 3.04,
+      "confidence": 0.988,
+      "tokens": [
+        {
+          "text": " All",
+          "start": 0.08,
+          "end": 0.32,
+          "duration": 0.24,
+          "confidence": 0.933
+        },
+        {
+          "text": " of",
+          "start": 0.32,
+          "end": 0.4,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": " it",
+          "start": 0.4,
+          "end": 0.64,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " in",
+          "start": 0.64,
+          "end": 0.8,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " a",
+          "start": 0.8,
+          "end": 0.96,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " p",
+          "start": 0.96,
+          "end": 1.04,
+          "duration": 0.08,
+          "confidence": 0.993
+        },
+        {
+          "text": "h",
+          "start": 1.04,
+          "end": 1.2,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "one",
+          "start": 1.2,
+          "end": 1.36,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " ",
+          "start": 1.36,
+          "end": 1.52,
+          "duration": 0.16,
+          "confidence": 0.931
+        },
+        {
+          "text": "5",
+          "start": 1.52,
+          "end": 1.76,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": ".",
+          "start": 1.76,
+          "end": 1.92,
+          "duration": 0.16,
+          "confidence": 0.999
+        },
+        {
+          "text": "2",
+          "start": 1.92,
+          "end": 2.16,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " mil",
+          "start": 2.16,
+          "end": 2.32,
+          "duration": 0.16,
+          "confidence": 0.945
+        },
+        {
+          "text": "lim",
+          "start": 2.32,
+          "end": 2.48,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "et",
+          "start": 2.48,
+          "end": 2.64,
+          "duration": 0.16,
+          "confidence": 0.998
+        },
+        {
+          "text": "ers",
+          "start": 2.64,
+          "end": 2.72,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": " th",
+          "start": 2.72,
+          "end": 2.88,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ick",
+          "start": 2.88,
+          "end": 3.04,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": ".",
+          "start": 3.04,
+          "end": 3.12,
+          "duration": 0.08,
+          "confidence": 0.987
+        }
+      ]
+    }
+  ]
+}

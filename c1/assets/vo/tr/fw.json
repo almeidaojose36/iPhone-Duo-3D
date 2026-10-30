@@ -1,0 +1,371 @@
+{
+  "text": "That inner screen is wide and short, about 1.4 to 1, so a widescreen video fills much more of it than it would on a square folding screen.",
+  "sentences": [
+    {
+      "text": " That inner screen is wide and short, about 1.4 to 1, so a widescreen video fills much more of it than it would on a square folding screen.",
+      "start": 0.0,
+      "end": 9.52,
+      "duration": 9.52,
+      "confidence": 0.995,
+      "tokens": [
+        {
+          "text": " That",
+          "start": 0.0,
+          "end": 0.24,
+          "duration": 0.24,
+          "confidence": 0.998
+        },
+        {
+          "text": " in",
+          "start": 0.24,
+          "end": 0.4,
+          "duration": 0.16,
+          "confidence": 0.999
+        },
+        {
+          "text": "ner",
+          "start": 0.4,
+          "end": 0.56,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " sc",
+          "start": 0.56,
+          "end": 0.64,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "re",
+          "start": 0.64,
+          "end": 0.8,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "en",
+          "start": 0.8,
+          "end": 0.96,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " is",
+          "start": 0.96,
+          "end": 1.2,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " w",
+          "start": 1.2,
+          "end": 1.28,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "ide",
+          "start": 1.28,
+          "end": 1.52,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " and",
+          "start": 1.52,
+          "end": 1.76,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " sh",
+          "start": 1.76,
+          "end": 2.0,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "ort",
+          "start": 2.0,
+          "end": 2.24,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": ",",
+          "start": 2.24,
+          "end": 2.48,
+          "duration": 0.24,
+          "confidence": 0.993
+        },
+        {
+          "text": " about",
+          "start": 2.48,
+          "end": 2.8,
+          "duration": 0.32,
+          "confidence": 1.0
+        },
+        {
+          "text": " ",
+          "start": 2.8,
+          "end": 2.96,
+          "duration": 0.16,
+          "confidence": 0.933
+        },
+        {
+          "text": "1",
+          "start": 2.96,
+          "end": 3.2,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": ".",
+          "start": 3.2,
+          "end": 3.44,
+          "duration": 0.24,
+          "confidence": 0.998
+        },
+        {
+          "text": "4",
+          "start": 3.44,
+          "end": 3.6,
+          "duration": 0.16,
+          "confidence": 0.999
+        },
+        {
+          "text": " to",
+          "start": 3.84,
+          "end": 4.08,
+          "duration": 0.24,
+          "confidence": 0.987
+        },
+        {
+          "text": " ",
+          "start": 4.08,
+          "end": 4.24,
+          "duration": 0.16,
+          "confidence": 0.982
+        },
+        {
+          "text": "1",
+          "start": 4.24,
+          "end": 4.4,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": ",",
+          "start": 4.4,
+          "end": 4.64,
+          "duration": 0.24,
+          "confidence": 0.942
+        },
+        {
+          "text": " so",
+          "start": 4.64,
+          "end": 4.88,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " a",
+          "start": 4.88,
+          "end": 5.04,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " wid",
+          "start": 5.04,
+          "end": 5.2,
+          "duration": 0.16,
+          "confidence": 0.998
+        },
+        {
+          "text": "esc",
+          "start": 5.2,
+          "end": 5.36,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "re",
+          "start": 5.44,
+          "end": 5.6,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "en",
+          "start": 5.6,
+          "end": 5.84,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " video",
+          "start": 5.84,
+          "end": 6.16,
+          "duration": 0.32,
+          "confidence": 1.0
+        },
+        {
+          "text": " f",
+          "start": 6.16,
+          "end": 6.32,
+          "duration": 0.16,
+          "confidence": 0.936
+        },
+        {
+          "text": "ill",
+          "start": 6.32,
+          "end": 6.4,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "s",
+          "start": 6.4,
+          "end": 6.56,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " much",
+          "start": 6.56,
+          "end": 6.72,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " more",
+          "start": 6.72,
+          "end": 6.88,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " of",
+          "start": 6.88,
+          "end": 7.04,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " it",
+          "start": 7.04,
+          "end": 7.2,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " than",
+          "start": 7.2,
+          "end": 7.36,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " it",
+          "start": 7.36,
+          "end": 7.6,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " would",
+          "start": 7.6,
+          "end": 7.76,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " on",
+          "start": 7.76,
+          "end": 7.92,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " a",
+          "start": 7.92,
+          "end": 8.0,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": " s",
+          "start": 8.0,
+          "end": 8.08,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "qu",
+          "start": 8.08,
+          "end": 8.24,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "are",
+          "start": 8.24,
+          "end": 8.4,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " f",
+          "start": 8.4,
+          "end": 8.64,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "old",
+          "start": 8.64,
+          "end": 8.88,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "ing",
+          "start": 8.88,
+          "end": 9.04,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " sc",
+          "start": 9.04,
+          "end": 9.12,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "re",
+          "start": 9.12,
+          "end": 9.28,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "en",
+          "start": 9.28,
+          "end": 9.44,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": ".",
+          "start": 9.44,
+          "end": 9.52,
+          "duration": 0.08,
+          "confidence": 0.999
+        }
+      ]
+    }
+  ]
+}

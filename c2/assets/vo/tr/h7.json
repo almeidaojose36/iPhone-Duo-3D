@@ -1,0 +1,408 @@
+{
+  "text": "Crossing the gap is a cable folded like an accordion. It carries power and data between the two halves, and it flexes every single time you open the phone.",
+  "sentences": [
+    {
+      "text": " Crossing the gap is a cable folded like an accordion.",
+      "start": 0.0,
+      "end": 3.6,
+      "duration": 3.6,
+      "confidence": 0.998,
+      "tokens": [
+        {
+          "text": " C",
+          "start": 0.0,
+          "end": 0.16,
+          "duration": 0.16,
+          "confidence": 0.999
+        },
+        {
+          "text": "ros",
+          "start": 0.16,
+          "end": 0.24,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "s",
+          "start": 0.24,
+          "end": 0.32,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "ing",
+          "start": 0.32,
+          "end": 0.48,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " the",
+          "start": 0.48,
+          "end": 0.64,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " g",
+          "start": 0.64,
+          "end": 0.8,
+          "duration": 0.16,
+          "confidence": 0.981
+        },
+        {
+          "text": "ap",
+          "start": 0.8,
+          "end": 0.96,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " is",
+          "start": 0.96,
+          "end": 1.12,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " a",
+          "start": 1.12,
+          "end": 1.28,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " c",
+          "start": 1.28,
+          "end": 1.44,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "able",
+          "start": 1.44,
+          "end": 1.68,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " f",
+          "start": 1.68,
+          "end": 1.84,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "old",
+          "start": 1.84,
+          "end": 2.0,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ed",
+          "start": 2.0,
+          "end": 2.16,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " like",
+          "start": 2.16,
+          "end": 2.32,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " an",
+          "start": 2.32,
+          "end": 2.56,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " acc",
+          "start": 2.56,
+          "end": 2.88,
+          "duration": 0.32,
+          "confidence": 1.0
+        },
+        {
+          "text": "ord",
+          "start": 2.88,
+          "end": 3.12,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "ion",
+          "start": 3.12,
+          "end": 3.36,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": ".",
+          "start": 3.36,
+          "end": 3.6,
+          "duration": 0.24,
+          "confidence": 0.991
+        }
+      ]
+    },
+    {
+      "text": " It carries power and data between the two halves, and it flexes every single time you open the phone.",
+      "start": 3.6,
+      "end": 10.0,
+      "duration": 6.4,
+      "confidence": 0.998,
+      "tokens": [
+        {
+          "text": " It",
+          "start": 3.6,
+          "end": 3.76,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " car",
+          "start": 3.76,
+          "end": 3.92,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "ri",
+          "start": 3.92,
+          "end": 4.08,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "es",
+          "start": 4.08,
+          "end": 4.32,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " po",
+          "start": 4.32,
+          "end": 4.48,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "wer",
+          "start": 4.48,
+          "end": 4.72,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " and",
+          "start": 4.72,
+          "end": 4.88,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " dat",
+          "start": 4.88,
+          "end": 5.04,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "a",
+          "start": 5.04,
+          "end": 5.2,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " bet",
+          "start": 5.2,
+          "end": 5.28,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "we",
+          "start": 5.28,
+          "end": 5.44,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "en",
+          "start": 5.44,
+          "end": 5.52,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": " the",
+          "start": 5.52,
+          "end": 5.76,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " two",
+          "start": 5.76,
+          "end": 6.0,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " hal",
+          "start": 6.0,
+          "end": 6.32,
+          "duration": 0.32,
+          "confidence": 1.0
+        },
+        {
+          "text": "ves",
+          "start": 6.32,
+          "end": 6.48,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": ",",
+          "start": 6.48,
+          "end": 6.64,
+          "duration": 0.16,
+          "confidence": 0.934
+        },
+        {
+          "text": " and",
+          "start": 6.64,
+          "end": 6.8,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " it",
+          "start": 6.8,
+          "end": 7.04,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " f",
+          "start": 7.04,
+          "end": 7.2,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "lex",
+          "start": 7.2,
+          "end": 7.44,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "es",
+          "start": 7.44,
+          "end": 7.68,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " ever",
+          "start": 7.68,
+          "end": 7.92,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "y",
+          "start": 7.92,
+          "end": 8.08,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " sing",
+          "start": 8.08,
+          "end": 8.32,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "le",
+          "start": 8.32,
+          "end": 8.56,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " time",
+          "start": 8.56,
+          "end": 8.8,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " you",
+          "start": 8.8,
+          "end": 9.04,
+          "duration": 0.24,
+          "confidence": 1.0
+        },
+        {
+          "text": " op",
+          "start": 9.04,
+          "end": 9.2,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "en",
+          "start": 9.2,
+          "end": 9.36,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " the",
+          "start": 9.36,
+          "end": 9.52,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": " p",
+          "start": 9.52,
+          "end": 9.6,
+          "duration": 0.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "h",
+          "start": 9.6,
+          "end": 9.76,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "one",
+          "start": 9.76,
+          "end": 9.92,
+          "duration": 0.16,
+          "confidence": 1.0
+        },
+        {
+          "text": ".",
+          "start": 9.92,
+          "end": 10.0,
+          "duration": 0.08,
+          "confidence": 0.999
+        }
+      ]
+    }
+  ]
+}

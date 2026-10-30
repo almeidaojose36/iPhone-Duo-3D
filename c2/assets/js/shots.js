@@ -83,14 +83,17 @@ export async function init(el) {
 
   // ---------------------------------------------------------------- teardrop loop inside the closed phone's spine
   const S_PH = 1.6 / 166;
+  const TD_IN = 4; // mm from the end of the phone to the loop's cut face
+  const TD_UP = 4; // mm the whole loop sits up inside the spine, so its curve stays within the hinge
   const loop = (() => {
     // screen faces sit 0.53 mm either side of the fold plane; the loop bulges into the spine cavity below
     const half = [[0.53, 12], [0.53, 5.4], [1.1, 4.3], [1.75, 3.2], [1.925, 2.1], [1.55, 1.15], [0.8, 0.75], [0, 0.65]];
     const pts = half.map(([x, y]) => [-x, y]).concat(half.slice(0, -1).reverse().map(([x, y]) => [x, y]));
-    const curve = new THREE.CatmullRomCurve3(pts.map(([x, y]) => V(x * S_PH, y * S_PH, 0)), false, 'centripetal');
+    const curve = new THREE.CatmullRomCurve3(pts.map(([x, y]) => V(x * S_PH, (y + TD_UP) * S_PH, 0)), false, 'centripetal');
     const cp = curve.getPoints(90);
-    // a short section at the near end (the cut face), plus a bright outline of the profile
-    const Z0 = (117.8 / 2 - 16) * S_PH, Z1 = (117.8 / 2 - 1.5) * S_PH;
+    // a short section at the near end (the cut face), plus a bright outline of the profile; the cut face sits
+    // inside the shortened hinge cover, so nothing pokes out past the end of the phone
+    const Z0 = (117.8 / 2 - 18.5) * S_PH, Z1 = (117.8 / 2 - TD_IN) * S_PH;
     const pos = [], idx = [];
     cp.forEach((p) => { pos.push(p.x, p.y, Z0, p.x, p.y, Z1); });
     for (let i = 0; i < cp.length - 1; i++) { const a = i * 2; idx.push(a, a + 2, a + 1, a + 1, a + 2, a + 3); }
@@ -196,8 +199,8 @@ export async function init(el) {
   lab('Flat ends · titanium cover', T.flatEnds - 0.1, T.ip - 0.2, () => topOf(H('End_Caps')), 150, -130, '#dfe9f5');
   lab('Laptop', T.laptop - 0.1, T.tent - 0.4, () => topOf(phone.root), 160, -80, '#9fe6ff');
   lab('Tent', T.tent + 0.2, end('h4') + 0.3, () => topOf(phone.root), 160, -80, '#9fe6ff');
-  lab('Screen loops inside the hinge', T.teardrop - 0.1, T.across - 0.3, () => loop.localToWorld(S_MM(-1.3, 2.4, 20)), -200, -140);
-  lab('Centre support bar', T.support - 0.1, T.drops - 0.3, () => topOf(bar), 160, -140);
+  lab('Screen loops inside the hinge', T.teardrop - 0.1, T.across - 0.3, () => loop.localToWorld(S_MM(-1.3, 2.4 + TD_UP, 20)), -200, -140);
+  lab('Center support bar', T.support - 0.1, T.drops - 0.3, () => topOf(bar), 160, -140);
   lab('Drops to make room', T.drops - 0.1, end('h6') + 0.3, () => centreOf(bar), -180, 140, '#9fe6ff');
   lab('Accordion flex cable', T.accordion - 0.1, T.power - 0.2, () => topOf(flex), 160, -140, '#ffc56e');
   lab('Power + data between the halves', T.power - 0.1, end('h7') + 0.3, () => topOf(flex), 160, -140, '#ffc56e');
@@ -251,7 +254,7 @@ export async function init(el) {
   rig.set(1);
   phone.root.updateWorldMatrix(true, true);
   { const b = new THREE.Box3().setFromObject(phone.root); phone.root.position.y += 0.02 - b.min.y; phone.root.updateWorldMatrix(true, true); }
-  const tdEnd = loop.localToWorld(S_MM(0, 3.2, 117.8 / 2 - 1.5));
+  const tdEnd = loop.localToWorld(S_MM(0, 3.2 + TD_UP, 117.8 / 2 - TD_IN));
   rig.set(0);
   const ki = camKeys.findIndex((k) => k.t === T.teardrop + 0.2);
   camKeys[ki] = { t: T.teardrop + 0.2, pos: [tdEnd.x + 0.3, tdEnd.y + 0.45, tdEnd.z + 4.6], look: [tdEnd.x, tdEnd.y, tdEnd.z], fov: 30 };

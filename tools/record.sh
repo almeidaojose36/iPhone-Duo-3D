@@ -1,6 +1,7 @@
 #!/bin/zsh
 # Record (or re-record) narration for a chapter: record.sh <chapter> [beat ids...]
-# Kokoro am_michael at 1.03 -> normalize to -17 LUFS -> parakeet word timings.
+# Kokoro am_michael at 1.03 -> normalize to -17 LUFS -> parakeet word timings (parakeet-mlx on a Mac,
+# tools/parakeet_onnx.py elsewhere).
 cd "${0:A:h}/../$1" || exit 1
 shift
 PY=~/.venvs/kokoro-hf/bin/python
@@ -14,5 +15,9 @@ for b in $ids; do
   g=$(python3 -c "print(round(-17-($I),2))")
   ffmpeg -v error -y -i $w -af "volume=${g}dB,alimiter=limit=0.84:level=false:attack=1:release=50" -ar 48000 -ac 1 -c:a pcm_s16le $n
 done
-~/.local/bin/parakeet-mlx $(for b in $ids; do echo assets/vo/norm/$b.wav; done) --output-dir assets/vo/tr --output-format json >/dev/null 2>&1
+if [ -x ~/.local/bin/parakeet-mlx ]; then
+  ~/.local/bin/parakeet-mlx $(for b in $ids; do echo assets/vo/norm/$b.wav; done) --output-dir assets/vo/tr --output-format json >/dev/null 2>&1
+else  # Linux: same model through sherpa-onnx
+  $PY ../tools/parakeet_onnx.py assets/vo/tr $(for b in $ids; do echo assets/vo/norm/$b.wav; done) >/dev/null 2>&1
+fi
 for b in $ids; do echo "  $b: $(python3 -c "import json;print(json.load(open('assets/vo/tr/$b.json'))['text'])")"; done

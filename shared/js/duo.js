@@ -58,6 +58,9 @@ export async function loadDuo(stage, names) {
           mt.envMapIntensity = Math.max(mt.envMapIntensity || 1, 1.4);
           mt.needsUpdate = true;
         }
+        // the hinge cover runs into the rounded inner corners of the frame halves; stop it 2 mm short so its
+        // ends never show past the frame (they light up white when the spine glows)
+        if (o.isMesh && o.name === 'Titanium_Hinge_Cover') o.scale.z *= 0.965;
       });
     })
   );

@@ -30,6 +30,7 @@ The repository includes all eight chapter projects, narration, music, renders, t
 ## Re-doing things
 
 - **Edit narration:** change `script.md`, run `python3 tools/split_script.py`, then `tools/record.sh cN <beat ids>`, then in the chapter folder `python3 ../tools/make_vo_js.py 1.4` (c1 uses `1.2 f1:4.5`) and `python3 ../tools/build_index.py`. Visuals retime themselves.
+- **On Linux** (e.g. a cloud session): `record.sh` uses `tools/parakeet_onnx.py` when parakeet-mlx is missing. Setup: a venv at `~/.venvs/kokoro-hf` with `kokoro-onnx soundfile sherpa-onnx numpy`; the Kokoro files (`kokoro-v1.0.onnx`, `voices-v1.0.bin`) from the thewh1teagle/kokoro-onnx GitHub release `model-files-v1.0` in `~/.cache/hyperframes/tts/models` and `voices`; and `sherpa-onnx-nemo-parakeet-tdt-0.6b-v2-int8` from the k2-fsa/sherpa-onnx release `asr-models` in `~/.cache/parakeet`. Rendering works with software WebGL, only slower.
 - **Check frames:** in a chapter folder, `npx --yes hyperframes@0.8.193 snapshot . --at 5,20,40 --no-end --describe false -o renders/snap`.
 - **Review render (1080p30):** `tools/render_reviews.sh` (skips chapters that already have `renders/review_cN.mp4`; delete one to re-render it).
 - **Final 4K60:** per chapter `npx --yes hyperframes@0.8.193 render . -f 60 --resolution 4k --quality delivery -o ../chapters_4k/cN.mp4`, then `python3 tools/assemble.py 4k`. Needs roughly 6–8 GB free.

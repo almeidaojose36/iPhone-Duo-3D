@@ -20,7 +20,7 @@ export async function init(el) {
   // ---------------------------------------------------------------- word times
   const T = {
     thick: at('o1', 'thick'), folds: at('o1', 'folds'),
-    hinge0: at('o2', 'hinge'), screen0: at('o2', 'screen'), battery0: at('o2', 'battery'), two0: at('o2', 'two'), open0: at('o2', 'take'), apart: at('o2', 'apart'),
+    hinge0: at('o2', 'hinge'), screen0: at('o2', 'screen'), battery0: at('o2', 'batteries'), two0: at('o2', 'two'), open0: at('o2', 'take'), apart: at('o2', 'apart'),
     duo: at('f1', 'duo'), hand: at('f1', 'hand'), open1: at('f1', 'open'), inch: at('f1', '7.6'), largest: at('f1', 'largest'),
     halves: at('f2', 'halves'), mm: at('f2', 'mm'), titanium: at('f2', 'titanium'), fit: at('f2', 'fit'),
     battery: at('f3', 'battery'), cameras: at('f3', 'cameras'), outer: at('f3', 'outer'), hinge: at('f3', 'hinge'),
@@ -47,8 +47,17 @@ export async function init(el) {
   };
   // lift (cm) so exploded parts clear the floor, and the flip to show the back in f3
   const lift = (t) => 7.5 * (prog(t, T.open0 + 0.6, T.apart - 0.1) - prog(t, TITLE1 - 3.6, TITLE1 - 2.5))
-    + 6 * (prog(t, start('f3') - 0.2, start('f3') + 1.2) - prog(t, end('fx') - 0.2, end('fx') + 1.0))
+    + 6 * (prog(t, start('f3') - 0.2, start('f3') + 1.2) - prog(t, end('fx') - 0.2, end('fx') + 1.0)) - settle(t)
     + 7.5 * (prog(t, T.dozens - 0.8, T.dozens + 0.3) - prog(t, T.starts - 1.2, T.starts + 0.2));
+  // the flipped phone (camera bar up) settles to just above the floor while the comparison card is up, so it
+  // doesn't hover over a big shadow; it rises again in time to flip back
+  const qFlip = new THREE.Quaternion().setFromAxisAngle(V(0, 0, 1), Math.PI);
+  rig.place(V(0, yOpen, 0), qFlip);
+  rig.set(0);
+  phone.root.updateWorldMatrix(true, true);
+  const restFlip = 0.05 - new THREE.Box3().setFromObject(phone.root).min.y;
+  const DROP = 6 - restFlip;
+  const settle = (t) => DROP * (prog(t, start('fx') - 0.4, T.regular + 0.8) - prog(t, T.a20x - 1.6, T.a20x - 0.4));
   const flipA = (t) => Math.PI * (prog(t, start('f3') + 0.1, start('f3') + 1.6) - prog(t, T.a20x - 0.4, T.a20x + 1.0));
   const expl = (t) => 1.35 * (prog(t, T.apart - 0.3, T.apart + 1.3) - prog(t, TITLE1 - 3.6, TITLE1 - 2.6))
     + 1.35 * (prog(t, T.dozens, T.dozens + 1.4) - prog(t, T.starts - 1.4, T.starts));
@@ -90,10 +99,10 @@ export async function init(el) {
     orb(T.cameras + 0.4, [-5, 6.5, -2], 24, -20, 46, 32),
     orb(T.outer + 0.4, [5, 6.5, 0], 27, 18, 50, 32),
     orb(T.hinge + 0.3, [0, 6.5, 0], 30, 4, 58, 33),
-    orbL(T.faceid + 0.3, [6, 6.5, -1], 30, 40, 22, 32, 7),
-    orbL(T.volume + 0.4, [5, 6.5, -6], 26, 160, 30, 32, 6),
-    orbL(T.dshape + 0.5, [-4, 6.5, 0], 32, 10, 62, 32, 8),
-    orbL(T.usbc + 0.4, [-4, 6, 5], 26, -10, 24, 32, 6),
+    orbL(T.faceid + 0.3, [6, 6.5 - DROP, -1], 30, 40, 22, 32, 7),
+    orbL(T.volume + 0.4, [5, 6.5 - DROP, -6], 26, 160, 30, 32, 6),
+    orbL(T.dshape + 0.5, [-4, 6.5 - DROP, 0], 32, 10, 62, 32, 8),
+    orbL(T.usbc + 0.4, [-4, 6 - DROP, 5], 26, -10, 24, 32, 6),
     orb(start('f4') + 0.6, [0, 2, 0], 36, -22, 24, 33),
     orb(T.dozens + 1.2, [0, 8.5, 0], 50, -16, 22, 34),
     orb(T.waking + 0.6, [0, 6.5, 0], 44, 10, 26, 34),

@@ -11,7 +11,7 @@ def cues(at, start, end, LAST):
     a(at('o1', 'folds'), 'whoosh', 0.26)
     a(at('o1', 'folds') + 1.6, 'click', 0.3)
     a(at('o2', 'hinge'), 'click-soft', 0.2)
-    a(at('o2', 'battery'), 'glitch-3', 0.1)
+    a(at('o2', 'batteries'), 'glitch-3', 0.1)
     a(at('o2', 'take'), 'whoosh', 0.26)
     a(at('o2', 'apart') - 0.3, 'impact-bass-1', 0.3)
     a(end('o2') + 0.2, 'whoosh-cinematic', 0.22)

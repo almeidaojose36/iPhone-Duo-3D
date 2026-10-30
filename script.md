@@ -19,7 +19,7 @@ Pronunciation (voice only): A20 → "Ay twenty", OLED → "oh-led", NAND → "na
 
 **[o1]** This phone is five point two millimeters thick. Thinner than any iPhone before it. And it folds in half.
 
-**[o2]** Inside, there's a hinge with more than a hundred parts, a screen built from more than ten layers, and not one battery, but two. So let's take it apart. Every part, every layer, all the way down to the atoms.
+**[o2]** To make glass bend without breaking, and carry power and heat across a moving joint, it takes a hinge with over a hundred parts, a ten-layer screen, and two separate batteries. So let's take it apart. Every part, every layer, all the way down to the atoms.
 
 ## 1 · The fold  (project `c1`)
 

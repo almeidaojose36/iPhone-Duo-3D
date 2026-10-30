@@ -81,7 +81,7 @@ export async function init(el) {
   lab('Ultra-thin glass · below the panel', T.another - 0.1, end('dg') + 0.2, edge('UTG_Lower'), 140, -110, '#bfe9ff');
   lab('Foam cushion', T.foam - 0.1, T.support - 0.2, edge('Cushion_Layer'), 140, -110, '#dfe9f5');
   lab('Touch sensor · metal mesh', T.touch - 0.1, T.polarizer - 0.3, edge('Touch_Sensor'), 140, -110);
-  lab('Colour filters + black grid', T.color - 0.2, T.lightsrc - 0.3, edge('Colour_Filter_Black_Matrix'), 140, -110);
+  lab('Color filters + black grid', T.color - 0.2, T.lightsrc - 0.3, edge('Colour_Filter_Black_Matrix'), 140, -110);
   lab('Organic LEDs (RGB)', T.lightsrc - 0.1, T.zoom - 0.2, edge('OLED_Emitters'), -170, -150);
   lab('Thin-film transistors', T.transistors - 0.1, end('d8') + 0.2, edge('TFT_Backplane'), 140, -110);
   lab('Under-display camera', T.camera, end('d9'), () => D('Under_Display_Camera_Lens').localToWorld(V(0, 0, 0)), 150, -140);
@@ -289,7 +289,7 @@ function drawInset(cv, kind, t, o = {}) {
     }
   }
   g.restore();
-  const titles = { bend: 'BENDING', bumps: 'NANO-TEXTURE', touch: 'TOUCH FIELD', filters: 'COLOUR FILTERS', pixels: 'SUBPIXELS', udc: 'PIXEL GAPS' };
+  const titles = { bend: 'BENDING', bumps: 'NANO-TEXTURE', touch: 'TOUCH FIELD', filters: 'COLOR FILTERS', pixels: 'SUBPIXELS', udc: 'PIXEL GAPS' };
   g.fillStyle = '#e9f7ff';
   g.font = '600 30px Saira, sans-serif';
   g.fillText(titles[kind], 30, 38);

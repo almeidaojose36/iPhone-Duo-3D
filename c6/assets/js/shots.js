@@ -49,6 +49,15 @@ export async function init(el) {
   const sensorPeek = (t) => 0.55 * (prog(t, T.shifts - 0.6, T.shifts) - prog(t, end('k2'), end('k2') + 0.5));
   const mainSensor = C('Main_Image_Sensor'), msBase = mainSensor.position.clone();
 
+  // the dual module starts 1:1 inside its housing in the phone: same place, same lens order (the studio model
+  // is mirrored relative to the phone, so it starts turned half a turn about Y and turns back as it rises)
+  const housing = centreOf(P('Rear_Dual_Camera'));
+  const ROT0 = ROT.clone().multiply(new THREE.Quaternion().setFromAxisAngle(V(0, 1, 0), Math.PI));
+  cameras.root.position.set(0, 0, 0);
+  cameras.root.quaternion.copy(ROT0);
+  S.scene.updateMatrixWorld(true);
+  const START = housing.clone().sub(centreOf(C('Rear_Dual_Camera'))).add(V(0, -0.15, 0));
+
   // light rays into the main lens, onto its sensor (built once, at the lifted-lens pose of k5)
   cameras.root.position.copy(ROW);
   cameras.root.quaternion.copy(ROT);
@@ -85,7 +94,7 @@ export async function init(el) {
   const ml = (text, t0, t1, n, dx, dy, color) => mlabels.add({ text, t0, t1, anchor: px.anchors[n], dx, dy, color });
   ml('Photodiodes (light wells)', T.photodiodes - 0.2, T.lens - 0.1, 'diode', 160, 120, '#9fe6ff');
   ml('Microlens', T.lens - 0.1, end('k6') - 0.2, 'lens', -160, -130, '#dfe9f5');
-  ml('Colour filter · 2 green : 1 red : 1 blue', T.filter - 0.1, end('k6') - 0.2, 'filter', 160, -130, '#8ff0a8');
+  ml('Color filter · 2 green : 1 red : 1 blue', T.filter - 0.1, end('k6') - 0.2, 'filter', 160, -130, '#8ff0a8');
   ml('Light knocks electrons loose', T.hits, T.counts - 0.2, 'diode', 160, 120, '#5fd8ff');
   ml('Brighter light, more electrons', T.brighter, end('k7') - 0.4, 'filter', 160, -130, '#fff1c9');
   const loupeK = keys([[0, 0], [T.zoom2 - 0.4, 0], [T.zoom2 + 0.4, 1, 'out'], [T.zoom2 + 1.0, 1], [T.zoom2 + 2.0, 2, 'in'], [end('k7') - 0.9, 2], [end('k7') + 0.1, 0, 'in']]);
@@ -126,11 +135,11 @@ export async function init(el) {
   return (t) => {
     // ---- modules rise from the camera bar into the row
     const u = rise(t);
-    const startP = V(bar.x, bar.y, bar.z);
-    const p = startP.clone().lerp(ROW, u);
-    p.y += Math.sin(Math.PI * u) * 2;
+    // straight up out of the housing first, then across to the row while turning to face the camera
+    const up = prog(u, 0, 0.3), across = prog(u, 0.25, 1, ease.inOut);
+    const p = START.clone().add(V(0, 2.2 * up, 0)).lerp(ROW, across);
     cameras.root.position.copy(p);
-    cameras.root.quaternion.copy(ROT);
+    cameras.root.quaternion.copy(ROT0).slerp(ROT, across);
     looks.opacity(cameras.root, prog(t, T.four - 0.4, T.four + 0.2));
     cameras.root.visible = t > T.four - 0.45 && t < T.tricks + 0.4;
     if (t > T.tricks - 0.8) looks.opacity(cameras.root, 1 - prog(t, T.tricks - 0.8, T.tricks));
@@ -199,7 +208,7 @@ export async function init(el) {
     el.fade.style.opacity = Math.max(1 - prog(t, 0.0, 0.8), prog(t, LAST + 2.2, LAST + 3.1));
     el.endcard.style.opacity = prog(t, LAST + 2.3, LAST + 3.0);
     const n = el.endcard.querySelector('#stage-endname');
-    if (n && n.textContent !== 'THE VERDICT') n.textContent = 'THE VERDICT';
+    if (n && n.textContent !== 'SOUND & TOUCH') n.textContent = 'SOUND & TOUCH';
     el.scale.style.opacity = 0;
     el.loupe.style.opacity = 0;
   };
